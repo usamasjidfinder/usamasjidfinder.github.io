@@ -1,0 +1,7895 @@
+{
+"f:3300 Plymouth Blvd, Plymouth, MN 55447": [
+{
+"place_id": 397905186,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 904878431,
+"lat": "45.0178960",
+"lon": "-93.4731283",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "3300, Plymouth Boulevard, Plymouth, Hennepin County, Minnesota, 55447, United States",
+"boundingbox": [
+"45.0178460",
+"45.0179460",
+"-93.4731783",
+"-93.4730783"
+]
+}
+],
+"f:12175 Aberdeen St NE, Blaine, MN 55449": [
+{
+"place_id": 404476624,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 18003692,
+"lat": "45.1913742",
+"lon": "-93.2331225",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "12175, Aberdeen Street Northeast, Johnsville, Blaine, Anoka County, Minnesota, 55449, United States",
+"boundingbox": [
+"45.1913242",
+"45.1914242",
+"-93.2331725",
+"-93.2330725"
+]
+}
+],
+"f:1608 Como Ave, St. Paul, MN 55108": [
+{
+"place_id": 406211609,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 130819061,
+"lat": "44.9772197",
+"lon": "-93.1681611",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "1608, Como Avenue, Como, Como Park, Saint Paul, Ramsey County, Minnesota, 55108, United States",
+"boundingbox": [
+"44.9771697",
+"44.9772697",
+"-93.1682111",
+"-93.1681111"
+]
+}
+],
+"f:10186 Lancaster Lane N, Maple Grove, MN 55369": [
+{
+"place_id": 401486111,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 6042566,
+"lat": "45.1391896",
+"lon": "-93.4039563",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "10186, Lancaster Lane North, Maple Grove, Hennepin County, Minnesota, 55369, United States",
+"boundingbox": [
+"45.1391396",
+"45.1392396",
+"-93.4040063",
+"-93.4039063"
+]
+}
+],
+"f:1313 Coon Rapids Blvd, Coon Rapids, MN 55433": [
+{
+"place_id": 397982287,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 762481660,
+"lat": "45.1518142",
+"lon": "-93.3000455",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "1313, Coon Rapids Boulevard Northwest, Port Riverwalk, Coon Rapids, Anoka County, Minnesota, 55433, United States",
+"boundingbox": [
+"45.1517642",
+"45.1518642",
+"-93.3000955",
+"-93.2999955"
+]
+}
+],
+"f:8910 Old Cedar Ave S, Bloomington, MN 55425": [
+{
+"place_id": 401537330,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 169913172,
+"lat": "44.8422813",
+"lon": "-93.2479854",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "8910, Old Cedar Avenue South, Bloomington, Hennepin County, Minnesota, 55425, United States",
+"boundingbox": [
+"44.8422313",
+"44.8423313",
+"-93.2480354",
+"-93.2479354"
+]
+}
+],
+"f:415 N Chestnut St, Chaska, MN 55318": [
+{
+"place_id": 386889911,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 86924974,
+"lat": "44.7875130",
+"lon": "-93.6012836",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "415, North Chestnut Street, Chaska, Carver County, Minnesota, 55318, United States",
+"boundingbox": [
+"44.7874630",
+"44.7875630",
+"-93.6013336",
+"-93.6012336"
+]
+}
+],
+"f:8670 210th St W, Lakeville, MN 55044": [
+{
+"place_id": 373759140,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 527118090,
+"lat": "44.6447914",
+"lon": "-93.2406489",
+"category": "office",
+"type": "school",
+"place_rank": 30,
+"importance": 5.9135576409506635e-05,
+"addresstype": "office",
+"name": "Lakeville Area Public School Distric Office",
+"display_name": "Lakeville Area Public School Distric Office, 8670, 210th Street West, Central Lakeville, Lakeville, Dakota County, Minnesota, 55044, United States",
+"boundingbox": [
+"44.6446755",
+"44.6449663",
+"-93.2407761",
+"-93.2405554"
+]
+}
+],
+"f:12585 Hudson Rd S, Afton, MN 55001": [
+{
+"place_id": 398394148,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 18301658,
+"lat": "44.9459207",
+"lon": "-92.8522553",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "12585, Hudson Road South, Afton, Washington County, Minnesota, 55001, United States",
+"boundingbox": [
+"44.9458707",
+"44.9459707",
+"-92.8523053",
+"-92.8522053"
+]
+}
+],
+"f:1401 Gardena Ave NE, Fridley, MN 55432": [
+{
+"place_id": 397607271,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 637515928,
+"lat": "45.0749200",
+"lon": "-93.2351230",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "1401, Gardena Avenue Northeast, Fridley, Anoka County, Minnesota, 55432, United States",
+"boundingbox": [
+"45.0748700",
+"45.0749700",
+"-93.2351730",
+"-93.2350730"
+]
+}
+],
+"f:375 5th Ave S, St. Cloud, MN 56301": [
+{
+"place_id": 384191291,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 826582266,
+"lat": "45.5563513",
+"lon": "-94.1547637",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "375, 5th Avenue South, Saint Cloud, Stearns County, Minnesota, 56301, United States",
+"boundingbox": [
+"45.5563013",
+"45.5564013",
+"-94.1548137",
+"-94.1547137"
+]
+}
+],
+"f:145 W Winona St, Duluth, MN 55803": [
+{
+"place_id": 398634959,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 18242513,
+"lat": "46.8469790",
+"lon": "-92.0859429",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "145, West Winona Street, Woodland, East Duluth, Duluth, Saint Louis County, Minnesota, 55803, United States",
+"boundingbox": [
+"46.8469290",
+"46.8470290",
+"-92.0859929",
+"-92.0858929"
+]
+}
+],
+"f:329 N Broad St, Mankato, MN 56001": [
+{
+"place_id": 398456099,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 18021179,
+"lat": "44.1683026",
+"lon": "-93.9979244",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "329, North Broad Street, Mankato, Blue Earth County, Minnesota, 56001, United States",
+"boundingbox": [
+"44.1682526",
+"44.1683526",
+"-93.9979744",
+"-93.9978744"
+]
+}
+],
+"r:44.95574,-93.23656": {
+"place_id": 422950227,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10134135,
+"lat": "44.9599138",
+"lon": "-93.2324361",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.3268260957230098,
+"addresstype": "neighbourhood",
+"name": "Seward",
+"display_name": "Seward, Longfellow, Minneapolis, Hennepin County, Minnesota, United States",
+"address": {
+"neighbourhood": "Seward",
+"suburb": "Longfellow",
+"city": "Minneapolis",
+"county": "Hennepin County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"44.9518311",
+"44.9663301",
+"-93.2522275",
+"-93.2126946"
+]
+},
+"r:45.11153,-93.30263": {
+"place_id": 372338773,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 136686,
+"lat": "45.1004807",
+"lon": "-93.3443585",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5285884133840678,
+"addresstype": "town",
+"name": "Brooklyn Park",
+"display_name": "Brooklyn Park, Hennepin County, Minnesota, United States",
+"address": {
+"town": "Brooklyn Park",
+"county": "Hennepin County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"45.0655977",
+"45.1520363",
+"-93.4023859",
+"-93.2783270"
+]
+},
+"r:44.99851,-93.25449": {
+"place_id": 374969180,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 20599858,
+"lat": "44.9949258",
+"lon": "-93.2526518",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.31568281446101826,
+"addresstype": "neighbourhood",
+"name": "Saint Anthony East",
+"display_name": "Saint Anthony East, Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+"address": {
+"neighbourhood": "Saint Anthony East",
+"suburb": "Northeast",
+"city": "Minneapolis",
+"county": "Hennepin County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"44.9909730",
+"44.9987167",
+"-93.2575407",
+"-93.2473164"
+]
+},
+"r:44.95423,-93.12579": {
+"place_id": 373712479,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 13244309,
+"lat": "44.9485460",
+"lon": "-93.1263458",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.21822785325192331,
+"addresstype": "suburb",
+"name": "Summit-University",
+"display_name": "Summit-University, Saint Paul, Ramsey County, Minnesota, United States",
+"address": {
+"suburb": "Summit-University",
+"city": "Saint Paul",
+"county": "Ramsey County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"44.9413249",
+"44.9557980",
+"-93.1466690",
+"-93.1058026"
+]
+},
+"r:44.95545,-93.12032": {
+"place_id": 370726633,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 13244309,
+"lat": "44.9485460",
+"lon": "-93.1263458",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.21822785325192331,
+"addresstype": "suburb",
+"name": "Summit-University",
+"display_name": "Summit-University, Saint Paul, Ramsey County, Minnesota, United States",
+"address": {
+"suburb": "Summit-University",
+"city": "Saint Paul",
+"county": "Ramsey County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"44.9413249",
+"44.9557980",
+"-93.1466690",
+"-93.1058026"
+]
+},
+"r:44.78496,-93.25559": {
+"place_id": 373696386,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 136578,
+"lat": "44.7670567",
+"lon": "-93.2773887",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.527182184326605,
+"addresstype": "town",
+"name": "Burnsville",
+"display_name": "Burnsville, Dakota County, Minnesota, United States",
+"address": {
+"town": "Burnsville",
+"county": "Dakota County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"44.7174482",
+"44.8290621",
+"-93.3298280",
+"-93.2207564"
+]
+},
+"r:44.87895,-93.41267": {
+"place_id": 373707348,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 136689,
+"lat": "44.8546856",
+"lon": "-93.4707860",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5315289312705939,
+"addresstype": "town",
+"name": "Eden Prairie",
+"display_name": "Eden Prairie, Hennepin County, Minnesota, United States",
+"address": {
+"town": "Eden Prairie",
+"county": "Hennepin County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"44.7985511",
+"44.8922578",
+"-93.5208965",
+"-93.3983730"
+]
+},
+"r:45.00254,-93.03879": {
+"place_id": 373527728,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 151562324,
+"lat": "45.0016323",
+"lon": "-93.0304952",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13339183566033416,
+"addresstype": "hamlet",
+"name": "Gladstone",
+"display_name": "Gladstone, Maplewood, Ramsey County, Minnesota, 55109, United States",
+"address": {
+"hamlet": "Gladstone",
+"town": "Maplewood",
+"county": "Ramsey County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"postcode": "55109",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"44.9816323",
+"45.0216323",
+"-93.0504952",
+"-93.0104952"
+]
+},
+"r:44.75306,-93.10635": {
+"place_id": 373990214,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 136570,
+"lat": "44.7391873",
+"lon": "-93.1261100",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.49795068407774723,
+"addresstype": "town",
+"name": "Rosemount",
+"display_name": "Rosemount, Dakota County, Minnesota, 55068, United States",
+"address": {
+"town": "Rosemount",
+"county": "Dakota County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"postcode": "55068",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"44.7168022",
+"44.7757460",
+"-93.1585398",
+"-92.9742473"
+]
+},
+"r:44.95088,-93.25695": {
+"place_id": 375235939,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 3681491,
+"lat": "44.9549212",
+"lon": "-93.2565890",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.3140788844789178,
+"addresstype": "neighbourhood",
+"name": "Midtown Phillips",
+"display_name": "Midtown Phillips, Phillips, Minneapolis, Hennepin County, Minnesota, United States",
+"address": {
+"neighbourhood": "Midtown Phillips",
+"suburb": "Phillips",
+"city": "Minneapolis",
+"county": "Hennepin County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"44.9483579",
+"44.9591385",
+"-93.2626731",
+"-93.2523769"
+]
+},
+"r:47.93854,-97.02094": {
+"place_id": 432190502,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 137166,
+"lat": "47.9317013",
+"lon": "-97.0175792",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.47320064110768484,
+"addresstype": "town",
+"name": "East Grand Forks",
+"display_name": "East Grand Forks, Polk County, Minnesota, 56721, United States",
+"address": {
+"town": "East Grand Forks",
+"county": "Polk County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"postcode": "56721",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"47.8955124",
+"47.9563523",
+"-97.0556076",
+"-96.9773050"
+]
+},
+"r:45.04262,-93.25798": {
+"place_id": 370886878,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 137871,
+"lat": "45.0460458",
+"lon": "-93.2517802",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.48284509765180594,
+"addresstype": "town",
+"name": "Columbia Heights",
+"display_name": "Columbia Heights, Anoka County, Minnesota, United States",
+"address": {
+"town": "Columbia Heights",
+"county": "Anoka County",
+"state": "Minnesota",
+"ISO3166-2-lvl4": "US-MN",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"45.0355449",
+"45.0644741",
+"-93.2722682",
+"-93.2269525"
+]
+},
+"f:10301 Jefferson Highway, Brooklyn Park, MN 55445": [
+{
+"place_id": 374197026,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1076607022,
+"lat": "45.1084682",
+"lon": "-93.4022140",
+"category": "highway",
+"type": "tertiary",
+"place_rank": 26,
+"importance": 0.053392569619287365,
+"addresstype": "tertiary",
+"name": "Jefferson Highway",
+"display_name": "Jefferson Highway, Brooklyn Park, Hennepin County, Minnesota, 55445, United States",
+"boundingbox": [
+"45.1082148",
+"45.1087467",
+"-93.4022972",
+"-93.4022105"
+]
+}
+],
+"f:6120 Brooklyn Blvd, Brooklyn Center, MN 55429": [
+{
+"place_id": 397863769,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 117011747,
+"lat": "45.0661070",
+"lon": "-93.3263231",
+"category": "place",
+"type": "house",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "place",
+"name": "",
+"display_name": "6120, Brooklyn Boulevard, Brooklyn Center, Hennepin County, Minnesota, 55429, United States",
+"boundingbox": [
+"45.0660570",
+"45.0661570",
+"-93.3263731",
+"-93.3262731"
+]
+}
+],
+"r:37.80300,-122.28520": {
+"place_id": 322949321,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150955389,
+"lat": "37.8116041",
+"lon": "-122.2905628",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.3151525238377993,
+"addresstype": "suburb",
+"name": "West Oakland",
+"display_name": "West Oakland, Oakland, Alameda County, California, 94607, United States",
+"address": {
+"suburb": "West Oakland",
+"city": "Oakland",
+"county": "Alameda County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "94607",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.7916041",
+"37.8316041",
+"-122.3105628",
+"-122.2705628"
+]
+},
+"r:37.93548,-122.36525": {
+"place_id": 323443141,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 114481,
+"lat": "37.9357576",
+"lon": "-122.3477480",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5393208028509572,
+"addresstype": "city",
+"name": "Richmond",
+"display_name": "Richmond, Contra Costa County, California, United States",
+"address": {
+"city": "Richmond",
+"county": "Contra Costa County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.8835693",
+"38.0285668",
+"-122.4414840",
+"-122.2434491"
+]
+},
+"r:38.53935,-121.41745": {
+"place_id": 321754221,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 16347487,
+"lat": "38.5361147",
+"lon": "-121.4188663",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.14673909742885477,
+"addresstype": "suburb",
+"name": "Colonial Manor",
+"display_name": "Colonial Manor, Sacramento, Sacramento County, California, United States",
+"address": {
+"suburb": "Colonial Manor",
+"city": "Sacramento",
+"county": "Sacramento County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.5278925",
+"38.5396080",
+"-121.4276732",
+"-121.4091401"
+]
+},
+"r:37.97659,-121.21800": {
+"place_id": 321844845,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150933557,
+"lat": "37.9638127",
+"lon": "-121.2293895",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.3701845356649174,
+"addresstype": "hamlet",
+"name": "Garden Acres",
+"display_name": "Garden Acres, San Joaquin County, California, 95215, United States",
+"address": {
+"hamlet": "Garden Acres",
+"county": "San Joaquin County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "95215",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.9438127",
+"37.9838127",
+"-121.2493895",
+"-121.2093895"
+]
+},
+"r:33.93752,-117.23559": {
+"place_id": 318015544,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11112117,
+"lat": "33.9375177",
+"lon": "-117.2305791",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5162664225194973,
+"addresstype": "city",
+"name": "Moreno Valley",
+"display_name": "Moreno Valley, Riverside County, California, United States",
+"address": {
+"city": "Moreno Valley",
+"county": "Riverside County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.8586803",
+"33.9878573",
+"-117.2965987",
+"-117.0882030"
+]
+},
+"r:33.96833,-118.10222": {
+"place_id": 316448199,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150937957,
+"lat": "33.9714025",
+"lon": "-118.1134020",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13339072327763787,
+"addresstype": "hamlet",
+"name": "McCampbell",
+"display_name": "McCampbell, Pico Rivera, Los Angeles County, California, 90240, United States",
+"address": {
+"hamlet": "McCampbell",
+"town": "Pico Rivera",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "90240",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.9514025",
+"33.9914025",
+"-118.1334020",
+"-118.0934020"
+]
+},
+"r:33.91250,-118.34417": {
+"place_id": 316570494,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2317585,
+"lat": "33.9128272",
+"lon": "-118.3426122",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5439143961646227,
+"addresstype": "town",
+"name": "Hawthorne",
+"display_name": "Hawthorne, Los Angeles County, California, 90250, United States",
+"address": {
+"town": "Hawthorne",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "90250",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.8934850",
+"33.9344784",
+"-118.3787556",
+"-118.3133933"
+]
+},
+"r:33.92139,-118.35389": {
+"place_id": 313201301,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2317585,
+"lat": "33.9128272",
+"lon": "-118.3426122",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5439143961646227,
+"addresstype": "town",
+"name": "Hawthorne",
+"display_name": "Hawthorne, Los Angeles County, California, 90250, United States",
+"address": {
+"town": "Hawthorne",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "90250",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.8934850",
+"33.9344784",
+"-118.3787556",
+"-118.3133933"
+]
+},
+"r:34.57972,-118.10861": {
+"place_id": 320652758,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 112113,
+"lat": "34.5793131",
+"lon": "-118.1171100",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.550148951022075,
+"addresstype": "city",
+"name": "Palmdale",
+"display_name": "Palmdale, Los Angeles County, California, United States",
+"address": {
+"city": "Palmdale",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.5098130",
+"34.6610448",
+"-118.2871070",
+"-117.9160022"
+]
+},
+"r:32.70666,-117.12882": {
+"place_id": 319648021,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150940306,
+"lat": "32.7086656",
+"lon": "-117.1339248",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.3575511715318858,
+"addresstype": "quarter",
+"name": "Grant Hill",
+"display_name": "Grant Hill, Golden Hill, San Diego, San Diego County, California, 92102, United States",
+"address": {
+"quarter": "Grant Hill",
+"suburb": "Golden Hill",
+"city": "San Diego",
+"county": "San Diego County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "92102",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"32.6986656",
+"32.7186656",
+"-117.1439248",
+"-117.1239248"
+]
+},
+"r:32.86505,-116.95679": {
+"place_id": 318408379,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150966320,
+"lat": "32.8797708",
+"lon": "-116.9466942",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.4048680426709322,
+"addresstype": "village",
+"name": "Eucalyptus Hills",
+"display_name": "Eucalyptus Hills, San Diego County, California, 92040, United States",
+"address": {
+"village": "Eucalyptus Hills",
+"county": "San Diego County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "92040",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"32.8597708",
+"32.8997708",
+"-116.9666942",
+"-116.9266942"
+]
+},
+"r:34.12420,-117.88960": {
+"place_id": 320138303,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 112047,
+"lat": "34.1338751",
+"lon": "-117.9056046",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5308209186003314,
+"addresstype": "town",
+"name": "Azusa",
+"display_name": "Azusa, Los Angeles County, California, United States",
+"address": {
+"town": "Azusa",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.1066704",
+"34.1685298",
+"-117.9442736",
+"-117.8813064"
+]
+},
+"r:33.97886,-117.33443": {
+"place_id": 318089238,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 19913611,
+"lat": "33.9820425",
+"lon": "-117.3322180",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.13339968337529562,
+"addresstype": "neighbourhood",
+"name": "University",
+"display_name": "University, Riverside, Riverside County, California, United States",
+"address": {
+"neighbourhood": "University",
+"city": "Riverside",
+"county": "Riverside County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.9607492",
+"33.9973887",
+"-117.3485375",
+"-117.3047871"
+]
+},
+"r:37.40961,-121.99063": {
+"place_id": 324264607,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 112145,
+"lat": "37.3688301",
+"lon": "-122.0363490",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5538546567687813,
+"addresstype": "city",
+"name": "Sunnyvale",
+"display_name": "Sunnyvale, Santa Clara County, California, United States",
+"address": {
+"city": "Sunnyvale",
+"county": "Santa Clara County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.3302233",
+"37.4637397",
+"-122.0651995",
+"-121.9824624"
+]
+},
+"r:34.13987,-117.98106": {
+"place_id": 319893774,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 12041143,
+"lat": "34.1483499",
+"lon": "-118.0014517",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5287722895951126,
+"addresstype": "town",
+"name": "Monrovia",
+"display_name": "Monrovia, Los Angeles County, California, United States",
+"address": {
+"town": "Monrovia",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.1029020",
+"34.1941893",
+"-118.0219060",
+"-117.9422911"
+]
+},
+"r:36.76819,-121.76037": {
+"place_id": 334644663,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150964361,
+"lat": "36.7657904",
+"lon": "-121.7580050",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.41615108812713025,
+"addresstype": "village",
+"name": "Castroville",
+"display_name": "Castroville, Monterey County, California, 95012, United States",
+"address": {
+"village": "Castroville",
+"county": "Monterey County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "95012",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"36.7457904",
+"36.7857904",
+"-121.7780050",
+"-121.7380050"
+]
+},
+"r:34.01095,-118.25623": {
+"place_id": 320168053,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1773954300,
+"lat": "34.0177372",
+"lon": "-118.2716002",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.3479646975901272,
+"addresstype": "quarter",
+"name": "Jefferson",
+"display_name": "Jefferson, Historic South-Central, Los Angeles, Los Angeles County, California, 90011, United States",
+"address": {
+"quarter": "Jefferson",
+"suburb": "Historic South-Central",
+"city": "Los Angeles",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "90011",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.0077372",
+"34.0277372",
+"-118.2816002",
+"-118.2616002"
+]
+},
+"r:33.87530,-117.52426": {
+"place_id": 416535230,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150935197,
+"lat": "33.8435740",
+"lon": "-117.5263589",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.44297043555740573,
+"addresstype": "village",
+"name": "El Cerrito",
+"display_name": "El Cerrito, Riverside County, California, 92877, United States",
+"address": {
+"village": "El Cerrito",
+"county": "Riverside County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "92877",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.8235740",
+"33.8635740",
+"-117.5463589",
+"-117.5063589"
+]
+},
+"r:37.52053,-121.94468": {
+"place_id": 319020478,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150943425,
+"lat": "37.5227151",
+"lon": "-121.9716270",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.14673137026016628,
+"addresstype": "suburb",
+"name": "Irvington District",
+"display_name": "Irvington District, Fremont, Alameda County, California, 94538, United States",
+"address": {
+"suburb": "Irvington District",
+"city": "Fremont",
+"county": "Alameda County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "94538",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.5027151",
+"37.5427151",
+"-121.9916270",
+"-121.9516270"
+]
+},
+"r:37.39083,-122.07368": {
+"place_id": 323103186,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1544956,
+"lat": "37.3893889",
+"lon": "-122.0832101",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5677073111844293,
+"addresstype": "city",
+"name": "Mountain View",
+"display_name": "Mountain View, Santa Clara County, California, United States",
+"address": {
+"city": "Mountain View",
+"county": "Santa Clara County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.3542156",
+"37.4710658",
+"-122.1175575",
+"-122.0449574"
+]
+},
+"r:37.56272,-122.01048": {
+"place_id": 320030985,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150939391,
+"lat": "37.5541030",
+"lon": "-121.9991278",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.14673137026016628,
+"addresstype": "suburb",
+"name": "Centerville District",
+"display_name": "Centerville District, Fremont, Alameda County, California, 94536, United States",
+"address": {
+"suburb": "Centerville District",
+"city": "Fremont",
+"county": "Alameda County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "94536",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.5341030",
+"37.5741030",
+"-122.0191278",
+"-121.9791278"
+]
+},
+"r:37.80234,-122.26408": {
+"place_id": 321686373,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 10139029526,
+"lat": "37.8043196",
+"lon": "-122.2711889",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.33935777253266924,
+"addresstype": "suburb",
+"name": "Downtown Oakland",
+"display_name": "Downtown Oakland, Oakland, Alameda County, California, 94612, United States",
+"address": {
+"suburb": "Downtown Oakland",
+"city": "Oakland",
+"county": "Alameda County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "94612",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.7843196",
+"37.8243196",
+"-122.2911889",
+"-122.2511889"
+]
+},
+"r:36.80827,-119.75165": {
+"place_id": 322183740,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 112443,
+"lat": "36.7394421",
+"lon": "-119.7848300",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.644640337248762,
+"addresstype": "city",
+"name": "Fresno",
+"display_name": "Fresno, Fresno County, California, United States",
+"address": {
+"city": "Fresno",
+"county": "Fresno County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"36.6621620",
+"36.9089050",
+"-119.9343970",
+"-119.6505381"
+]
+},
+"r:37.78743,-122.42061": {
+"place_id": 324674515,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 4609282250,
+"lat": "37.7842493",
+"lon": "-122.4139933",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.43249580853699826,
+"addresstype": "quarter",
+"name": "Tenderloin",
+"display_name": "Tenderloin, San Francisco, California, 94102, United States",
+"address": {
+"quarter": "Tenderloin",
+"city": "San Francisco",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "94102",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.7742493",
+"37.7942493",
+"-122.4239933",
+"-122.4039933"
+]
+},
+"r:35.28655,-120.66235": {
+"place_id": 316248691,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 112148,
+"lat": "35.2827525",
+"lon": "-120.6596150",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5569120255654602,
+"addresstype": "city",
+"name": "San Luis Obispo",
+"display_name": "San Luis Obispo, San Luis Obispo County, California, United States",
+"address": {
+"city": "San Luis Obispo",
+"county": "San Luis Obispo County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"35.2330020",
+"35.3119900",
+"-120.7229770",
+"-120.6177728"
+]
+},
+"r:38.54651,-121.75633": {
+"place_id": 321901987,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 10069429592,
+"lat": "38.5558531",
+"lon": "-121.7523202",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.1333884924086366,
+"addresstype": "quarter",
+"name": "Central Davis",
+"display_name": "Central Davis, Davis, Yolo County, California, 95616, United States",
+"address": {
+"quarter": "Central Davis",
+"city": "Davis",
+"county": "Yolo County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "95616",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.5458531",
+"38.5658531",
+"-121.7623202",
+"-121.7423202"
+]
+},
+"r:37.86193,-122.25269": {
+"place_id": 324840009,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2833528,
+"lat": "37.8708393",
+"lon": "-122.2728630",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6603282589544688,
+"addresstype": "city",
+"name": "Berkeley",
+"display_name": "Berkeley, Alameda County, California, United States",
+"address": {
+"city": "Berkeley",
+"county": "Alameda County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.8356877",
+"37.9066896",
+"-122.3686918",
+"-122.2341962"
+]
+},
+"r:37.52053,-121.94469": {
+"place_id": 322057096,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150943425,
+"lat": "37.5227151",
+"lon": "-121.9716270",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.14673137026016628,
+"addresstype": "suburb",
+"name": "Irvington District",
+"display_name": "Irvington District, Fremont, Alameda County, California, 94538, United States",
+"address": {
+"suburb": "Irvington District",
+"city": "Fremont",
+"county": "Alameda County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "94538",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.5027151",
+"37.5427151",
+"-121.9916270",
+"-121.9516270"
+]
+},
+"r:34.17365,-118.64369": {
+"place_id": 318212395,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 18302564,
+"lat": "34.1633370",
+"lon": "-118.6037686",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.13342071488517585,
+"addresstype": "suburb",
+"name": "Woodland Hills-Warner Center Neighborhood Council District",
+"display_name": "Woodland Hills-Warner Center Neighborhood Council District, Los Angeles, Los Angeles County, California, United States",
+"address": {
+"suburb": "Woodland Hills-Warner Center Neighborhood Council District",
+"city": "Los Angeles",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.1324724",
+"34.1937896",
+"-118.6681798",
+"-118.5614062"
+]
+},
+"r:34.01857,-118.29244": {
+"place_id": 320899067,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 7360410739,
+"lat": "34.0271773",
+"lon": "-118.2840429",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.33278388606982795,
+"addresstype": "quarter",
+"name": "University Park",
+"display_name": "University Park, Exposition Park, Los Angeles, Los Angeles County, California, 90089, United States",
+"address": {
+"quarter": "University Park",
+"suburb": "Exposition Park",
+"city": "Los Angeles",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "90089",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.0171773",
+"34.0371773",
+"-118.2940429",
+"-118.2740429"
+]
+},
+"r:34.06864,-118.30697": {
+"place_id": 321187348,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 7304762329,
+"lat": "34.0689734",
+"lon": "-118.3199880",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.32858433646820545,
+"addresstype": "quarter",
+"name": "Windsor Square",
+"display_name": "Windsor Square, Koreatown, Los Angeles, Los Angeles County, California, 90005, United States",
+"address": {
+"quarter": "Windsor Square",
+"suburb": "Koreatown",
+"city": "Los Angeles",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "90005",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.0589734",
+"34.0789734",
+"-118.3299880",
+"-118.3099880"
+]
+},
+"r:34.20186,-118.52580": {
+"place_id": 321806716,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 15339541,
+"lat": "34.2007680",
+"lon": "-118.5356869",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.40182142199856696,
+"addresstype": "suburb",
+"name": "Reseda",
+"display_name": "Reseda, Los Angeles, Los Angeles County, California, United States",
+"address": {
+"suburb": "Reseda",
+"city": "Los Angeles",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.1865516",
+"34.2210285",
+"-118.5623425",
+"-118.5185323"
+]
+},
+"r:34.27858,-118.51652": {
+"place_id": 320373918,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 15339546,
+"lat": "34.3007905",
+"lon": "-118.5096182",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.13342071488517585,
+"addresstype": "suburb",
+"name": "Granada Hills North Neighborhood Council District",
+"display_name": "Granada Hills North Neighborhood Council District, Los Angeles, Los Angeles County, California, United States",
+"address": {
+"suburb": "Granada Hills North Neighborhood Council District",
+"city": "Los Angeles",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.2660017",
+"34.3352188",
+"-118.5470970",
+"-118.4675225"
+]
+},
+"r:34.18629,-118.52972": {
+"place_id": 321564165,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 18284560,
+"lat": "34.1689262",
+"lon": "-118.5365791",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.4775790568334427,
+"addresstype": "suburb",
+"name": "Tarzana Neighborhood Council District",
+"display_name": "Tarzana Neighborhood Council District, Los Angeles, Los Angeles County, California, 91356, United States",
+"address": {
+"suburb": "Tarzana Neighborhood Council District",
+"city": "Los Angeles",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "91356",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.1258111",
+"34.1866099",
+"-118.5708055",
+"-118.5272410"
+]
+},
+"r:34.21369,-118.35975": {
+"place_id": 321805953,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150961611,
+"lat": "34.2204227",
+"lon": "-118.3878945",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.3836391712731274,
+"addresstype": "suburb",
+"name": "Sun Valley",
+"display_name": "Sun Valley, North Hollywood Northeast Neighborhood Council District, Los Angeles, Los Angeles County, California, 91352, United States",
+"address": {
+"suburb": "Sun Valley",
+"city": "Los Angeles",
+"county": "Los Angeles County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "91352",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.2004227",
+"34.2404227",
+"-118.4078945",
+"-118.3678945"
+]
+},
+"r:37.84633,-122.27715": {
+"place_id": 323204142,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 10139029525,
+"lat": "37.8406581",
+"lon": "-122.2638015",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.2861574737770128,
+"addresstype": "suburb",
+"name": "North Oakland",
+"display_name": "North Oakland, Oakland, Alameda County, California, 94609, United States",
+"address": {
+"suburb": "North Oakland",
+"city": "Oakland",
+"county": "Alameda County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "94609",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.8206581",
+"37.8606581",
+"-122.2838015",
+"-122.2438015"
+]
+},
+"r:38.53837,-121.44808": {
+"place_id": 321751125,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 16347491,
+"lat": "38.5349727",
+"lon": "-121.4430123",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.13338803921568626,
+"addresstype": "neighbourhood",
+"name": "Colonial Heights",
+"display_name": "Colonial Heights, Oak Park, Sacramento, Sacramento County, California, United States",
+"address": {
+"neighbourhood": "Colonial Heights",
+"suburb": "Oak Park",
+"city": "Sacramento",
+"county": "Sacramento County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.5308458",
+"38.5395091",
+"-121.4497131",
+"-121.4385753"
+]
+},
+"r:37.78244,-122.41207": {
+"place_id": 323163607,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 4609282250,
+"lat": "37.7842493",
+"lon": "-122.4139933",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.43249580853699826,
+"addresstype": "quarter",
+"name": "Tenderloin",
+"display_name": "Tenderloin, San Francisco, California, 94102, United States",
+"address": {
+"quarter": "Tenderloin",
+"city": "San Francisco",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "94102",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.7742493",
+"37.7942493",
+"-122.4239933",
+"-122.4039933"
+]
+},
+"r:32.74869,-117.08731": {
+"place_id": 319847826,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 13513372920,
+"lat": "32.7465430",
+"lon": "-117.0896932",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.13341061341268023,
+"addresstype": "quarter",
+"name": "Fox Canyon",
+"display_name": "Fox Canyon, City Heights, San Diego, San Diego County, California, 92105, United States",
+"address": {
+"quarter": "Fox Canyon",
+"suburb": "City Heights",
+"city": "San Diego",
+"county": "San Diego County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "92105",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"32.7365430",
+"32.7565430",
+"-117.0996932",
+"-117.0796932"
+]
+},
+"r:33.69335,-116.18759": {
+"place_id": 317870880,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2530671,
+"lat": "33.6794956",
+"lon": "-116.1762800",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5000084842872387,
+"addresstype": "city",
+"name": "Coachella",
+"display_name": "Coachella, Riverside County, California, 92236, United States",
+"address": {
+"city": "Coachella",
+"county": "Riverside County",
+"state": "California",
+"ISO3166-2-lvl4": "US-CA",
+"postcode": "92236",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.6420629",
+"33.7295533",
+"-116.2164964",
+"-116.0780504"
+]
+},
+"r:45.48657,-122.86674": {
+"place_id": 326756315,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 8185469595,
+"lat": "45.4942662",
+"lon": "-122.8674245",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.1333919928282597,
+"addresstype": "quarter",
+"name": "Aloha Town Center",
+"display_name": "Aloha Town Center, Aloha, Washington County, Oregon, 97312, United States",
+"address": {
+"quarter": "Aloha Town Center",
+"suburb": "Aloha",
+"county": "Washington County",
+"state": "Oregon",
+"ISO3166-2-lvl4": "US-OR",
+"postcode": "97312",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"45.4842662",
+"45.5042662",
+"-122.8774245",
+"-122.8574245"
+]
+},
+"r:32.30211,-106.76275": {
+"place_id": 335206147,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 171260,
+"lat": "32.3140354",
+"lon": "-106.7798070",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5556114235393724,
+"addresstype": "city",
+"name": "Las Cruces",
+"display_name": "Las Cruces, Do\u00f1a Ana County, New Mexico, United States",
+"address": {
+"city": "Las Cruces",
+"county": "Do\u00f1a Ana County",
+"state": "New Mexico",
+"ISO3166-2-lvl4": "US-NM",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"32.2422850",
+"32.4318690",
+"-106.9732860",
+"-106.6656710"
+]
+},
+"r:35.52902,-108.68680": {
+"place_id": 330859188,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 171269,
+"lat": "35.5283506",
+"lon": "-108.7439070",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5084044121070385,
+"addresstype": "city",
+"name": "Gallup",
+"display_name": "Gallup, McKinley County, New Mexico, 87301, United States",
+"address": {
+"city": "Gallup",
+"county": "McKinley County",
+"state": "New Mexico",
+"ISO3166-2-lvl4": "US-NM",
+"postcode": "87301",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"35.4909880",
+"35.5521100",
+"-108.8473490",
+"-108.5995860"
+]
+},
+"r:33.46581,-111.97227": {
+"place_id": 319536306,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 19606252,
+"lat": "33.4948716",
+"lon": "-112.0039098",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.2432038182346074,
+"addresstype": "suburb",
+"name": "Camelback East",
+"display_name": "Camelback East, Phoenix, Maricopa County, Arizona, United States",
+"address": {
+"suburb": "Camelback East",
+"city": "Phoenix",
+"county": "Maricopa County",
+"state": "Arizona",
+"ISO3166-2-lvl4": "US-AZ",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.4361710",
+"33.5669571",
+"-112.0652204",
+"-111.9392823"
+]
+},
+"r:33.50618,-112.03493": {
+"place_id": 320900316,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 19606252,
+"lat": "33.4948716",
+"lon": "-112.0039098",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.2432038182346074,
+"addresstype": "suburb",
+"name": "Camelback East",
+"display_name": "Camelback East, Phoenix, Maricopa County, Arizona, United States",
+"address": {
+"suburb": "Camelback East",
+"city": "Phoenix",
+"county": "Maricopa County",
+"state": "Arizona",
+"ISO3166-2-lvl4": "US-AZ",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.4361710",
+"33.5669571",
+"-112.0652204",
+"-111.9392823"
+]
+},
+"r:32.23000,-110.89278": {
+"place_id": 332463325,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 253824,
+"lat": "32.2228765",
+"lon": "-110.9748470",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6633267158978858,
+"addresstype": "city",
+"name": "Tucson",
+"display_name": "Tucson, Pima County, Arizona, United States",
+"address": {
+"city": "Tucson",
+"county": "Pima County",
+"state": "Arizona",
+"ISO3166-2-lvl4": "US-AZ",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"31.9904069",
+"32.3209098",
+"-111.0582298",
+"-110.7082060"
+]
+},
+"r:36.12993,-115.07161": {
+"place_id": 317530094,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 11166016223,
+"lat": "36.1456594",
+"lon": "-115.0643930",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.1333872930495155,
+"addresstype": "quarter",
+"name": "Winterwood",
+"display_name": "Winterwood, Clark County, Nevada, 89142, United States",
+"address": {
+"quarter": "Winterwood",
+"county": "Clark County",
+"state": "Nevada",
+"ISO3166-2-lvl4": "US-NV",
+"postcode": "89142",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"36.1356594",
+"36.1556594",
+"-115.0743930",
+"-115.0543930"
+]
+},
+"r:40.75328,-111.87160": {
+"place_id": 328218351,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 19508951,
+"lat": "40.7594840",
+"lon": "-111.8804260",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.1334070580605783,
+"addresstype": "neighbourhood",
+"name": "Central City",
+"display_name": "Central City, Salt Lake City, Salt Lake County, Utah, United States",
+"address": {
+"neighbourhood": "Central City",
+"city": "Salt Lake City",
+"county": "Salt Lake County",
+"state": "Utah",
+"ISO3166-2-lvl4": "US-UT",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7416595",
+"40.7693567",
+"-111.8882288",
+"-111.8710595"
+]
+},
+"r:41.74548,-111.81882": {
+"place_id": 328464908,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 198839,
+"lat": "41.7313063",
+"lon": "-111.8349140",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5366082614652522,
+"addresstype": "city",
+"name": "Logan",
+"display_name": "Logan, Cache County, Utah, United States",
+"address": {
+"city": "Logan",
+"county": "Cache County",
+"state": "Utah",
+"ISO3166-2-lvl4": "US-UT",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.6753841",
+"41.7973558",
+"-111.9019425",
+"-111.7801917"
+]
+},
+"r:47.78313,-122.30793": {
+"place_id": 321414691,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 237670,
+"lat": "47.7909667",
+"lon": "-122.3066395",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4668490071334186,
+"addresstype": "town",
+"name": "Mountlake Terrace",
+"display_name": "Mountlake Terrace, Snohomish County, Washington, 98043, United States",
+"address": {
+"town": "Mountlake Terrace",
+"county": "Snohomish County",
+"state": "Washington",
+"ISO3166-2-lvl4": "US-WA",
+"postcode": "98043",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"47.7773340",
+"47.8082400",
+"-122.3334070",
+"-122.2814650"
+]
+},
+"r:48.74410,-122.45957": {
+"place_id": 376523996,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 237440,
+"lat": "48.7544012",
+"lon": "-122.4788360",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5515758799347121,
+"addresstype": "city",
+"name": "Bellingham",
+"display_name": "Bellingham, Whatcom County, Washington, United States",
+"address": {
+"city": "Bellingham",
+"county": "Whatcom County",
+"state": "Washington",
+"ISO3166-2-lvl4": "US-WA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"48.6880058",
+"48.8174119",
+"-122.5314550",
+"-122.3987106"
+]
+},
+"r:32.76687,-96.77868": {
+"place_id": 334745046,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 6571629,
+"lat": "32.7762719",
+"lon": "-96.7968559",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.7208730637207591,
+"addresstype": "city",
+"name": "Dallas",
+"display_name": "Dallas, Dallas County, Texas, United States",
+"address": {
+"city": "Dallas",
+"county": "Dallas County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"32.6132160",
+"33.0239366",
+"-97.0004820",
+"-96.4636317"
+]
+},
+"r:32.71541,-96.74420": {
+"place_id": 331739907,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 11670111566,
+"lat": "32.7126849",
+"lon": "-96.7446889",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13340974822613869,
+"addresstype": "hamlet",
+"name": "Joppa",
+"display_name": "Joppa, Dallas, Dallas County, Texas, 75216, United States",
+"address": {
+"hamlet": "Joppa",
+"city": "Dallas",
+"county": "Dallas County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"postcode": "75216",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"32.6926849",
+"32.7326849",
+"-96.7646889",
+"-96.7246889"
+]
+},
+"r:32.75699,-97.11170": {
+"place_id": 334314993,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 115329,
+"lat": "32.7355816",
+"lon": "-97.1071186",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6390376433984507,
+"addresstype": "city",
+"name": "Arlington",
+"display_name": "Arlington, Tarrant County, Texas, United States",
+"address": {
+"city": "Arlington",
+"county": "Tarrant County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"32.5867753",
+"32.8171210",
+"-97.2338180",
+"-97.0370080"
+]
+},
+"r:33.03444,-97.08309": {
+"place_id": 331476003,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 5748830,
+"lat": "33.0283854",
+"lon": "-97.0867203",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.47180358519612725,
+"addresstype": "town",
+"name": "Flower Mound",
+"display_name": "Flower Mound, Denton County, Texas, United States",
+"address": {
+"town": "Flower Mound",
+"county": "Denton County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"32.9817938",
+"33.0914484",
+"-97.2345118",
+"-97.0276786"
+]
+},
+"r:29.78934,-95.54974": {
+"place_id": 305051735,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 12401104921,
+"lat": "29.7819224",
+"lon": "-95.5416155",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.1467444869153887,
+"addresstype": "suburb",
+"name": "Memorial City",
+"display_name": "Memorial City, Houston, Harris County, Texas, 77043, United States",
+"address": {
+"suburb": "Memorial City",
+"city": "Houston",
+"county": "Harris County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"postcode": "77043",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"29.7619224",
+"29.8019224",
+"-95.5616155",
+"-95.5216155"
+]
+},
+"r:33.01336,-96.88753": {
+"place_id": 334849336,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 6402220,
+"lat": "32.9515472",
+"lon": "-96.9034244",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5272866183052735,
+"addresstype": "city",
+"name": "Carrollton",
+"display_name": "Carrollton, Dallas County, Texas, United States",
+"address": {
+"city": "Carrollton",
+"county": "Dallas County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"32.9180972",
+"33.0551786",
+"-96.9586136",
+"-96.8352699"
+]
+},
+"r:32.71312,-97.09695": {
+"place_id": 335227520,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 115329,
+"lat": "32.7355816",
+"lon": "-97.1071186",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6390376433984507,
+"addresstype": "city",
+"name": "Arlington",
+"display_name": "Arlington, Tarrant County, Texas, United States",
+"address": {
+"city": "Arlington",
+"county": "Tarrant County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"32.5867753",
+"32.8171210",
+"-97.2338180",
+"-97.0370080"
+]
+},
+"r:29.65487,-95.54573": {
+"place_id": 304954251,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 12401150290,
+"lat": "29.6561156",
+"lon": "-95.5283761",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.1467444869153887,
+"addresstype": "suburb",
+"name": "Brays Oaks",
+"display_name": "Brays Oaks, Houston, Harris County, Texas, 77071, United States",
+"address": {
+"suburb": "Brays Oaks",
+"city": "Houston",
+"county": "Harris County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"postcode": "77071",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"29.6361156",
+"29.6761156",
+"-95.5483761",
+"-95.5083761"
+]
+},
+"r:32.85639,-97.16029": {
+"place_id": 336347453,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 6571609,
+"lat": "32.8440170",
+"lon": "-97.1430671",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4954199774527194,
+"addresstype": "town",
+"name": "Bedford",
+"display_name": "Bedford, Tarrant County, Texas, United States",
+"address": {
+"town": "Bedford",
+"county": "Tarrant County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"32.8220909",
+"32.8677568",
+"-97.1686280",
+"-97.1001755"
+]
+},
+"r:29.65273,-95.65423": {
+"place_id": 303706011,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 151474893,
+"lat": "29.6685660",
+"lon": "-95.6577245",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13336833524071104,
+"addresstype": "hamlet",
+"name": "Four Corners",
+"display_name": "Four Corners, Fort Bend County, Texas, 77498, United States",
+"address": {
+"hamlet": "Four Corners",
+"county": "Fort Bend County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"postcode": "77498",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"29.6485660",
+"29.6885660",
+"-95.6777245",
+"-95.6377245"
+]
+},
+"r:29.64404,-95.65272": {
+"place_id": 303804526,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1560525,
+"lat": "29.5112180",
+"lon": "-95.7807348",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.5980560412687875,
+"addresstype": "county",
+"name": "Fort Bend County",
+"display_name": "Fort Bend County, Texas, United States",
+"address": {
+"county": "Fort Bend County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"29.2625399",
+"29.7886157",
+"-96.0891769",
+"-95.4239752"
+]
+},
+"r:29.67756,-95.39740": {
+"place_id": 304014616,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 151444893,
+"lat": "29.6641199",
+"lon": "-95.3679941",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.1467444869153887,
+"addresstype": "suburb",
+"name": "Sunnyside",
+"display_name": "Sunnyside, Houston, Harris County, Texas, 77051, United States",
+"address": {
+"suburb": "Sunnyside",
+"city": "Houston",
+"county": "Harris County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"postcode": "77051",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"29.6441199",
+"29.6841199",
+"-95.3879941",
+"-95.3479941"
+]
+},
+"r:29.86278,-95.67148": {
+"place_id": 417506632,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1560395,
+"lat": "29.8119769",
+"lon": "-95.3741247",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.6111072165792513,
+"addresstype": "county",
+"name": "Harris County",
+"display_name": "Harris County, Texas, United States",
+"address": {
+"county": "Harris County",
+"state": "Texas",
+"ISO3166-2-lvl4": "US-TX",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"29.4973390",
+"30.1706958",
+"-95.9608455",
+"-94.9084924"
+]
+},
+"r:29.97102,-90.07262": {
+"place_id": 300864199,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 151339559,
+"lat": "29.9584869",
+"lon": "-90.0729504",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.4025263861160931,
+"addresstype": "hamlet",
+"name": "Storyville",
+"display_name": "Storyville, New Orleans, Orleans Parish, Louisiana, 70112, United States",
+"address": {
+"hamlet": "Storyville",
+"city": "New Orleans",
+"county": "Orleans Parish",
+"state": "Louisiana",
+"ISO3166-2-lvl4": "US-LA",
+"postcode": "70112",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"29.9384869",
+"29.9784869",
+"-90.0929504",
+"-90.0529504"
+]
+},
+"r:26.61620,-81.86740": {
+"place_id": 304928176,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153979489,
+"lat": "26.6728666",
+"lon": "-81.8840848",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.3951100392087533,
+"addresstype": "town",
+"name": "North Fort Myers",
+"display_name": "North Fort Myers, Lee County, Florida, 33903, United States",
+"address": {
+"town": "North Fort Myers",
+"county": "Lee County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"postcode": "33903",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"26.6328666",
+"26.7128666",
+"-81.9240848",
+"-81.8440848"
+]
+},
+"r:28.35114,-80.70083": {
+"place_id": 302703588,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 7714474007,
+"lat": "28.3581193",
+"lon": "-80.6968385",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.4523270596625797,
+"addresstype": "town",
+"name": "Merritt Island",
+"display_name": "Merritt Island, Brevard County, Florida, 32952, United States",
+"address": {
+"town": "Merritt Island",
+"county": "Brevard County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"postcode": "32952",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"28.3181193",
+"28.3981193",
+"-80.7368385",
+"-80.6568385"
+]
+},
+"r:27.96734,-82.74907": {
+"place_id": 305505528,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153986964,
+"lat": "27.9777977",
+"lon": "-82.7378787",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.1333969520103761,
+"addresstype": "hamlet",
+"name": "Coachman",
+"display_name": "Coachman, Clearwater, Pinellas County, Florida, 33765, United States",
+"address": {
+"hamlet": "Coachman",
+"city": "Clearwater",
+"county": "Pinellas County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"postcode": "33765",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"27.9577977",
+"27.9977977",
+"-82.7578787",
+"-82.7178787"
+]
+},
+"r:30.30724,-81.52452": {
+"place_id": 301105935,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 154111629,
+"lat": "30.3177403",
+"lon": "-81.5175893",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13340426108186462,
+"addresstype": "hamlet",
+"name": "Sandalwood",
+"display_name": "Sandalwood, Jacksonville, Duval County, Florida, 32246, United States",
+"address": {
+"hamlet": "Sandalwood",
+"city": "Jacksonville",
+"county": "Duval County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"postcode": "32246",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"30.2977403",
+"30.3377403",
+"-81.5375893",
+"-81.4975893"
+]
+},
+"r:28.33219,-81.48259": {
+"place_id": 302781307,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 11698622823,
+"lat": "28.3190570",
+"lon": "-81.5408702",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.42596930671825545,
+"addresstype": "town",
+"name": "Celebration",
+"display_name": "Celebration, Osceola County, Florida, 34757, United States",
+"address": {
+"town": "Celebration",
+"county": "Osceola County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"postcode": "34757",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"28.2790570",
+"28.3590570",
+"-81.5808702",
+"-81.5008702"
+]
+},
+"r:27.96890,-82.79969": {
+"place_id": 305359246,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 118909,
+"lat": "27.9658533",
+"lon": "-82.8001026",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5791352640726252,
+"addresstype": "city",
+"name": "Clearwater",
+"display_name": "Clearwater, Pinellas County, Florida, United States",
+"address": {
+"city": "Clearwater",
+"county": "Pinellas County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"27.9351239",
+"28.0499611",
+"-82.8434471",
+"-82.6792432"
+]
+},
+"r:24.55079,-81.80378": {
+"place_id": 305866503,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 11563370626,
+"lat": "24.5544178",
+"lon": "-81.7961082",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.13339460822461277,
+"addresstype": "quarter",
+"name": "Old Town",
+"display_name": "Old Town, Key West, Monroe County, Florida, 33041, United States",
+"address": {
+"quarter": "Old Town",
+"city": "Key West",
+"county": "Monroe County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"postcode": "33041",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"24.5444178",
+"24.5644178",
+"-81.8061082",
+"-81.7861082"
+]
+},
+"r:28.54235,-81.44600": {
+"place_id": 301984734,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153953950,
+"lat": "28.4723368",
+"lon": "-81.4174770",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.4177265377721238,
+"addresstype": "town",
+"name": "Oak Ridge",
+"display_name": "Oak Ridge, Orange County, Florida, 38209, United States",
+"address": {
+"town": "Oak Ridge",
+"county": "Orange County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"postcode": "38209",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"28.4323368",
+"28.5123368",
+"-81.4574770",
+"-81.3774770"
+]
+},
+"r:28.57537,-81.26859": {
+"place_id": 303589701,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 12486816561,
+"lat": "28.5510435",
+"lon": "-81.2942124",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.41264182722604775,
+"addresstype": "town",
+"name": "Azalea Park",
+"display_name": "Azalea Park, Orange County, Florida, 32807, United States",
+"address": {
+"town": "Azalea Park",
+"county": "Orange County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"postcode": "32807",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"28.5110435",
+"28.5910435",
+"-81.3342124",
+"-81.2542124"
+]
+},
+"r:28.54229,-81.38683": {
+"place_id": 302865179,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1128379,
+"lat": "28.5421218",
+"lon": "-81.3790450",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6902779112906777,
+"addresstype": "city",
+"name": "Orlando",
+"display_name": "Orlando, Orange County, Florida, United States",
+"address": {
+"city": "Orlando",
+"county": "Orange County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"28.3480634",
+"28.6142830",
+"-81.5075377",
+"-81.1241435"
+]
+},
+"r:26.12964,-80.15589": {
+"place_id": 304305814,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 117955,
+"lat": "26.1223084",
+"lon": "-80.1433786",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6445219850234548,
+"addresstype": "city",
+"name": "Fort Lauderdale",
+"display_name": "Fort Lauderdale, Broward County, Florida, United States",
+"address": {
+"city": "Fort Lauderdale",
+"county": "Broward County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"26.0796070",
+"26.2119200",
+"-80.2036371",
+"-80.0871487"
+]
+},
+"r:26.55596,-80.11749": {
+"place_id": 304499694,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1210748,
+"lat": "26.6279798",
+"lon": "-80.4494174",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.578555908168629,
+"addresstype": "county",
+"name": "Palm Beach County",
+"display_name": "Palm Beach County, Florida, United States",
+"address": {
+"county": "Palm Beach County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"26.3206768",
+"26.9709235",
+"-80.8862320",
+"-79.9743060"
+]
+},
+"r:27.94702,-82.47317": {
+"place_id": 304973629,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 154094780,
+"lat": "27.9533546",
+"lon": "-82.4892617",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.348606766793213,
+"addresstype": "suburb",
+"name": "West Tampa",
+"display_name": "West Tampa, Tampa, Hillsborough County, Florida, 33608, United States",
+"address": {
+"suburb": "West Tampa",
+"city": "Tampa",
+"county": "Hillsborough County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"postcode": "33608",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"27.9333546",
+"27.9733546",
+"-82.5092617",
+"-82.4692617"
+]
+},
+"r:28.53873,-81.38920": {
+"place_id": 301489190,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1128379,
+"lat": "28.5421218",
+"lon": "-81.3790450",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6902779112906777,
+"addresstype": "city",
+"name": "Orlando",
+"display_name": "Orlando, Orange County, Florida, United States",
+"address": {
+"city": "Orlando",
+"county": "Orange County",
+"state": "Florida",
+"ISO3166-2-lvl4": "US-FL",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"28.3480634",
+"28.6142830",
+"-81.5075377",
+"-81.1241435"
+]
+},
+"r:38.41356,-93.40143": {
+"place_id": 335897308,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1180501,
+"lat": "38.2930723",
+"lon": "-93.3036786",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.5435409521664011,
+"addresstype": "county",
+"name": "Benton County",
+"display_name": "Benton County, Missouri, United States",
+"address": {
+"county": "Benton County",
+"state": "Missouri",
+"ISO3166-2-lvl4": "US-MO",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.0626893",
+"38.5376470",
+"-93.5234300",
+"-93.0623090"
+]
+},
+"r:38.36302,-93.36726": {
+"place_id": 335897308,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1180501,
+"lat": "38.2930723",
+"lon": "-93.3036786",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.5435409521664011,
+"addresstype": "county",
+"name": "Benton County",
+"display_name": "Benton County, Missouri, United States",
+"address": {
+"county": "Benton County",
+"state": "Missouri",
+"ISO3166-2-lvl4": "US-MO",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.0626893",
+"38.5376470",
+"-93.5234300",
+"-93.0623090"
+]
+},
+"r:38.93616,-94.54151": {
+"place_id": 335948344,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 151606431,
+"lat": "38.9280624",
+"lon": "-94.5313431",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.1334063897154192,
+"addresstype": "hamlet",
+"name": "Jeffreys",
+"display_name": "Jeffreys, Kansas City, Jackson County, Missouri, 64137, United States",
+"address": {
+"hamlet": "Jeffreys",
+"city": "Kansas City",
+"county": "Jackson County",
+"state": "Missouri",
+"ISO3166-2-lvl4": "US-MO",
+"postcode": "64137",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.9080624",
+"38.9480624",
+"-94.5513431",
+"-94.5113431"
+]
+},
+"r:38.69252,-90.24134": {
+"place_id": 337390695,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9674612,
+"lat": "38.6890699",
+"lon": "-90.2416524",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.29396319343666205,
+"addresstype": "neighbourhood",
+"name": "Mark Twain",
+"display_name": "Mark Twain, Saint Louis, Missouri, United States",
+"address": {
+"neighbourhood": "Mark Twain",
+"city": "Saint Louis",
+"state": "Missouri",
+"ISO3166-2-lvl4": "US-MO",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.6827812",
+"38.6971685",
+"-90.2543801",
+"-90.2278154"
+]
+},
+"r:39.05940,-94.57219": {
+"place_id": 335155103,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 4255745622,
+"lat": "39.0536510",
+"lon": "-94.5905834",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.2772938966131108,
+"addresstype": "suburb",
+"name": "Westport",
+"display_name": "Westport, Kansas City, Jackson County, Missouri, 64111, United States",
+"address": {
+"suburb": "Westport",
+"city": "Kansas City",
+"county": "Jackson County",
+"state": "Missouri",
+"ISO3166-2-lvl4": "US-MO",
+"postcode": "64111",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.0336510",
+"39.0736510",
+"-94.6105834",
+"-94.5705834"
+]
+},
+"r:38.76407,-93.73824": {
+"place_id": 337358735,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 140653,
+"lat": "38.7624373",
+"lon": "-93.7409596",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.47032629246442914,
+"addresstype": "city",
+"name": "Warrensburg",
+"display_name": "Warrensburg, Johnson County, Missouri, 64093, United States",
+"address": {
+"city": "Warrensburg",
+"county": "Johnson County",
+"state": "Missouri",
+"ISO3166-2-lvl4": "US-MO",
+"postcode": "64093",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.7375380",
+"38.7870333",
+"-93.7642670",
+"-93.6874560"
+]
+},
+"r:37.74618,-97.25854": {
+"place_id": 329782814,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 151901741,
+"lat": "37.7144581",
+"lon": "-97.2400435",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.311877314681546,
+"addresstype": "village",
+"name": "Minneha",
+"display_name": "Minneha, Wichita, Sedgwick County, Kansas, 67206, United States",
+"address": {
+"village": "Minneha",
+"city": "Wichita",
+"county": "Sedgwick County",
+"state": "Kansas",
+"ISO3166-2-lvl4": "US-KS",
+"postcode": "67206",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.6944581",
+"37.7344581",
+"-97.2600435",
+"-97.2200435"
+]
+},
+"r:38.87381,-99.32545": {
+"place_id": 329101553,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 130290,
+"lat": "38.8709984",
+"lon": "-99.3311525",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5308011419025682,
+"addresstype": "town",
+"name": "Hays",
+"display_name": "Hays, Ellis County, Kansas, 67601, United States",
+"address": {
+"town": "Hays",
+"county": "Ellis County",
+"state": "Kansas",
+"ISO3166-2-lvl4": "US-KS",
+"postcode": "67601",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.8415760",
+"38.9204210",
+"-99.3606530",
+"-99.2755230"
+]
+},
+"r:41.84601,-90.22118": {
+"place_id": 370334070,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 128312,
+"lat": "41.8502821",
+"lon": "-90.1877485",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5363906847397296,
+"addresstype": "city",
+"name": "Clinton",
+"display_name": "Clinton, Clinton Township, Clinton County, Iowa, United States",
+"address": {
+"city": "Clinton",
+"municipality": "Clinton Township",
+"county": "Clinton County",
+"state": "Iowa",
+"ISO3166-2-lvl4": "US-IA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.7937928",
+"41.9101676",
+"-90.3451628",
+"-90.1623274"
+]
+},
+"r:41.62908,-93.70331": {
+"place_id": 373093614,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 128653,
+"lat": "41.5868654",
+"lon": "-93.6249494",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6382295315654342,
+"addresstype": "city",
+"name": "Des Moines",
+"display_name": "Des Moines, Polk County, Iowa, United States",
+"address": {
+"city": "Des Moines",
+"county": "Polk County",
+"state": "Iowa",
+"ISO3166-2-lvl4": "US-IA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.4796389",
+"41.6589106",
+"-93.7091411",
+"-93.4936911"
+]
+},
+"r:41.61163,-93.70307": {
+"place_id": 372962808,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 128653,
+"lat": "41.5868654",
+"lon": "-93.6249494",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6382295315654342,
+"addresstype": "city",
+"name": "Des Moines",
+"display_name": "Des Moines, Polk County, Iowa, United States",
+"address": {
+"city": "Des Moines",
+"county": "Polk County",
+"state": "Iowa",
+"ISO3166-2-lvl4": "US-IA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.4796389",
+"41.6589106",
+"-93.7091411",
+"-93.4936911"
+]
+},
+"r:41.59753,-87.70005": {
+"place_id": 370602625,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 123444,
+"lat": "41.5936453",
+"lon": "-87.6947699",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4756334263749301,
+"addresstype": "town",
+"name": "Markham",
+"display_name": "Markham, Bremen Township, Cook County, Illinois, 60428, United States",
+"address": {
+"town": "Markham",
+"municipality": "Bremen Township",
+"county": "Cook County",
+"state": "Illinois",
+"ISO3166-2-lvl4": "US-IL",
+"postcode": "60428",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.5826970",
+"41.6223620",
+"-87.7198730",
+"-87.6500706"
+]
+},
+"r:42.00234,-87.67296": {
+"place_id": 372859956,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 122575,
+"lat": "42.0090367",
+"lon": "-87.6768492",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.4072594434730916,
+"addresstype": "suburb",
+"name": "Rogers Park",
+"display_name": "Rogers Park, Chicago, Rogers Park Township, Cook County, Illinois, United States",
+"address": {
+"suburb": "Rogers Park",
+"city": "Chicago",
+"municipality": "Rogers Park Township",
+"county": "Cook County",
+"state": "Illinois",
+"ISO3166-2-lvl4": "US-IL",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.9979597",
+"42.0230529",
+"-87.6846452",
+"-87.6545958"
+]
+},
+"r:40.46688,-90.69410": {
+"place_id": 373626096,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 151590781,
+"lat": "40.4769850",
+"lon": "-90.6915197",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.1333919775692378,
+"addresstype": "hamlet",
+"name": "Lamoine Village",
+"display_name": "Lamoine Village, Macomb, McDonough County, Illinois, 61455, United States",
+"address": {
+"hamlet": "Lamoine Village",
+"town": "Macomb",
+"county": "McDonough County",
+"state": "Illinois",
+"ISO3166-2-lvl4": "US-IL",
+"postcode": "61455",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.4569850",
+"40.4969850",
+"-90.7115197",
+"-90.6715197"
+]
+},
+"r:41.47907,-90.45603": {
+"place_id": 372803944,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 126022,
+"lat": "41.5066112",
+"lon": "-90.5149988",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.563258857198711,
+"addresstype": "city",
+"name": "Moline",
+"display_name": "Moline, Rock Island County, Illinois, 61265, United States",
+"address": {
+"city": "Moline",
+"county": "Rock Island County",
+"state": "Illinois",
+"ISO3166-2-lvl4": "US-IL",
+"postcode": "61265",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.4209836",
+"41.5183246",
+"-90.5394130",
+"-90.4320985"
+]
+},
+"r:39.00026,-84.64947": {
+"place_id": 337444028,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 130854,
+"lat": "38.9989499",
+"lon": "-84.6266111",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5052383485160181,
+"addresstype": "city",
+"name": "Florence",
+"display_name": "Florence, Boone County, Kentucky, 41402, United States",
+"address": {
+"city": "Florence",
+"county": "Boone County",
+"state": "Kentucky",
+"ISO3166-2-lvl4": "US-KY",
+"postcode": "41402",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.9316700",
+"39.0309140",
+"-84.7066640",
+"-84.6106196"
+]
+},
+"r:38.18857,-85.69272": {
+"place_id": 339092399,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153406765,
+"lat": "38.1886808",
+"lon": "-85.6916275",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.35352855872429106,
+"addresstype": "hamlet",
+"name": "Whitner",
+"display_name": "Whitner, Louisville, Jefferson County, Kentucky, 40231, United States",
+"address": {
+"hamlet": "Whitner",
+"city": "Louisville",
+"county": "Jefferson County",
+"state": "Kentucky",
+"ISO3166-2-lvl4": "US-KY",
+"postcode": "40231",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.1686808",
+"38.2086808",
+"-85.7116275",
+"-85.6716275"
+]
+},
+"r:35.03227,-85.29582": {
+"place_id": 341715285,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153617194,
+"lat": "35.0161858",
+"lon": "-85.2888458",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.133398503852903,
+"addresstype": "hamlet",
+"name": "Foust",
+"display_name": "Foust, Chattanooga, Hamilton County, East Tennessee, Tennessee, 37410, United States",
+"address": {
+"hamlet": "Foust",
+"city": "Chattanooga",
+"county": "Hamilton County",
+"region": "East Tennessee",
+"state": "Tennessee",
+"ISO3166-2-lvl4": "US-TN",
+"postcode": "37410",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.9961858",
+"35.0361858",
+"-85.3088458",
+"-85.2688458"
+]
+},
+"r:35.94351,-84.15650": {
+"place_id": 342917880,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 154023988,
+"lat": "35.9494230",
+"lon": "-84.1585857",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13337083466849772,
+"addresstype": "hamlet",
+"name": "Robinson Crossroads",
+"display_name": "Robinson Crossroads, Knox County, East Tennessee, Tennessee, 37932, United States",
+"address": {
+"hamlet": "Robinson Crossroads",
+"county": "Knox County",
+"region": "East Tennessee",
+"state": "Tennessee",
+"ISO3166-2-lvl4": "US-TN",
+"postcode": "37932",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"35.9294230",
+"35.9694230",
+"-84.1785857",
+"-84.1385857"
+]
+},
+"r:35.04864,-85.14654": {
+"place_id": 342884004,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153478101,
+"lat": "35.0575738",
+"lon": "-85.1499532",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.133398503852903,
+"addresstype": "hamlet",
+"name": "Tyner Hills",
+"display_name": "Tyner Hills, Chattanooga, Hamilton County, East Tennessee, Tennessee, 37421, United States",
+"address": {
+"hamlet": "Tyner Hills",
+"city": "Chattanooga",
+"county": "Hamilton County",
+"region": "East Tennessee",
+"state": "Tennessee",
+"ISO3166-2-lvl4": "US-TN",
+"postcode": "37421",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"35.0375738",
+"35.0775738",
+"-85.1699532",
+"-85.1299532"
+]
+},
+"r:41.08117,-81.55290": {
+"place_id": 429145156,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153832168,
+"lat": "41.0689203",
+"lon": "-81.5516011",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.13339958571755547,
+"addresstype": "quarter",
+"name": "Sherbondy Hill",
+"display_name": "Sherbondy Hill, Akron, Summit County, Ohio, 44307, United States",
+"address": {
+"quarter": "Sherbondy Hill",
+"city": "Akron",
+"county": "Summit County",
+"state": "Ohio",
+"ISO3166-2-lvl4": "US-OH",
+"postcode": "44307",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.0589203",
+"41.0789203",
+"-81.5616011",
+"-81.5416011"
+]
+},
+"r:40.01444,-82.98889": {
+"place_id": 369717432,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 7967448649,
+"lat": "40.0037935",
+"lon": "-82.9735358",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.13340627832455937,
+"addresstype": "quarter",
+"name": "South Linden",
+"display_name": "South Linden, Linden, Columbus, Franklin County, Ohio, 43211, United States",
+"address": {
+"quarter": "South Linden",
+"suburb": "Linden",
+"city": "Columbus",
+"county": "Franklin County",
+"state": "Ohio",
+"ISO3166-2-lvl4": "US-OH",
+"postcode": "43211",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.9937935",
+"40.0137935",
+"-82.9835358",
+"-82.9635358"
+]
+},
+"r:40.85146,-81.42727": {
+"place_id": 369640962,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 154296883,
+"lat": "40.8375579",
+"lon": "-81.4292819",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13337487678339816,
+"addresstype": "hamlet",
+"name": "Monterey Heights",
+"display_name": "Monterey Heights, Jackson Township, Stark County, Ohio, 44718, United States",
+"address": {
+"hamlet": "Monterey Heights",
+"municipality": "Jackson Township",
+"county": "Stark County",
+"state": "Ohio",
+"ISO3166-2-lvl4": "US-OH",
+"postcode": "44718",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.8175579",
+"40.8575579",
+"-81.4492819",
+"-81.4092819"
+]
+},
+"r:39.96697,-82.96279": {
+"place_id": 340675017,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 229677607,
+"lat": "39.9657471",
+"lon": "-82.9702009",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.3323758440386415,
+"addresstype": "quarter",
+"name": "Near East Side",
+"display_name": "Near East Side, Columbus, Franklin County, Ohio, 43203, United States",
+"address": {
+"quarter": "Near East Side",
+"city": "Columbus",
+"county": "Franklin County",
+"state": "Ohio",
+"ISO3166-2-lvl4": "US-OH",
+"postcode": "43203",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.9557471",
+"39.9757471",
+"-82.9802009",
+"-82.9602009"
+]
+},
+"r:41.06705,-80.66351": {
+"place_id": 365727128,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5377052327,
+"lat": "41.0661640",
+"lon": "-80.6690051",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.13339670786602575,
+"addresstype": "quarter",
+"name": "Newport",
+"display_name": "Newport, Fosterville, Youngstown, Mahoning County, Ohio, 44507, United States",
+"address": {
+"quarter": "Newport",
+"hamlet": "Fosterville",
+"city": "Youngstown",
+"county": "Mahoning County",
+"state": "Ohio",
+"ISO3166-2-lvl4": "US-OH",
+"postcode": "44507",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.0561640",
+"41.0761640",
+"-80.6790051",
+"-80.6590051"
+]
+},
+"r:39.91469,-82.87624": {
+"place_id": 341225004,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 182706,
+"lat": "39.9622601",
+"lon": "-83.0007065",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6841113154817149,
+"addresstype": "city",
+"name": "Columbus",
+"display_name": "Columbus, Franklin County, Ohio, United States",
+"address": {
+"city": "Columbus",
+"county": "Franklin County",
+"state": "Ohio",
+"ISO3166-2-lvl4": "US-OH",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.8086936",
+"40.1573082",
+"-83.2101797",
+"-82.7713119"
+]
+},
+"r:41.10970,-80.65570": {
+"place_id": 370702535,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5286761903,
+"lat": "41.1000549",
+"lon": "-80.6493201",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.13339670786602575,
+"addresstype": "quarter",
+"name": "Downtown",
+"display_name": "Downtown, Youngstown, Mahoning County, Ohio, 44503, United States",
+"address": {
+"quarter": "Downtown",
+"city": "Youngstown",
+"county": "Mahoning County",
+"state": "Ohio",
+"ISO3166-2-lvl4": "US-OH",
+"postcode": "44503",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.0900549",
+"41.1100549",
+"-80.6593201",
+"-80.6393201"
+]
+},
+"r:41.09346,-80.65762": {
+"place_id": 366863871,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5377052330,
+"lat": "41.0936525",
+"lon": "-80.6639943",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.13339670786602575,
+"addresstype": "quarter",
+"name": "Oak Hill",
+"display_name": "Oak Hill, Youngstown, Mahoning County, Ohio, 44503, United States",
+"address": {
+"quarter": "Oak Hill",
+"city": "Youngstown",
+"county": "Mahoning County",
+"state": "Ohio",
+"ISO3166-2-lvl4": "US-OH",
+"postcode": "44503",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.0836525",
+"41.1036525",
+"-80.6739943",
+"-80.6539943"
+]
+},
+"r:39.94051,-83.11935": {
+"place_id": 339690143,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 154019693,
+"lat": "39.9523484",
+"lon": "-83.1291183",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.40893382561531794,
+"addresstype": "quarter",
+"name": "Lincoln Village",
+"display_name": "Lincoln Village, Prairie Township, Franklin County, Ohio, 43228, United States",
+"address": {
+"quarter": "Lincoln Village",
+"municipality": "Prairie Township",
+"county": "Franklin County",
+"state": "Ohio",
+"ISO3166-2-lvl4": "US-OH",
+"postcode": "43228",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.9423484",
+"39.9623484",
+"-83.1391183",
+"-83.1191183"
+]
+},
+"r:43.05420,-89.49696": {
+"place_id": 371891506,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 3352040,
+"lat": "43.0746900",
+"lon": "-89.3841663",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6485158885266581,
+"addresstype": "city",
+"name": "Madison",
+"display_name": "Madison, Dane County, Wisconsin, United States",
+"address": {
+"city": "Madison",
+"county": "Dane County",
+"state": "Wisconsin",
+"ISO3166-2-lvl4": "US-WI",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.9981494",
+"43.1719160",
+"-89.5716610",
+"-89.2320848"
+]
+},
+"r:44.02185,-88.57193": {
+"place_id": 374997362,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 251389,
+"lat": "44.0206919",
+"lon": "-88.5408574",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5435409521664011,
+"addresstype": "city",
+"name": "Oshkosh",
+"display_name": "Oshkosh, Winnebago County, Wisconsin, United States",
+"address": {
+"city": "Oshkosh",
+"county": "Winnebago County",
+"state": "Wisconsin",
+"ISO3166-2-lvl4": "US-WI",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"43.9450390",
+"44.0905660",
+"-88.6226970",
+"-88.5078650"
+]
+},
+"r:42.39339,-83.05724": {
+"place_id": 420291979,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 134589,
+"lat": "42.3928151",
+"lon": "-83.0496438",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.47141288733854275,
+"addresstype": "town",
+"name": "Hamtramck",
+"display_name": "Hamtramck, Wayne County, Michigan, 48212, United States",
+"address": {
+"town": "Hamtramck",
+"county": "Wayne County",
+"state": "Michigan",
+"ISO3166-2-lvl4": "US-MI",
+"postcode": "48212",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.3795995",
+"42.4089797",
+"-83.0763922",
+"-83.0405217"
+]
+},
+"r:42.34342,-83.20129": {
+"place_id": 370081608,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 6248027730,
+"lat": "42.3464960",
+"lon": "-83.2290160",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.2946949388609965,
+"addresstype": "suburb",
+"name": "Warrendale",
+"display_name": "Warrendale, Detroit, Wayne County, Michigan, 48228, United States",
+"address": {
+"suburb": "Warrendale",
+"city": "Detroit",
+"county": "Wayne County",
+"state": "Michigan",
+"ISO3166-2-lvl4": "US-MI",
+"postcode": "48228",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.3264960",
+"42.3664960",
+"-83.2490160",
+"-83.2090160"
+]
+},
+"r:42.33035,-83.22978": {
+"place_id": 370013994,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 134579,
+"lat": "42.3222599",
+"lon": "-83.1763145",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.570051642734905,
+"addresstype": "city",
+"name": "Dearborn",
+"display_name": "Dearborn, Wayne County, Michigan, United States",
+"address": {
+"city": "Dearborn",
+"county": "Wayne County",
+"state": "Michigan",
+"ISO3166-2-lvl4": "US-MI",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.2772888",
+"42.3519160",
+"-83.2871002",
+"-83.1397170"
+]
+},
+"r:42.33644,-83.17768": {
+"place_id": 367885913,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 134579,
+"lat": "42.3222599",
+"lon": "-83.1763145",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.570051642734905,
+"addresstype": "city",
+"name": "Dearborn",
+"display_name": "Dearborn, Wayne County, Michigan, United States",
+"address": {
+"city": "Dearborn",
+"county": "Wayne County",
+"state": "Michigan",
+"ISO3166-2-lvl4": "US-MI",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.2772888",
+"42.3519160",
+"-83.2871002",
+"-83.1397170"
+]
+},
+"r:42.32595,-83.29825": {
+"place_id": 369932638,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 134581,
+"lat": "42.3369816",
+"lon": "-83.2732627",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5168319534545193,
+"addresstype": "town",
+"name": "Dearborn Heights",
+"display_name": "Dearborn Heights, Wayne County, Michigan, United States",
+"address": {
+"town": "Dearborn Heights",
+"county": "Wayne County",
+"state": "Michigan",
+"ISO3166-2-lvl4": "US-MI",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.2682452",
+"42.3570550",
+"-83.3128250",
+"-83.2176918"
+]
+},
+"r:42.44627,-83.35662": {
+"place_id": 370751800,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 134541,
+"lat": "42.4853125",
+"lon": "-83.3771553",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5273491988491132,
+"addresstype": "town",
+"name": "Farmington Hills",
+"display_name": "Farmington Hills, Oakland County, Michigan, United States",
+"address": {
+"town": "Farmington Hills",
+"county": "Oakland County",
+"state": "Michigan",
+"ISO3166-2-lvl4": "US-MI",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.4389415",
+"42.5293700",
+"-83.4375400",
+"-83.3168250"
+]
+},
+"r:42.38169,-83.11459": {
+"place_id": 419917053,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 134591,
+"lat": "42.3315509",
+"lon": "-83.0466403",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7321719627376911,
+"addresstype": "city",
+"name": "Detroit",
+"display_name": "Detroit, Wayne County, Michigan, United States",
+"address": {
+"city": "Detroit",
+"county": "Wayne County",
+"state": "Michigan",
+"ISO3166-2-lvl4": "US-MI",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.2551920",
+"42.4503959",
+"-83.2879590",
+"-82.9104391"
+]
+},
+"r:42.39116,-83.04064": {
+"place_id": 419917053,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 134591,
+"lat": "42.3315509",
+"lon": "-83.0466403",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7321719627376911,
+"addresstype": "city",
+"name": "Detroit",
+"display_name": "Detroit, Wayne County, Michigan, United States",
+"address": {
+"city": "Detroit",
+"county": "Wayne County",
+"state": "Michigan",
+"ISO3166-2-lvl4": "US-MI",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.2551920",
+"42.4503959",
+"-83.2879590",
+"-82.9104391"
+]
+},
+"r:42.31057,-83.33700": {
+"place_id": 368692141,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 134582,
+"lat": "42.2942045",
+"lon": "-83.3099303",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.44274316916110606,
+"addresstype": "town",
+"name": "Inkster",
+"display_name": "Inkster, Wayne County, Michigan, United States",
+"address": {
+"town": "Inkster",
+"county": "Wayne County",
+"state": "Michigan",
+"ISO3166-2-lvl4": "US-MI",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.2749450",
+"42.3120510",
+"-83.3399307",
+"-83.2897760"
+]
+},
+"r:37.40070,-79.16056": {
+"place_id": 347285412,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 12706200565,
+"lat": "37.4053233",
+"lon": "-79.1567968",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.13339567940794994,
+"addresstype": "quarter",
+"name": "Midtown",
+"display_name": "Midtown, Lynchburg, Virginia, 24501, United States",
+"address": {
+"quarter": "Midtown",
+"city": "Lynchburg",
+"state": "Virginia",
+"ISO3166-2-lvl4": "US-VA",
+"postcode": "24501",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.3953233",
+"37.4153233",
+"-79.1667968",
+"-79.1467968"
+]
+},
+"r:38.35957,-77.39386": {
+"place_id": 346906132,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158290198,
+"lat": "38.4222681",
+"lon": "-77.4084067",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.4183902988676434,
+"addresstype": "town",
+"name": "Stafford",
+"display_name": "Stafford, Stafford County, Virginia, 22554, United States",
+"address": {
+"town": "Stafford",
+"county": "Stafford County",
+"state": "Virginia",
+"ISO3166-2-lvl4": "US-VA",
+"postcode": "22554",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.3822681",
+"38.4622681",
+"-77.4484067",
+"-77.3684067"
+]
+},
+"r:37.39274,-77.72477": {
+"place_id": 346793088,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2534172,
+"lat": "37.3859982",
+"lon": "-77.5785090",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.5491850742959841,
+"addresstype": "county",
+"name": "Chesterfield County",
+"display_name": "Chesterfield County, Virginia, United States",
+"address": {
+"county": "Chesterfield County",
+"state": "Virginia",
+"ISO3166-2-lvl4": "US-VA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.2169940",
+"37.5624252",
+"-77.8784815",
+"-77.2441670"
+]
+},
+"r:38.62886,-77.27620": {
+"place_id": 418952228,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 12036415568,
+"lat": "38.6274796",
+"lon": "-77.2843399",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.13338365682459752,
+"addresstype": "quarter",
+"name": "Potomac Town Center",
+"display_name": "Potomac Town Center, Woodbridge, Prince William County, Virginia, 22191, United States",
+"address": {
+"quarter": "Potomac Town Center",
+"city": "Woodbridge",
+"county": "Prince William County",
+"state": "Virginia",
+"ISO3166-2-lvl4": "US-VA",
+"postcode": "22191",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.6174796",
+"38.6374796",
+"-77.2943399",
+"-77.2743399"
+]
+},
+"r:38.74366,-77.19059": {
+"place_id": 348898858,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158577969,
+"lat": "38.7404320",
+"lon": "-77.1925331",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.39892313782029826,
+"addresstype": "village",
+"name": "Newington",
+"display_name": "Newington, Fairfax County, Virginia, 22122, United States",
+"address": {
+"village": "Newington",
+"county": "Fairfax County",
+"state": "Virginia",
+"ISO3166-2-lvl4": "US-VA",
+"postcode": "22122",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.7204320",
+"38.7604320",
+"-77.2125331",
+"-77.1725331"
+]
+},
+"r:38.84959,-77.09055": {
+"place_id": 350784949,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 14699744,
+"lat": "38.8499046",
+"lon": "-77.0846448",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.13339818646524756,
+"addresstype": "neighbourhood",
+"name": "Green Valley",
+"display_name": "Green Valley, Shirlington, Arlington, Arlington County, Virginia, United States",
+"address": {
+"neighbourhood": "Green Valley",
+"suburb": "Shirlington",
+"city": "Arlington",
+"county": "Arlington County",
+"state": "Virginia",
+"ISO3166-2-lvl4": "US-VA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.8420116",
+"38.8579427",
+"-77.0964264",
+"-77.0798386"
+]
+},
+"r:37.59618,-77.51572": {
+"place_id": 345375557,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 12113987959,
+"lat": "37.6138496",
+"lon": "-77.4978589",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.31620884567581686,
+"addresstype": "village",
+"name": "Dumbarton",
+"display_name": "Dumbarton, Henrico County, Virginia, 23228, United States",
+"address": {
+"village": "Dumbarton",
+"county": "Henrico County",
+"state": "Virginia",
+"ISO3166-2-lvl4": "US-VA",
+"postcode": "23228",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"37.5938496",
+"37.6338496",
+"-77.5178589",
+"-77.4778589"
+]
+},
+"r:35.09183,-78.90951": {
+"place_id": 343968824,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158444598,
+"lat": "35.0790523",
+"lon": "-78.9194710",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13339571602960248,
+"addresstype": "hamlet",
+"name": "Greenwood Homes",
+"display_name": "Greenwood Homes, Fayetteville, Cumberland County, North Carolina, 28305, United States",
+"address": {
+"hamlet": "Greenwood Homes",
+"city": "Fayetteville",
+"county": "Cumberland County",
+"state": "North Carolina",
+"ISO3166-2-lvl4": "US-NC",
+"postcode": "28305",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"35.0590523",
+"35.0990523",
+"-78.9394710",
+"-78.8994710"
+]
+},
+"r:34.00106,-85.98536": {
+"place_id": 341965115,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153524759,
+"lat": "34.0025979",
+"lon": "-85.9685820",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13339224917982756,
+"addresstype": "hamlet",
+"name": "East Gadsden",
+"display_name": "East Gadsden, Gadsden, Etowah County, Alabama, 35901, United States",
+"address": {
+"hamlet": "East Gadsden",
+"city": "Gadsden",
+"county": "Etowah County",
+"state": "Alabama",
+"ISO3166-2-lvl4": "US-AL",
+"postcode": "35901",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.9825979",
+"34.0225979",
+"-85.9885820",
+"-85.9485820"
+]
+},
+"r:34.68003,-86.75360": {
+"place_id": 341256877,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153747202,
+"lat": "34.6981468",
+"lon": "-86.7583322",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13339004882887004,
+"addresstype": "hamlet",
+"name": "Maplewood",
+"display_name": "Maplewood, Madison, Madison County, Alabama, 35758, United States",
+"address": {
+"hamlet": "Maplewood",
+"town": "Madison",
+"county": "Madison County",
+"state": "Alabama",
+"ISO3166-2-lvl4": "US-AL",
+"postcode": "35758",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.6781468",
+"34.7181468",
+"-86.7783322",
+"-86.7383322"
+]
+},
+"r:30.66128,-88.07437": {
+"place_id": 303109542,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 19362586,
+"lat": "30.8991735",
+"lon": "-88.0570975",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.1600503234912642,
+"addresstype": "city_district",
+"name": "Mobile County Commission District 1",
+"display_name": "Mobile County Commission District 1, Saraland, Mobile County, Alabama, United States",
+"address": {
+"city_district": "Mobile County Commission District 1",
+"town": "Saraland",
+"county": "Mobile County",
+"state": "Alabama",
+"ISO3166-2-lvl4": "US-AL",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"30.6255854",
+"31.1733738",
+"-88.4320052",
+"-87.9242041"
+]
+},
+"r:30.72660,-88.08288": {
+"place_id": 305244380,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153445156,
+"lat": "30.7454663",
+"lon": "-88.0766667",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.1333870733196002,
+"addresstype": "hamlet",
+"name": "Summerville",
+"display_name": "Summerville, Mobile County Commission District 1, Prichard, Mobile County, Alabama, 36610, United States",
+"address": {
+"hamlet": "Summerville",
+"city_district": "Mobile County Commission District 1",
+"town": "Prichard",
+"county": "Mobile County",
+"state": "Alabama",
+"ISO3166-2-lvl4": "US-AL",
+"postcode": "36610",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"30.7254663",
+"30.7654663",
+"-88.0966667",
+"-88.0566667"
+]
+},
+"r:33.73864,-84.31075": {
+"place_id": 342583817,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153911846,
+"lat": "33.7034405",
+"lon": "-84.3143682",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.33749181912886295,
+"addresstype": "suburb",
+"name": "Gresham Park",
+"display_name": "Gresham Park, Candler-McAfee, DeKalb County, Georgia, 30316, United States",
+"address": {
+"suburb": "Gresham Park",
+"town": "Candler-McAfee",
+"county": "DeKalb County",
+"state": "Georgia",
+"ISO3166-2-lvl4": "US-GA",
+"postcode": "30316",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.6834405",
+"33.7234405",
+"-84.3343682",
+"-84.2943682"
+]
+},
+"r:31.21926,-81.38869": {
+"place_id": 300961233,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1028120,
+"lat": "31.2171726",
+"lon": "-81.5012681",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.5545602761946635,
+"addresstype": "county",
+"name": "Glynn County",
+"display_name": "Glynn County, Georgia, United States",
+"address": {
+"county": "Glynn County",
+"state": "Georgia",
+"ISO3166-2-lvl4": "US-GA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"30.9906440",
+"31.4530370",
+"-81.7824930",
+"-81.1825640"
+]
+},
+"r:34.09015,-84.29121": {
+"place_id": 342253203,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 119565,
+"lat": "34.1134001",
+"lon": "-84.2693745",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4403473780512054,
+"addresstype": "town",
+"name": "Milton",
+"display_name": "Milton, Fulton County, Georgia, 30004, United States",
+"address": {
+"town": "Milton",
+"county": "Fulton County",
+"state": "Georgia",
+"ISO3166-2-lvl4": "US-GA",
+"postcode": "30004",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"34.0771650",
+"34.1861911",
+"-84.3965840",
+"-84.2447250"
+]
+},
+"r:33.90412,-84.15513": {
+"place_id": 342282608,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153950001,
+"lat": "33.8981406",
+"lon": "-84.1160973",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.14671834821087965,
+"addresstype": "suburb",
+"name": "Luxomni",
+"display_name": "Luxomni, Lilburn, Gwinnett County, Georgia, 30047, United States",
+"address": {
+"suburb": "Luxomni",
+"town": "Lilburn",
+"county": "Gwinnett County",
+"state": "Georgia",
+"ISO3166-2-lvl4": "US-GA",
+"postcode": "30047",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.8781406",
+"33.9181406",
+"-84.1360973",
+"-84.0960973"
+]
+},
+"r:33.92553,-83.97350": {
+"place_id": 343665335,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 119595,
+"lat": "33.9566391",
+"lon": "-83.9890066",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5103791506829329,
+"addresstype": "city",
+"name": "Lawrenceville",
+"display_name": "Lawrenceville, Gwinnett County, Georgia, United States",
+"address": {
+"city": "Lawrenceville",
+"county": "Gwinnett County",
+"state": "Georgia",
+"ISO3166-2-lvl4": "US-GA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.9121200",
+"33.9906550",
+"-84.0461430",
+"-83.9523630"
+]
+},
+"r:33.44254,-84.54073": {
+"place_id": 344051088,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 154050902,
+"lat": "33.4501149",
+"lon": "-84.5388173",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.14670416800183103,
+"addresstype": "suburb",
+"name": "Smiths Crossroads",
+"display_name": "Smiths Crossroads, Fayette County, Georgia, 30290, United States",
+"address": {
+"suburb": "Smiths Crossroads",
+"county": "Fayette County",
+"state": "Georgia",
+"ISO3166-2-lvl4": "US-GA",
+"postcode": "30290",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.4301149",
+"33.4701149",
+"-84.5588173",
+"-84.5188173"
+]
+},
+"r:33.57792,-81.75066": {
+"place_id": 343471088,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153875694,
+"lat": "33.5762490",
+"lon": "-81.7539982",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13339075989929045,
+"addresstype": "hamlet",
+"name": "Aiken Heights",
+"display_name": "Aiken Heights, Aiken County, South Carolina, 29801, United States",
+"address": {
+"hamlet": "Aiken Heights",
+"county": "Aiken County",
+"state": "South Carolina",
+"ISO3166-2-lvl4": "US-SC",
+"postcode": "29801",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.5562490",
+"33.5962490",
+"-81.7739982",
+"-81.7339982"
+]
+},
+"r:33.95373,-81.08173": {
+"place_id": 344768781,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153928694,
+"lat": "33.9487644",
+"lon": "-81.0806496",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13338441672388798,
+"addresstype": "hamlet",
+"name": "Westwood",
+"display_name": "Westwood, Cayce, Lexington County, South Carolina, 29033, United States",
+"address": {
+"hamlet": "Westwood",
+"town": "Cayce",
+"county": "Lexington County",
+"state": "South Carolina",
+"ISO3166-2-lvl4": "US-SC",
+"postcode": "29033",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.9287644",
+"33.9687644",
+"-81.1006496",
+"-81.0606496"
+]
+},
+"r:40.21790,-85.44596": {
+"place_id": 369645553,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 153806117,
+"lat": "40.2191096",
+"lon": "-85.4308110",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13339428473334858,
+"addresstype": "hamlet",
+"name": "Andersonville",
+"display_name": "Andersonville, Muncie, Delaware County, Indiana, 47308, United States",
+"address": {
+"hamlet": "Andersonville",
+"city": "Muncie",
+"county": "Delaware County",
+"state": "Indiana",
+"ISO3166-2-lvl4": "US-IN",
+"postcode": "47308",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.1991096",
+"40.2391096",
+"-85.4508110",
+"-85.4108110"
+]
+},
+"r:39.64983,-79.96185": {
+"place_id": 350962414,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158648516,
+"lat": "39.6492321",
+"lon": "-79.9641546",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.1333943381399252,
+"addresstype": "hamlet",
+"name": "Evansdale",
+"display_name": "Evansdale, Morgantown, Monongalia County, West Virginia, 26506, United States",
+"address": {
+"hamlet": "Evansdale",
+"city": "Morgantown",
+"county": "Monongalia County",
+"state": "West Virginia",
+"ISO3166-2-lvl4": "US-WV",
+"postcode": "26506",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.6292321",
+"39.6692321",
+"-79.9841546",
+"-79.9441546"
+]
+},
+"r:40.71304,-73.55791": {
+"place_id": 360020381,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158836672,
+"lat": "40.7142296",
+"lon": "-73.5595107",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.48463057595744835,
+"addresstype": "town",
+"name": "East Meadow",
+"display_name": "East Meadow, Town of Hempstead, Nassau County, New York, 11554, United States",
+"address": {
+"town": "East Meadow",
+"municipality": "Town of Hempstead",
+"county": "Nassau County",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11554",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.6742296",
+"40.7542296",
+"-73.5995107",
+"-73.5195107"
+]
+},
+"r:40.63373,-74.02069": {
+"place_id": 428257016,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.71194,-73.94667": {
+"place_id": 361440336,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158863515,
+"lat": "40.7146220",
+"lon": "-73.9534500",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.5159197799415719,
+"addresstype": "quarter",
+"name": "Williamsburg",
+"display_name": "Williamsburg, Brooklyn, Kings County, New York, 11249, United States",
+"address": {
+"quarter": "Williamsburg",
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11249",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7046220",
+"40.7246220",
+"-73.9634500",
+"-73.9434500"
+]
+},
+"r:40.63861,-73.96833": {
+"place_id": 359040378,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158875397,
+"lat": "40.6520481",
+"lon": "-73.9590270",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.4155791147609246,
+"addresstype": "quarter",
+"name": "Flatbush",
+"display_name": "Flatbush, Brooklyn, Kings County, New York, 11226, United States",
+"address": {
+"quarter": "Flatbush",
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11226",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.6420481",
+"40.6620481",
+"-73.9690270",
+"-73.9490270"
+]
+},
+"r:42.80249,-73.92488": {
+"place_id": 350410816,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 175481,
+"lat": "42.8142432",
+"lon": "-73.9395687",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.5813113530875959,
+"addresstype": "city",
+"name": "City of Schenectady",
+"display_name": "City of Schenectady, Schenectady County, New York, United States",
+"address": {
+"city": "City of Schenectady",
+"county": "Schenectady County",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.7633940",
+"42.8437830",
+"-73.9833630",
+"-73.8930580"
+]
+},
+"r:40.63522,-74.07639": {
+"place_id": 357176264,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691948,
+"lat": "40.5834557",
+"lon": "-74.1496048",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6295649845754,
+"addresstype": "suburb",
+"name": "Staten Island",
+"display_name": "Staten Island, Richmond County, New York, United States",
+"address": {
+"suburb": "Staten Island",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.4765780",
+"40.6515060",
+"-74.2588430",
+"-74.0346130"
+]
+},
+"r:43.16281,-77.58297": {
+"place_id": 351927447,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 176069,
+"lat": "43.1572850",
+"lon": "-77.6152140",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.650125105341446,
+"addresstype": "city",
+"name": "City of Rochester",
+"display_name": "City of Rochester, Monroe County, New York, United States",
+"address": {
+"city": "City of Rochester",
+"county": "Monroe County",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"43.1033600",
+"43.2676496",
+"-77.7015050",
+"-77.5325100"
+]
+},
+"r:40.68053,-73.95354": {
+"place_id": 427318593,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.63571,-74.00913": {
+"place_id": 427881874,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.69306,-73.97103": {
+"place_id": 427881874,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.74589,-73.98793": {
+"place_id": 361646292,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7340060,
+"lat": "40.7508716",
+"lon": "-73.9875636",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.133425092698558,
+"addresstype": "neighbourhood",
+"name": "Manhattan Community Board 5",
+"display_name": "Manhattan Community Board 5, Manhattan, New York County, New York, United States",
+"address": {
+"neighbourhood": "Manhattan Community Board 5",
+"suburb": "Manhattan",
+"county": "New York County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7339696",
+"40.7677661",
+"-73.9970852",
+"-73.9681876"
+]
+},
+"r:40.75040,-73.89404": {
+"place_id": 359856344,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158809359,
+"lat": "40.7453798",
+"lon": "-73.9054145",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.4101932977803121,
+"addresstype": "quarter",
+"name": "Woodside",
+"display_name": "Woodside, Queens, Queens County, New York, 11377, United States",
+"address": {
+"quarter": "Woodside",
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11377",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7353798",
+"40.7553798",
+"-73.9154145",
+"-73.8954145"
+]
+},
+"r:40.72487,-73.74489": {
+"place_id": 361182546,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691819,
+"lat": "40.7135078",
+"lon": "-73.8283132",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6698274290235121,
+"addresstype": "suburb",
+"name": "Queens",
+"display_name": "Queens, Queens County, New York, United States",
+"address": {
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.4921210",
+"40.8121350",
+"-74.0437800",
+"-73.7002330"
+]
+},
+"r:40.81868,-73.89975": {
+"place_id": 359490049,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 13075913036,
+"lat": "40.8297573",
+"lon": "-73.9074786",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.4664803421156311,
+"addresstype": "quarter",
+"name": "South Bronx",
+"display_name": "South Bronx, The Bronx, Bronx County, New York, 10456, United States",
+"address": {
+"quarter": "South Bronx",
+"suburb": "The Bronx",
+"county": "Bronx County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "10456",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.8197573",
+"40.8397573",
+"-73.9174786",
+"-73.8974786"
+]
+},
+"r:40.73007,-73.99803": {
+"place_id": 432360111,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7340075,
+"lat": "40.7298418",
+"lon": "-74.0057657",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.133425092698558,
+"addresstype": "neighbourhood",
+"name": "Manhattan Community Board 2",
+"display_name": "Manhattan Community Board 2, Manhattan, New York County, New York, United States",
+"address": {
+"neighbourhood": "Manhattan Community Board 2",
+"suburb": "Manhattan",
+"county": "New York County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7161492",
+"40.7435392",
+"-74.0213403",
+"-73.9898300"
+]
+},
+"r:40.82812,-73.85252": {
+"place_id": 360033821,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691916,
+"lat": "40.8466508",
+"lon": "-73.8785937",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6738424555047183,
+"addresstype": "suburb",
+"name": "The Bronx",
+"display_name": "The Bronx, Bronx County, New York, United States",
+"address": {
+"suburb": "The Bronx",
+"county": "Bronx County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7857390",
+"40.9176300",
+"-73.9339070",
+"-73.7483740"
+]
+},
+"r:40.67109,-73.99114": {
+"place_id": 355596965,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 7277862197,
+"lat": "40.6750299",
+"lon": "-73.9887157",
+"category": "place",
+"type": "farm",
+"place_rank": 22,
+"importance": 0.10675842603189133,
+"addresstype": "farm",
+"name": "Gotham Greens",
+"display_name": "Gotham Greens, Gowanus, Brooklyn, Kings County, New York, 11215, United States",
+"address": {
+"farm": "Gotham Greens",
+"neighbourhood": "Gowanus",
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11215",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.6650299",
+"40.6850299",
+"-73.9987157",
+"-73.9787157"
+]
+},
+"r:40.64021,-73.97873": {
+"place_id": 428257016,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.63810,-73.97835": {
+"place_id": 427881874,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.76475,-73.90532": {
+"place_id": 360208979,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158809359,
+"lat": "40.7453798",
+"lon": "-73.9054145",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.4101932977803121,
+"addresstype": "quarter",
+"name": "Woodside",
+"display_name": "Woodside, Queens, Queens County, New York, 11377, United States",
+"address": {
+"quarter": "Woodside",
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11377",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7353798",
+"40.7553798",
+"-73.9154145",
+"-73.8954145"
+]
+},
+"r:40.75835,-73.91033": {
+"place_id": 360208979,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158809359,
+"lat": "40.7453798",
+"lon": "-73.9054145",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.4101932977803121,
+"addresstype": "quarter",
+"name": "Woodside",
+"display_name": "Woodside, Queens, Queens County, New York, 11377, United States",
+"address": {
+"quarter": "Woodside",
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11377",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7353798",
+"40.7553798",
+"-73.9154145",
+"-73.8954145"
+]
+},
+"r:40.75009,-73.90457": {
+"place_id": 359088080,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158809359,
+"lat": "40.7453798",
+"lon": "-73.9054145",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.4101932977803121,
+"addresstype": "quarter",
+"name": "Woodside",
+"display_name": "Woodside, Queens, Queens County, New York, 11377, United States",
+"address": {
+"quarter": "Woodside",
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11377",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7353798",
+"40.7553798",
+"-73.9154145",
+"-73.8954145"
+]
+},
+"r:40.67720,-73.79073": {
+"place_id": 358880099,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691819,
+"lat": "40.7135078",
+"lon": "-73.8283132",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6698274290235121,
+"addresstype": "suburb",
+"name": "Queens",
+"display_name": "Queens, Queens County, New York, United States",
+"address": {
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.4921210",
+"40.8121350",
+"-74.0437800",
+"-73.7002330"
+]
+},
+"r:40.81063,-73.91016": {
+"place_id": 360549737,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 13075913036,
+"lat": "40.8297573",
+"lon": "-73.9074786",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.4664803421156311,
+"addresstype": "quarter",
+"name": "South Bronx",
+"display_name": "South Bronx, The Bronx, Bronx County, New York, 10456, United States",
+"address": {
+"quarter": "South Bronx",
+"suburb": "The Bronx",
+"county": "Bronx County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "10456",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.8197573",
+"40.8397573",
+"-73.9174786",
+"-73.8974786"
+]
+},
+"r:40.73920,-73.91970": {
+"place_id": 358502563,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158809359,
+"lat": "40.7453798",
+"lon": "-73.9054145",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.4101932977803121,
+"addresstype": "quarter",
+"name": "Woodside",
+"display_name": "Woodside, Queens, Queens County, New York, 11377, United States",
+"address": {
+"quarter": "Woodside",
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11377",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7353798",
+"40.7553798",
+"-73.9154145",
+"-73.8954145"
+]
+},
+"r:42.89910,-78.83291": {
+"place_id": 351709916,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 13058296924,
+"lat": "42.9147019",
+"lon": "-78.8292824",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.26124069590558274,
+"addresstype": "suburb",
+"name": "East Side",
+"display_name": "East Side, Buffalo, Erie County, New York, 14211, United States",
+"address": {
+"suburb": "East Side",
+"city": "Buffalo",
+"county": "Erie County",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "14211",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.8947019",
+"42.9347019",
+"-78.8492824",
+"-78.8092824"
+]
+},
+"r:42.66408,-73.77198": {
+"place_id": 384467509,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158802357,
+"lat": "42.6831344",
+"lon": "-73.7784543",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.31776205367205024,
+"addresstype": "village",
+"name": "West Albany",
+"display_name": "West Albany, City of Albany, Albany County, New York, 12111, United States",
+"address": {
+"village": "West Albany",
+"city": "City of Albany",
+"county": "Albany County",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "12111",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.6631344",
+"42.7031344",
+"-73.7984543",
+"-73.7584543"
+]
+},
+"r:40.63049,-74.02835": {
+"place_id": 428092833,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.63538,-74.00911": {
+"place_id": 427318593,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.68302,-73.96405": {
+"place_id": 428257016,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.93462,-73.88581": {
+"place_id": 359470844,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 174494,
+"lat": "40.9312099",
+"lon": "-73.8987469",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.575659480118772,
+"addresstype": "city",
+"name": "City of Yonkers",
+"display_name": "City of Yonkers, Westchester County, New York, United States",
+"address": {
+"city": "City of Yonkers",
+"county": "Westchester County",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.9004520",
+"40.9883420",
+"-73.9183460",
+"-73.8104240"
+]
+},
+"r:40.68396,-73.95603": {
+"place_id": 427881874,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.63475,-74.08608": {
+"place_id": 357176264,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691948,
+"lat": "40.5834557",
+"lon": "-74.1496048",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6295649845754,
+"addresstype": "suburb",
+"name": "Staten Island",
+"display_name": "Staten Island, Richmond County, New York, United States",
+"address": {
+"suburb": "Staten Island",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.4765780",
+"40.6515060",
+"-74.2588430",
+"-74.0346130"
+]
+},
+"r:40.67686,-73.93010": {
+"place_id": 428257016,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.72015,-73.99067": {
+"place_id": 359118862,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7340074,
+"lat": "40.7189702",
+"lon": "-73.9807827",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.133425092698558,
+"addresstype": "neighbourhood",
+"name": "Manhattan Community Board 3",
+"display_name": "Manhattan Community Board 3, Manhattan, New York County, New York, United States",
+"address": {
+"neighbourhood": "Manhattan Community Board 3",
+"suburb": "Manhattan",
+"county": "New York County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7042712",
+"40.7344282",
+"-74.0014490",
+"-73.9627691"
+]
+},
+"r:40.70851,-73.75244": {
+"place_id": 358011078,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691819,
+"lat": "40.7135078",
+"lon": "-73.8283132",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6698274290235121,
+"addresstype": "suburb",
+"name": "Queens",
+"display_name": "Queens, Queens County, New York, United States",
+"address": {
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.4921210",
+"40.8121350",
+"-74.0437800",
+"-73.7002330"
+]
+},
+"r:40.64248,-74.00191": {
+"place_id": 428257016,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.63689,-74.01570": {
+"place_id": 427881874,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.64581,-74.01717": {
+"place_id": 427318593,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.64006,-73.97965": {
+"place_id": 427881874,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.67949,-73.96338": {
+"place_id": 427318593,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.67849,-73.96269": {
+"place_id": 427881874,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691750,
+"lat": "40.6526006",
+"lon": "-73.9497211",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.7384986389272082,
+"addresstype": "suburb",
+"name": "Brooklyn",
+"display_name": "Brooklyn, Kings County, New York, United States",
+"address": {
+"suburb": "Brooklyn",
+"county": "Kings County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5503390",
+"40.7394340",
+"-74.0566880",
+"-73.8329450"
+]
+},
+"r:40.84900,-73.91016": {
+"place_id": 358594704,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 13075913036,
+"lat": "40.8297573",
+"lon": "-73.9074786",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.4664803421156311,
+"addresstype": "quarter",
+"name": "South Bronx",
+"display_name": "South Bronx, The Bronx, Bronx County, New York, 10456, United States",
+"address": {
+"quarter": "South Bronx",
+"suburb": "The Bronx",
+"county": "Bronx County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "10456",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.8197573",
+"40.8397573",
+"-73.9174786",
+"-73.8974786"
+]
+},
+"r:40.86698,-73.88645": {
+"place_id": 356641067,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691916,
+"lat": "40.8466508",
+"lon": "-73.8785937",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6738424555047183,
+"addresstype": "suburb",
+"name": "The Bronx",
+"display_name": "The Bronx, Bronx County, New York, United States",
+"address": {
+"suburb": "The Bronx",
+"county": "Bronx County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7857390",
+"40.9176300",
+"-73.9339070",
+"-73.7483740"
+]
+},
+"r:40.74510,-73.90969": {
+"place_id": 358502563,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158809359,
+"lat": "40.7453798",
+"lon": "-73.9054145",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.4101932977803121,
+"addresstype": "quarter",
+"name": "Woodside",
+"display_name": "Woodside, Queens, Queens County, New York, 11377, United States",
+"address": {
+"quarter": "Woodside",
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11377",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7353798",
+"40.7553798",
+"-73.9154145",
+"-73.8954145"
+]
+},
+"r:40.75497,-73.92574": {
+"place_id": 361182546,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691819,
+"lat": "40.7135078",
+"lon": "-73.8283132",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6698274290235121,
+"addresstype": "suburb",
+"name": "Queens",
+"display_name": "Queens, Queens County, New York, United States",
+"address": {
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.4921210",
+"40.8121350",
+"-74.0437800",
+"-73.7002330"
+]
+},
+"r:40.87598,-73.86733": {
+"place_id": 360033821,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691916,
+"lat": "40.8466508",
+"lon": "-73.8785937",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6738424555047183,
+"addresstype": "suburb",
+"name": "The Bronx",
+"display_name": "The Bronx, Bronx County, New York, United States",
+"address": {
+"suburb": "The Bronx",
+"county": "Bronx County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7857390",
+"40.9176300",
+"-73.9339070",
+"-73.7483740"
+]
+},
+"r:40.68878,-73.84198": {
+"place_id": 358880099,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691819,
+"lat": "40.7135078",
+"lon": "-73.8283132",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6698274290235121,
+"addresstype": "suburb",
+"name": "Queens",
+"display_name": "Queens, Queens County, New York, United States",
+"address": {
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.4921210",
+"40.8121350",
+"-74.0437800",
+"-73.7002330"
+]
+},
+"r:40.66890,-73.81424": {
+"place_id": 361182546,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9691819,
+"lat": "40.7135078",
+"lon": "-73.8283132",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6698274290235121,
+"addresstype": "suburb",
+"name": "Queens",
+"display_name": "Queens, Queens County, New York, United States",
+"address": {
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.4921210",
+"40.8121350",
+"-74.0437800",
+"-73.7002330"
+]
+},
+"r:40.74722,-73.86386": {
+"place_id": 357364556,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158874245,
+"lat": "40.7365804",
+"lon": "-73.8783932",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.44228625660441245,
+"addresstype": "quarter",
+"name": "Elmhurst",
+"display_name": "Elmhurst, Queens, Queens County, New York, 11373, United States",
+"address": {
+"quarter": "Elmhurst",
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11373",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7265804",
+"40.7465804",
+"-73.8883932",
+"-73.8683932"
+]
+},
+"r:40.59276,-73.78399": {
+"place_id": 360865295,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158813356,
+"lat": "40.5934173",
+"lon": "-73.7895462",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.36366628930239936,
+"addresstype": "quarter",
+"name": "Arverne",
+"display_name": "Arverne, Queens, Queens County, New York, 11692, United States",
+"address": {
+"quarter": "Arverne",
+"suburb": "Queens",
+"county": "Queens County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "11692",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5834173",
+"40.6034173",
+"-73.7995462",
+"-73.7795462"
+]
+},
+"r:43.07011,-76.05911": {
+"place_id": 353131365,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 174911,
+"lat": "43.0653446",
+"lon": "-76.0785332",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.44944568143391417,
+"addresstype": "village",
+"name": "Village of East Syracuse",
+"display_name": "Village of East Syracuse, Town of DeWitt, Onondaga County, New York, United States",
+"address": {
+"village": "Village of East Syracuse",
+"town": "Town of DeWitt",
+"county": "Onondaga County",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"43.0557080",
+"43.0712460",
+"-76.0902510",
+"-76.0515530"
+]
+},
+"r:43.31623,-73.65672": {
+"place_id": 352057776,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 174383,
+"lat": "43.3099410",
+"lon": "-73.6444470",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.5167584649102698,
+"addresstype": "city",
+"name": "City of Glens Falls",
+"display_name": "City of Glens Falls, Warren County, New York, 12801, United States",
+"address": {
+"city": "City of Glens Falls",
+"county": "Warren County",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"postcode": "12801",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"43.2893100",
+"43.3270960",
+"-73.6740840",
+"-73.6194420"
+]
+},
+"r:44.09818,-70.21797": {
+"place_id": 360560521,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 132521,
+"lat": "44.0990717",
+"lon": "-70.2177099",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5245809813568343,
+"addresstype": "city",
+"name": "Lewiston",
+"display_name": "Lewiston, Androscoggin County, Maine, 04240, United States",
+"address": {
+"city": "Lewiston",
+"county": "Androscoggin County",
+"state": "Maine",
+"ISO3166-2-lvl4": "US-ME",
+"postcode": "04240",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"44.0053548",
+"44.1675159",
+"-70.2242620",
+"-70.1152520"
+]
+},
+"r:40.50700,-78.40943": {
+"place_id": 348956505,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158542106,
+"lat": "40.5020148",
+"lon": "-78.4166802",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.1333954184786755,
+"addresstype": "hamlet",
+"name": "Westmont",
+"display_name": "Westmont, Altoona, Blair County, Pennsylvania, 16660, United States",
+"address": {
+"hamlet": "Westmont",
+"city": "Altoona",
+"county": "Blair County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"postcode": "16660",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.4820148",
+"40.5220148",
+"-78.4366802",
+"-78.3966802"
+]
+},
+"r:40.58209,-80.22495": {
+"place_id": 366939361,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 187289,
+"lat": "40.5864380",
+"lon": "-80.2273615",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4151179119101859,
+"addresstype": "town",
+"name": "Ambridge",
+"display_name": "Ambridge, Beaver County, Pennsylvania, United States",
+"address": {
+"town": "Ambridge",
+"county": "Beaver County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5730825",
+"40.6076010",
+"-80.2365990",
+"-80.2087260"
+]
+},
+"r:39.92360,-75.23757": {
+"place_id": 346514475,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 18973880,
+"lat": "39.9130945",
+"lon": "-75.2433102",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.3980280368594564,
+"addresstype": "suburb",
+"name": "Southwest Philadelphia",
+"display_name": "Southwest Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States",
+"address": {
+"suburb": "Southwest Philadelphia",
+"city": "Philadelphia",
+"county": "Philadelphia County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.8670050",
+"39.9463939",
+"-75.2653250",
+"-75.1927380"
+]
+},
+"r:39.96102,-75.24075": {
+"place_id": 343459827,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7962887,
+"lat": "39.9600023",
+"lon": "-75.2248861",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.44289476768746855,
+"addresstype": "suburb",
+"name": "West Philadelphia",
+"display_name": "West Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States",
+"address": {
+"suburb": "West Philadelphia",
+"city": "Philadelphia",
+"county": "Philadelphia County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.9422136",
+"40.0116551",
+"-75.2802660",
+"-75.1793624"
+]
+},
+"r:40.02893,-75.16348": {
+"place_id": 359200474,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7962886,
+"lat": "40.0358467",
+"lon": "-75.1747379",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.39696805131781304,
+"addresstype": "suburb",
+"name": "Northwest Philadelphia",
+"display_name": "Northwest Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States",
+"address": {
+"suburb": "Northwest Philadelphia",
+"city": "Philadelphia",
+"county": "Philadelphia County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.0064826",
+"40.0929106",
+"-75.2644328",
+"-75.1575570"
+]
+},
+"r:40.03069,-75.13961": {
+"place_id": 357889716,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7962884,
+"lat": "39.9939397",
+"lon": "-75.1545630",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.4263602961431367,
+"addresstype": "suburb",
+"name": "North Philadelphia",
+"display_name": "North Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States",
+"address": {
+"suburb": "North Philadelphia",
+"city": "Philadelphia",
+"county": "Philadelphia County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.9545466",
+"40.0846702",
+"-75.2041674",
+"-75.0925542"
+]
+},
+"r:40.02131,-75.13436": {
+"place_id": 357889716,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7962884,
+"lat": "39.9939397",
+"lon": "-75.1545630",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.4263602961431367,
+"addresstype": "suburb",
+"name": "North Philadelphia",
+"display_name": "North Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States",
+"address": {
+"suburb": "North Philadelphia",
+"city": "Philadelphia",
+"county": "Philadelphia County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.9545466",
+"40.0846702",
+"-75.2041674",
+"-75.0925542"
+]
+},
+"r:40.01100,-75.12444": {
+"place_id": 355898038,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7962884,
+"lat": "39.9939397",
+"lon": "-75.1545630",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.4263602961431367,
+"addresstype": "suburb",
+"name": "North Philadelphia",
+"display_name": "North Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States",
+"address": {
+"suburb": "North Philadelphia",
+"city": "Philadelphia",
+"county": "Philadelphia County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.9545466",
+"40.0846702",
+"-75.2041674",
+"-75.0925542"
+]
+},
+"r:40.78845,-76.54840": {
+"place_id": 351669174,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 187821,
+"lat": "40.7887609",
+"lon": "-76.5585175",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4099433336060744,
+"addresstype": "town",
+"name": "Shamokin",
+"display_name": "Shamokin, Northumberland County, Pennsylvania, 17872, United States",
+"address": {
+"town": "Shamokin",
+"county": "Northumberland County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"postcode": "17872",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7787770",
+"40.7966230",
+"-76.5649460",
+"-76.5457790"
+]
+},
+"r:40.29073,-76.90214": {
+"place_id": 350580107,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1148853389,
+"lat": "40.2865184",
+"lon": "-76.8964095",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.22898814784265079,
+"addresstype": "suburb",
+"name": "Uptown",
+"display_name": "Uptown, Harrisburg, Dauphin County, Pennsylvania, United States",
+"address": {
+"suburb": "Uptown",
+"city": "Harrisburg",
+"county": "Dauphin County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.2778855",
+"40.3009835",
+"-76.9064292",
+"-76.8874690"
+]
+},
+"r:40.60910,-75.56426": {
+"place_id": 358109567,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 157634854,
+"lat": "40.6112074",
+"lon": "-75.5682414",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.29396319343666205,
+"addresstype": "hamlet",
+"name": "Walbert",
+"display_name": "Walbert, South Whitehall Township, Lehigh County, Pennsylvania, 18104, United States",
+"address": {
+"hamlet": "Walbert",
+"city": "South Whitehall Township",
+"county": "Lehigh County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"postcode": "18104",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5912074",
+"40.6312074",
+"-75.5882414",
+"-75.5482414"
+]
+},
+"r:40.99440,-75.19085": {
+"place_id": 358877153,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 187522,
+"lat": "40.9864261",
+"lon": "-75.1946649",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4424389152612867,
+"addresstype": "town",
+"name": "Stroudsburg",
+"display_name": "Stroudsburg, Monroe County, Pennsylvania, 18360, United States",
+"address": {
+"town": "Stroudsburg",
+"county": "Monroe County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"postcode": "18360",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.9744951",
+"40.9975218",
+"-75.2152257",
+"-75.1807742"
+]
+},
+"r:40.24781,-75.28455": {
+"place_id": 358144166,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 187786,
+"lat": "40.2414952",
+"lon": "-75.2837862",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.49843881454233957,
+"addresstype": "town",
+"name": "Lansdale",
+"display_name": "Lansdale, Montgomery County, Pennsylvania, United States",
+"address": {
+"town": "Lansdale",
+"county": "Montgomery County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.2230042",
+"40.2613362",
+"-75.3034642",
+"-75.2543240"
+]
+},
+"r:40.05273,-75.06658": {
+"place_id": 357904227,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7962885,
+"lat": "40.0368235",
+"lon": "-75.0407330",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.42044889705287697,
+"addresstype": "suburb",
+"name": "Northeast Philadelphia",
+"display_name": "Northeast Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States",
+"address": {
+"suburb": "Northeast Philadelphia",
+"city": "Philadelphia",
+"county": "Philadelphia County",
+"state": "Pennsylvania",
+"ISO3166-2-lvl4": "US-PA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.0032947",
+"40.1379593",
+"-75.1144974",
+"-74.9558314"
+]
+},
+"r:38.62956,-75.85993": {
+"place_id": 346335062,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158485800,
+"lat": "38.6337266",
+"lon": "-75.8493791",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13336833524071104,
+"addresstype": "hamlet",
+"name": "Prospect Hills",
+"display_name": "Prospect Hills, Hurlock, Dorchester County, Maryland, 21643, United States",
+"address": {
+"hamlet": "Prospect Hills",
+"village": "Hurlock",
+"county": "Dorchester County",
+"state": "Maryland",
+"ISO3166-2-lvl4": "US-MD",
+"postcode": "21643",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.6137266",
+"38.6537266",
+"-75.8693791",
+"-75.8293791"
+]
+},
+"r:39.10544,-77.00337": {
+"place_id": 349873629,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158531865,
+"lat": "39.0987193",
+"lon": "-77.0035880",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13339818646524756,
+"addresstype": "hamlet",
+"name": "Colesville Park",
+"display_name": "Colesville Park, Cloverly, Montgomery County, Maryland, 20905, United States",
+"address": {
+"hamlet": "Colesville Park",
+"village": "Cloverly",
+"county": "Montgomery County",
+"state": "Maryland",
+"ISO3166-2-lvl4": "US-MD",
+"postcode": "20905",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.0787193",
+"39.1187193",
+"-77.0235880",
+"-76.9835880"
+]
+},
+"r:39.10546,-77.00313": {
+"place_id": 348778929,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158531865,
+"lat": "39.0987193",
+"lon": "-77.0035880",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13339818646524756,
+"addresstype": "hamlet",
+"name": "Colesville Park",
+"display_name": "Colesville Park, Cloverly, Montgomery County, Maryland, 20905, United States",
+"address": {
+"hamlet": "Colesville Park",
+"village": "Cloverly",
+"county": "Montgomery County",
+"state": "Maryland",
+"ISO3166-2-lvl4": "US-MD",
+"postcode": "20905",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.0787193",
+"39.1187193",
+"-77.0235880",
+"-76.9835880"
+]
+},
+"r:40.25605,-74.27948": {
+"place_id": 357703936,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 170393,
+"lat": "40.2601096",
+"lon": "-74.2737573",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4751725480890463,
+"addresstype": "town",
+"name": "Freehold",
+"display_name": "Freehold, Monmouth County, New Jersey, United States",
+"address": {
+"town": "Freehold",
+"county": "Monmouth County",
+"state": "New Jersey",
+"ISO3166-2-lvl4": "US-NJ",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.2473720",
+"40.2725280",
+"-74.2920130",
+"-74.2616100"
+]
+},
+"r:40.89954,-74.40821": {
+"place_id": 358568919,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 170556,
+"lat": "40.9025989",
+"lon": "-74.4070971",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.43346475139721696,
+"addresstype": "town",
+"name": "Boonton",
+"display_name": "Boonton, Morris County, New Jersey, 07005, United States",
+"address": {
+"town": "Boonton",
+"county": "Morris County",
+"state": "New Jersey",
+"ISO3166-2-lvl4": "US-NJ",
+"postcode": "07005",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.8915670",
+"40.9183180",
+"-74.4263350",
+"-74.3833102"
+]
+},
+"r:40.21583,-74.01222": {
+"place_id": 359270584,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 170406,
+"lat": "40.2203907",
+"lon": "-74.0120817",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5175138989826271,
+"addresstype": "town",
+"name": "Asbury Park",
+"display_name": "Asbury Park, Monmouth County, New Jersey, 07711, United States",
+"address": {
+"town": "Asbury Park",
+"county": "Monmouth County",
+"state": "New Jersey",
+"ISO3166-2-lvl4": "US-NJ",
+"postcode": "07711",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.2131250",
+"40.2312220",
+"-74.0272560",
+"-73.9946810"
+]
+},
+"r:39.36286,-74.42583": {
+"place_id": 344837714,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 13666254907,
+"lat": "39.3684609",
+"lon": "-74.4155277",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.14673371862363618,
+"addresstype": "suburb",
+"name": "Inlet",
+"display_name": "Inlet, Atlantic City, Atlantic County, New Jersey, 08401, United States",
+"address": {
+"suburb": "Inlet",
+"city": "Atlantic City",
+"county": "Atlantic County",
+"state": "New Jersey",
+"ISO3166-2-lvl4": "US-NJ",
+"postcode": "08401",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.3484609",
+"39.3884609",
+"-74.4355277",
+"-74.3955277"
+]
+},
+"r:40.73160,-74.06638": {
+"place_id": 358460473,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158809217,
+"lat": "40.7292686",
+"lon": "-74.0656969",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13339900129701684,
+"addresstype": "hamlet",
+"name": "Bergen Square",
+"display_name": "Bergen Square, Journal Square, Jersey City, Hudson County, New Jersey, 07306, United States",
+"address": {
+"hamlet": "Bergen Square",
+"village": "Journal Square",
+"city": "Jersey City",
+"county": "Hudson County",
+"state": "New Jersey",
+"ISO3166-2-lvl4": "US-NJ",
+"postcode": "07306",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7092686",
+"40.7492686",
+"-74.0856969",
+"-74.0456969"
+]
+},
+"r:40.73485,-74.17379": {
+"place_id": 356903773,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5907411085,
+"lat": "40.7263505",
+"lon": "-74.1596265",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.22274623325780465,
+"addresstype": "village",
+"name": "The Ironbound",
+"display_name": "The Ironbound, Newark, Essex County, New Jersey, 07105, United States",
+"address": {
+"village": "The Ironbound",
+"city": "Newark",
+"county": "Essex County",
+"state": "New Jersey",
+"ISO3166-2-lvl4": "US-NJ",
+"postcode": "07105",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7063505",
+"40.7463505",
+"-74.1796265",
+"-74.1396265"
+]
+},
+"r:40.06173,-74.84797": {
+"place_id": 357685987,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158854613,
+"lat": "40.0603889",
+"lon": "-74.8504423",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13337874952315554,
+"addresstype": "hamlet",
+"name": "Springside",
+"display_name": "Springside, Burlington Township, Burlington County, New Jersey, 08016, United States",
+"address": {
+"hamlet": "Springside",
+"city": "Burlington Township",
+"county": "Burlington County",
+"state": "New Jersey",
+"ISO3166-2-lvl4": "US-NJ",
+"postcode": "08016",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.0403889",
+"40.0803889",
+"-74.8704423",
+"-74.8304423"
+]
+},
+"r:40.61641,-74.62707": {
+"place_id": 357170566,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 963381,
+"lat": "40.5931225",
+"lon": "-74.6049540",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4543284047113251,
+"addresstype": "town",
+"name": "Bridgewater Township",
+"display_name": "Bridgewater Township, Somerset County, New Jersey, United States",
+"address": {
+"town": "Bridgewater Township",
+"county": "Somerset County",
+"state": "New Jersey",
+"ISO3166-2-lvl4": "US-NJ",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.5427245",
+"40.6493110",
+"-74.6879252",
+"-74.5121830"
+]
+},
+"r:40.86957,-74.11006": {
+"place_id": 356960328,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 170621,
+"lat": "40.8814882",
+"lon": "-74.1131980",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4658967854999311,
+"addresstype": "town",
+"name": "Garfield",
+"display_name": "Garfield, Bergen County, New Jersey, 07026, United States",
+"address": {
+"town": "Garfield",
+"county": "Bergen County",
+"state": "New Jersey",
+"ISO3166-2-lvl4": "US-NJ",
+"postcode": "07026",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.8616150",
+"40.8937103",
+"-74.1301870",
+"-74.0919585"
+]
+},
+"r:39.35431,-74.45785": {
+"place_id": 344726413,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158845051,
+"lat": "39.3556721",
+"lon": "-74.4626506",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13340038529030288,
+"addresstype": "hamlet",
+"name": "Chelsea Heights",
+"display_name": "Chelsea Heights, Atlantic City, Atlantic County, New Jersey, 08406, United States",
+"address": {
+"hamlet": "Chelsea Heights",
+"city": "Atlantic City",
+"county": "Atlantic County",
+"state": "New Jersey",
+"ISO3166-2-lvl4": "US-NJ",
+"postcode": "08406",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"39.3356721",
+"39.3756721",
+"-74.4826506",
+"-74.4426506"
+]
+},
+"r:38.86985,-76.96077": {
+"place_id": 347785737,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 16394083,
+"lat": "38.8850212",
+"lon": "-76.9515575",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.1600849294270237,
+"addresstype": "city_district",
+"name": "Ward 7",
+"display_name": "Ward 7, Washington, District of Columbia, 20019, United States",
+"address": {
+"city_district": "Ward 7",
+"city": "Washington",
+"state": "District of Columbia",
+"ISO3166-2-lvl4": "US-DC",
+"postcode": "20019",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.8516037",
+"38.9185218",
+"-76.9836713",
+"-76.9093660"
+]
+},
+"r:38.93269,-76.97932": {
+"place_id": 348119857,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 4634087,
+"lat": "38.9328317",
+"lon": "-76.9842259",
+"category": "boundary",
+"type": "neighborhood",
+"place_rank": 19,
+"importance": 0.3623846332493779,
+"addresstype": "suburb",
+"name": "Brookland",
+"display_name": "Brookland, Ward 5, Washington, District of Columbia, United States",
+"address": {
+"suburb": "Brookland",
+"borough": "Ward 5",
+"city": "Washington",
+"state": "District of Columbia",
+"ISO3166-2-lvl4": "US-DC",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.9221207",
+"38.9407278",
+"-76.9941067",
+"-76.9717290"
+]
+},
+"r:38.91032,-77.01589": {
+"place_id": 343897420,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 16394251,
+"lat": "38.9270951",
+"lon": "-76.9845056",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.1600849294270237,
+"addresstype": "borough",
+"name": "Ward 5",
+"display_name": "Ward 5, Washington, District of Columbia, United States",
+"address": {
+"borough": "Ward 5",
+"city": "Washington",
+"state": "District of Columbia",
+"ISO3166-2-lvl4": "US-DC",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.8970847",
+"38.9572720",
+"-77.0192557",
+"-76.9419069"
+]
+},
+"r:42.35449,-71.13784": {
+"place_id": 361638494,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 14239100,
+"lat": "42.3530067",
+"lon": "-71.1321164",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.42488189173487034,
+"addresstype": "suburb",
+"name": "Allston",
+"display_name": "Allston, Boston, Suffolk County, Massachusetts, United States",
+"address": {
+"suburb": "Allston",
+"city": "Boston",
+"county": "Suffolk County",
+"state": "Massachusetts",
+"ISO3166-2-lvl4": "US-MA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.3460059",
+"42.3739748",
+"-71.1472121",
+"-71.1106054"
+]
+},
+"r:42.58210,-71.79609": {
+"place_id": 363054762,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1844165,
+"lat": "42.5838984",
+"lon": "-71.8038268",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5290776073236035,
+"addresstype": "city",
+"name": "Fitchburg",
+"display_name": "Fitchburg, Worcester County, Massachusetts, 01420, United States",
+"address": {
+"city": "Fitchburg",
+"county": "Worcester County",
+"state": "Massachusetts",
+"ISO3166-2-lvl4": "US-MA",
+"postcode": "01420",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.5437857",
+"42.6379850",
+"-71.8629526",
+"-71.7477419"
+]
+},
+"r:42.35171,-71.13440": {
+"place_id": 358327110,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 14239100,
+"lat": "42.3530067",
+"lon": "-71.1321164",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.42488189173487034,
+"addresstype": "suburb",
+"name": "Allston",
+"display_name": "Allston, Boston, Suffolk County, Massachusetts, United States",
+"address": {
+"suburb": "Allston",
+"city": "Boston",
+"county": "Suffolk County",
+"state": "Massachusetts",
+"ISO3166-2-lvl4": "US-MA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.3460059",
+"42.3739748",
+"-71.1472121",
+"-71.1106054"
+]
+},
+"r:42.45232,-73.25090": {
+"place_id": 355076420,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1839563,
+"lat": "42.4484778",
+"lon": "-73.2541069",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.532845757515572,
+"addresstype": "city",
+"name": "Pittsfield",
+"display_name": "Pittsfield, Berkshire County, Massachusetts, United States",
+"address": {
+"city": "Pittsfield",
+"county": "Berkshire County",
+"state": "Massachusetts",
+"ISO3166-2-lvl4": "US-MA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.3981309",
+"42.5046083",
+"-73.3389078",
+"-73.1821975"
+]
+},
+"r:42.36125,-71.34290": {
+"place_id": 362860435,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1863555,
+"lat": "42.3632063",
+"lon": "-71.3606721",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4585153154700323,
+"addresstype": "town",
+"name": "Wayland",
+"display_name": "Wayland, Middlesex County, Massachusetts, 01778, United States",
+"address": {
+"town": "Wayland",
+"county": "Middlesex County",
+"state": "Massachusetts",
+"ISO3166-2-lvl4": "US-MA",
+"postcode": "01778",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.3098210",
+"42.4127147",
+"-71.3981524",
+"-71.3287570"
+]
+},
+"r:41.18121,-73.19039": {
+"place_id": 355572109,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 158854662,
+"lat": "41.1757216",
+"lon": "-73.1808316",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13339706645304034,
+"addresstype": "hamlet",
+"name": "East Bridgeport",
+"display_name": "East Bridgeport, Bridgeport, Greater Bridgeport Planning Region, Connecticut, 06602, United States",
+"address": {
+"hamlet": "East Bridgeport",
+"city": "Bridgeport",
+"county": "Greater Bridgeport Planning Region",
+"state": "Connecticut",
+"ISO3166-2-lvl4": "US-CT",
+"postcode": "06602",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.1557216",
+"41.1957216",
+"-73.2008316",
+"-73.1608316"
+]
+},
+"r:41.77005,-72.51882": {
+"place_id": 354951618,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11062462,
+"lat": "41.7834017",
+"lon": "-72.5231973",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4831324273129615,
+"addresstype": "town",
+"name": "Manchester",
+"display_name": "Manchester, Capitol Planning Region, Connecticut, United States",
+"address": {
+"town": "Manchester",
+"county": "Capitol Planning Region",
+"state": "Connecticut",
+"ISO3166-2-lvl4": "US-CT",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.7337428",
+"41.8203065",
+"-72.5834905",
+"-72.4640843"
+]
+},
+"r:41.87060,-72.46507": {
+"place_id": 352558062,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11059517,
+"lat": "41.9039863",
+"lon": "-72.4698071",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4325844890300949,
+"addresstype": "town",
+"name": "Ellington",
+"display_name": "Ellington, Capitol Planning Region, Connecticut, 06029, United States",
+"address": {
+"town": "Ellington",
+"county": "Capitol Planning Region",
+"state": "Connecticut",
+"ISO3166-2-lvl4": "US-CT",
+"postcode": "06029",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.8574767",
+"41.9571725",
+"-72.5177728",
+"-72.3062837"
+]
+},
+"r:41.79526,-71.40940": {
+"place_id": 360612724,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 191210,
+"lat": "41.8239891",
+"lon": "-71.4128343",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6540931864702114,
+"addresstype": "city",
+"name": "Providence",
+"display_name": "Providence, Providence County, Rhode Island, United States",
+"address": {
+"city": "Providence",
+"county": "Providence County",
+"state": "Rhode Island",
+"ISO3166-2-lvl4": "US-RI",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"41.7724345",
+"41.8618007",
+"-71.4726670",
+"-71.3737355"
+]
+},
+"r:40.80860,-73.96270": {
+"place_id": 359404077,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7339672,
+"lat": "40.8193759",
+"lon": "-73.9579209",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.133425092698558,
+"addresstype": "neighbourhood",
+"name": "Manhattan Community Board 9",
+"display_name": "Manhattan Community Board 9, Manhattan, New York County, New York, United States",
+"address": {
+"neighbourhood": "Manhattan Community Board 9",
+"suburb": "Manhattan",
+"county": "New York County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.8012041",
+"40.8376892",
+"-73.9772909",
+"-73.9396620"
+]
+},
+"r:36.75530,-76.10820": {
+"place_id": 347795982,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 206670,
+"lat": "36.8496579",
+"lon": "-75.9760751",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.6038676948114978,
+"addresstype": "city",
+"name": "Virginia Beach",
+"display_name": "Virginia Beach, Virginia, United States",
+"address": {
+"city": "Virginia Beach",
+"state": "Virginia",
+"ISO3166-2-lvl4": "US-VA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"36.5504165",
+"37.0302476",
+"-76.2282430",
+"-75.8318954"
+]
+},
+"r:38.83550,-104.82190": {
+"place_id": 330841420,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 18560171,
+"lat": "38.8345358",
+"lon": "-104.8227714",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.14673534370946817,
+"addresstype": "suburb",
+"name": "Downtown",
+"display_name": "Downtown, Colorado Springs, El Paso County, Colorado, United States",
+"address": {
+"suburb": "Downtown",
+"city": "Colorado Springs",
+"county": "El Paso County",
+"state": "Colorado",
+"ISO3166-2-lvl4": "US-CO",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"38.8145178",
+"38.8511196",
+"-104.8363081",
+"-104.8130963"
+]
+},
+"r:40.81510,-73.94040": {
+"place_id": 359834882,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7339673,
+"lat": "40.8161841",
+"lon": "-73.9418031",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 20,
+"importance": 0.133425092698558,
+"addresstype": "neighbourhood",
+"name": "Manhattan Community Board 10",
+"display_name": "Manhattan Community Board 10, Manhattan, New York County, New York, United States",
+"address": {
+"neighbourhood": "Manhattan Community Board 10",
+"suburb": "Manhattan",
+"county": "New York County",
+"city": "New York",
+"state": "New York",
+"ISO3166-2-lvl4": "US-NY",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"40.7966362",
+"40.8359948",
+"-73.9596822",
+"-73.9326321"
+]
+}
+}

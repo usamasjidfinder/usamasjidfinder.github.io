@@ -1,0 +1,497 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+<title>USA Masjid Finder</title>
+<meta name="description" content="Find masajid across all 50 US states: Jumu'ah times, prayer timings, iqamah and events.">
+<style>
+/* Layout: sticky filter bar over a wrapping grid of masjid cards; green = live data, amber = calculated */
+:root{--bg:#f6f5f1;--card:#fff;--ink:#1d2321;--muted:#5f6864;--line:#e3e1da;--accent:#0f6b4f;--accent-soft:#e3f1eb;--warn:#8a5a00;--warn-soft:#fbf0d9;
+  --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121514;--card:#1b201e;--ink:#e8ece9;--muted:#9aa49f;--line:#2c3330;--accent:#4fc59a;--accent-soft:#183329;--warn:#e7b65a;--warn-soft:#342a14;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#121514;--card:#1b201e;--ink:#e8ece9;--muted:#9aa49f;--line:#2c3330;--accent:#4fc59a;--accent-soft:#183329;--warn:#e7b65a;--warn-soft:#342a14;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 var(--font)}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+header{padding-block:28px 8px}
+h1{margin:0;font-size:26px;letter-spacing:-.01em;text-wrap:balance}
+.sub{color:var(--muted);margin-top:4px;font-size:14px}
+.controls{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.controls .wrap{padding-block:12px;display:flex;flex-wrap:wrap;gap:10px;align-items:end}
+.searchrow{display:flex;gap:8px;align-items:end;min-width:0}
+.filters{display:flex;flex-wrap:wrap;gap:10px;align-items:end}
+.pill{font:inherit;font-size:14px;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 12px;cursor:pointer;white-space:nowrap;display:inline-flex;align-items:center;gap:6px;height:38px}
+.pill:hover{border-color:var(--accent)}
+.pill.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent);font-weight:600}
+.mobile-only{display:none}
+.dist{color:var(--accent);font-weight:700}
+.count .note{color:var(--warn)}
+label{display:flex;flex-direction:column;gap:3px;font-size:12px;color:var(--muted);font-weight:600;letter-spacing:.01em}
+input,select{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 10px;min-width:0}
+input:focus-visible,select:focus-visible,button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+input[type=search]{width:360px}
+.chk{flex-direction:row;align-items:center;gap:6px;padding-bottom:9px;font-weight:500;color:var(--ink);font-size:14px}
+button.reset{font:inherit;background:none;border:1px solid var(--line);color:var(--muted);border-radius:8px;padding:8px 12px;cursor:pointer}
+main{padding-block:16px}
+.count{color:var(--muted);font-size:13px;margin-bottom:12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(340px,100%),1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.card h2{margin:0;font-size:17px;line-height:1.25;text-wrap:balance}
+.meta{color:var(--muted);font-size:13px;overflow-wrap:anywhere}
+.meta a{color:var(--accent)}
+.badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:99px;letter-spacing:.02em}
+.live{background:var(--accent-soft);color:var(--accent)}
+.calc{background:var(--warn-soft);color:var(--warn)}
+.jum{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.jum .t{background:var(--accent-soft);color:var(--accent);font-weight:700;border-radius:8px;padding:4px 10px;font-size:14px;font-variant-numeric:tabular-nums}
+.jum .t small{font-weight:500;opacity:.85}
+.jum .t.hit{background:var(--accent);color:var(--card)}
+td.hit{background:var(--accent);color:var(--card);border-radius:4px}
+.jum .none{color:var(--muted);font-size:13px}
+.sect{font-size:11px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+table{width:100%;border-collapse:collapse;font-size:13.5px;font-variant-numeric:tabular-nums}
+th,td{text-align:left;padding:4px 6px;border-bottom:1px solid var(--line)}
+th{font-weight:600;color:var(--muted);font-size:12px}
+td:first-child{font-weight:600}
+td:nth-child(3){font-weight:700;color:var(--accent)}
+td.na{color:var(--muted);font-weight:400}
+.iqnote{font-size:12px;color:var(--warn);margin-top:6px}
+.events{margin:0;padding:0;list-style:none;font-size:13.5px}
+.events li{padding:4px 0;border-bottom:1px dashed var(--line)}
+.events time{color:var(--muted);font-variant-numeric:tabular-nums;margin-right:6px}
+.empty{padding:40px;text-align:center;color:var(--muted)}
+.fb{display:flex;flex-direction:column;gap:8px;font-size:13px;color:var(--muted);border-top:1px dashed var(--line);padding-top:10px}
+.fb-btns{display:flex;gap:8px;flex-wrap:nowrap}
+.fb button,.fb a.btn{font:inherit;font-size:13px;line-height:1.3;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:99px;padding:5px 12px;cursor:pointer;text-decoration:none;white-space:nowrap;display:inline-flex;align-items:center;gap:4px}
+.fb button:hover,.fb a.btn:hover{border-color:var(--accent)}
+.fb .done{color:var(--accent);font-weight:600}
+.cta{display:inline-block;margin-top:8px;color:var(--accent);font-weight:600}
+details summary{cursor:pointer;font-size:13px;color:var(--accent)}
+/* state picker shown before anyone searches */
+.intro{color:var(--muted);font-size:14px;margin:0 0 12px}
+.states{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(170px,100%),1fr));gap:8px}
+.states button{font:inherit;text-align:left;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;cursor:pointer;color:var(--ink);display:flex;justify-content:space-between;align-items:baseline;gap:8px;min-width:0}
+.states button:hover{border-color:var(--accent)}
+.states button span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.states button b{color:var(--accent);font-variant-numeric:tabular-nums;font-size:13px}
+.more{display:block;margin:18px auto 0;font:inherit;font-weight:600;color:var(--accent);background:var(--card);border:1px solid var(--line);border-radius:99px;padding:9px 20px;cursor:pointer}
+footer{padding-block:8px 40px;color:var(--muted);font-size:12.5px}
+footer a{color:var(--accent)}
+@media (max-width:640px){
+  header{padding-block:16px 6px} h1{font-size:21px} .sub{font-size:12.5px}
+  /* phones: the search bar lives at the bottom of the screen, always in thumb reach */
+  .controls{position:fixed;top:auto;left:0;right:0;bottom:0;z-index:20;border-bottom:0;border-top:1px solid var(--line);
+    box-shadow:0 -6px 20px rgba(0,0,0,.18);padding-bottom:env(safe-area-inset-bottom,0px)}
+  .controls .wrap{flex-direction:column-reverse;align-items:stretch;gap:8px;padding-block:10px}
+  main{padding-bottom:96px} footer{padding-bottom:110px}
+  .controls.kb{padding-bottom:0}
+  .searchrow label.grow{flex:1} .searchrow .lbl{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+  input[type=search]{width:100%;height:38px;font-size:16px}
+  .mobile-only{display:inline-flex}
+  .filters{display:none;padding-bottom:4px;max-height:55vh;overflow-y:auto} .filters.open{display:flex}
+  .filters label{flex:1 1 140px} .filters .chk{flex:1 1 auto}
+  .states{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+</style>
+</head>
+<body>
+<header class="wrap">
+  <h1>USA Masjid Finder</h1>
+  <div class="sub" id="sub">Jumu'ah, prayer timings and events across all 50 states</div>
+</header>
+<div class="controls"><div class="wrap">
+  <div class="searchrow">
+    <label for="q" class="grow"><span class="lbl">Search name, city or time</span><input type="search" id="q" placeholder="Masjid, city or time" autocomplete="off" enterkeyhint="search"></label>
+    <button type="button" class="pill" id="nearBtn" aria-pressed="false">📍<span>Near me</span></button>
+    <button type="button" class="pill mobile-only" id="filtBtn" aria-expanded="false" aria-controls="filters">Filters</button>
+  </div>
+  <div class="filters" id="filters">
+  <label for="state">State<select id="state"><option value="">All states</option></select></label>
+  <label for="sort">Sort<select id="sort">
+    <option value="name">Name (A–Z)</option><option value="city">City</option><option value="jumuah">Earliest Jumu'ah</option><option value="jumuah-late">Latest Jumu'ah</option><option value="near">Nearest to me</option>
+  </select></label>
+  <label class="chk"><input type="checkbox" id="hasj"> Jumu'ah time known</label>
+  <label class="chk"><input type="checkbox" id="iq"> Iqamah times known</label>
+  <button class="reset" id="reset" type="button">Reset</button>
+  </div>
+</div></div>
+<main class="wrap">
+  <div class="count" id="count"></div>
+  <div id="grid"></div>
+</main>
+<footer class="wrap">
+  <b>Live</b> times come from each masjid's own Masjidal or Mohid feed. Cards marked <b>Calculated</b> show astronomical adhan times (ISNA, 15°/15°) in the masjid's local time zone, not iqamah, so check with the masjid before you go.
+  Mosque list © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a> and Masjidal.
+  In Minnesota? <a href="https://mnmasjidfinder.github.io">MN Masjid Finder</a> has hand-checked listings.<br>
+  <a class="cta" id="addMasjid" target="_blank" rel="noopener">Missing a masjid, or something wrong? Tell us →</a>
+</footer>
+<script src="data/masajid.js"></script>
+<script>
+const D = window.MASAJID || {mosques: [], states: {}};
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const PRAYERS = [["fajr","Fajr"],["sunrise","Sunrise"],["dhuhr","Dhuhr"],["asr","Asr"],["maghrib","Maghrib"],["isha","Isha"]];
+const STATES = D.states || {};
+const PAGE = 36;
+const nt = s => { const m = /^(\d{1,2}):(\d{2})\s*([AP]M)?$/i.exec(String(s || "").trim()); if (!m) return null;
+  let h = +m[1]; const ap = (m[3] || (h < 12 ? "AM" : "PM")).toUpperCase(); if (!m[3] && h > 12) h -= 12; return `${h % 12 || 12}:${m[2]} ${ap}`; };
+const mins = s => { s = nt(s); if (!s) return null; const [hm, ap] = s.split(" "); let [h, m] = hm.split(":").map(Number); h = h % 12 + (ap === "PM" ? 12 : 0); return h * 60 + m; };
+const fmtMin = n => `${(Math.floor(n / 60) % 12) || 12}:${String(n % 60).padStart(2, "0")} ${n >= 720 ? "PM" : "AM"}`;
+
+// ---- dates, always in the masjid's own time zone
+const isoIn = (tz, d = new Date()) => { try { return d.toLocaleDateString("en-CA", {timeZone: tz}); } catch { return d.toLocaleDateString("en-CA"); } };
+const longDate = iso => new Date(iso + "T12:00:00Z").toLocaleDateString("en-US", {timeZone: "UTC", weekday: "long", month: "short", day: "numeric", year: "numeric"});
+const addDays = (iso, n) => new Date(Date.parse(iso + "T12:00:00Z") + n * 864e5).toISOString().slice(0, 10);
+const dayISO = s => { const t = Date.parse(String(s).replace(/^[A-Za-z]+,\s*/, "") + " 12:00 UTC"); return isNaN(t) ? null : new Date(t).toISOString().slice(0, 10); };
+const tzOf = m => m.tz || "America/New_York";
+const todayOfTz = tz => isoIn(tz);
+
+// ---- astronomical adhan times (praytimes.org method, ISNA 15°/15°, standard Asr)
+function calcTimes(iso, lat, lon, tz) {
+  const [Y, Mo, Dd] = iso.split("-").map(Number);
+  const rad = x => x * Math.PI / 180, deg = x => x * 180 / Math.PI, mod = (a, n) => ((a % n) + n) % n;
+  const jd = Date.UTC(Y, Mo - 1, Dd) / 864e5 + 2440587.5 - lon / 360;
+  const sun = j => { const d = j - 2451545, g = mod(357.529 + 0.98560028 * d, 360), q = mod(280.459 + 0.98564736 * d, 360);
+    const L = mod(q + 1.915 * Math.sin(rad(g)) + 0.020 * Math.sin(rad(2 * g)), 360), e = 23.439 - 0.00000036 * d;
+    const RA = deg(Math.atan2(Math.cos(rad(e)) * Math.sin(rad(L)), Math.cos(rad(L)))) / 15;
+    return {decl: deg(Math.asin(Math.sin(rad(e)) * Math.sin(rad(L)))), eqt: mod(q / 15 - mod(RA, 24) + 12, 24) - 12}; };
+  const mid = t => mod(12 - sun(jd + t / 24).eqt, 24);
+  const ang = (a, t, ccw) => { const {decl} = sun(jd + t / 24), noon = mid(t);
+    const c = Math.max(-1, Math.min(1, (-Math.sin(rad(a)) - Math.sin(rad(decl)) * Math.sin(rad(lat))) / (Math.cos(rad(decl)) * Math.cos(rad(lat)))));
+    const v = deg(Math.acos(c)) / 15; return noon + (ccw ? -v : v); };
+  const asr = t => { const {decl} = sun(jd + t / 24); return ang(-deg(Math.atan(1 / (1 + Math.tan(Math.abs(rad(lat - decl)))))), t, false); };
+  let t = {fajr: 5, sunrise: 6, dhuhr: 12, asr: 13, maghrib: 18, isha: 18};
+  for (let i = 0; i < 2; i++) t = {fajr: ang(15, t.fajr, true), sunrise: ang(0.833, t.sunrise, true), dhuhr: mid(t.dhuhr),
+    asr: asr(t.asr), maghrib: ang(0.833, t.maghrib, false), isha: ang(15, t.isha, false)};
+  t.dhuhr += 1 / 60;
+  const base = Date.UTC(Y, Mo - 1, Dd), out = {};
+  for (const k in t) {
+    const ms = base + Math.round((t[k] - lon / 15) * 60) * 60e3;
+    try { out[k] = new Date(ms).toLocaleTimeString("en-US", {timeZone: tz, hour: "numeric", minute: "2-digit"}).replace(/ /g, " "); } catch { out[k] = null; }
+  }
+  return out;
+}
+
+// The days shown on a card: live/snapshot timetable from today on, else calculated.
+function daysOf(m) {
+  if (m._days) return m._days;
+  const today = todayOfTz(tzOf(m));
+  const live = (m.days || []).filter(d => (dayISO(d.date) || "") >= today);
+  if (live.length && dayISO(live[0].date) === today) { m._calc = false; return m._days = live; }
+  if (m.lat == null) return m._days = [];
+  m._calc = true;
+  return m._days = Array.from({length: 7}, (_, i) => { const iso = addDays(today, i);
+    return {date: longDate(iso), adhan: calcTimes(iso, m.lat, m.lon, tzOf(m)), iqamah: {}}; });
+}
+const todayOf = m => daysOf(m)[0];
+const hasIqamah = m => (m.days || m._days || []).some(d => Object.values(d.iqamah || {}).some(Boolean));
+
+// ---- state list
+const counts = {};
+D.mosques.forEach(m => counts[m.state] = (counts[m.state] || 0) + 1);
+const stateCodes = Object.keys(STATES).sort((a, b) => STATES[a].localeCompare(STATES[b]));
+$("state").innerHTML += stateCodes.map(c => `<option value="${c}">${esc(STATES[c])}${counts[c] ? ` (${counts[c]})` : ""}</option>`).join("");
+let liveCount = 0;
+function subtitle() {
+  const gen = D.generated_at ? new Date(D.generated_at) : null;
+  const n = Object.keys(counts).filter(c => c !== "DC").length;
+  $("sub").textContent = `${D.mosques.length.toLocaleString()} masajid across ${n} states${counts.DC ? " and DC" : ""}` +
+    (gen ? ` · directory updated ${gen.toLocaleDateString([], {dateStyle: "medium"})}` : "") +
+    (liveCount ? ` · ${liveCount} timetables refreshed live` : "");
+}
+subtitle();
+
+// ---- time typed into the search box ("1:30", "1:30pm", "12 pm"). Without am/pm, 1–9 means afternoon.
+function parseTimeQuery(q) {
+  const re = /\b(\d{1,2}):(\d{2})\s*(a\.?m\.?|p\.?m\.?)?|\b(\d{1,2})\s*(a\.?m\.?|p\.?m\.?)/i;
+  const m = re.exec(q);
+  if (!m) return {text: q, time: null};
+  let h = +(m[1] ?? m[4]), mi = +(m[2] ?? 0);
+  const ap = (m[3] || m[5] || "").toLowerCase().replace(/\./g, "");
+  if (h > 23 || mi > 59) return {text: q, time: null};
+  if (ap === "pm" && h < 12) h += 12;
+  else if (ap === "am" && h === 12) h = 0;
+  else if (!ap && h >= 1 && h <= 9) h += 12;
+  return {text: (q.slice(0, m.index) + " " + q.slice(m.index + m[0].length)).trim(), time: h * 60 + mi};
+}
+// ---- search that forgives spelling: word-start matches, "sounds like" (Abubakar ~ Abu Bakr), * / ? wildcards
+const fold = s => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/['’`ʿʾ]/g, "");
+const wordsOf = s => fold(s).split(/[^a-z0-9]+/).filter(Boolean);
+const skel = w => w ? (w[0] + w.slice(1).replace(/[aeiouyhw]/g, "")).replace(/(.)\1+/g, "$1") : "";
+D.mosques.forEach(m => {
+  const nameWords = wordsOf(`${m.name} ${m.aka || ""}`);
+  const place = `${m.city || ""} ${m.address || ""} ${m.state} ${STATES[m.state] || ""}`;
+  m._words = [...nameWords, ...wordsOf(place)];
+  m._compact = nameWords.join("");
+  m._skel = skel(m._compact);
+  m._skelWords = m._words.map(skel);
+  m._text = fold(`${m.name} | ${m.aka || ""} | ${place}`);
+});
+function matchScore(m, q) {
+  if (/[*?]/.test(q)) {
+    const re = new RegExp(fold(q).split(/([*?])/).map(p => p === "*" ? ".*" : p === "?" ? "." : p.replace(/[.+^${}()|[\]\\]/g, "\\$&")).join(""));
+    return re.test(m._text) ? 3 : 0;
+  }
+  const qw = wordsOf(q); if (!qw.length) return 3;
+  const qc = qw.join("");
+  if (m._compact.includes(qc)) return 3;
+  if (qw.every(w => m._words.some(h => h.startsWith(w)))) return 2;
+  if (qw.every(w => w.length >= 3 && skel(w).length >= 2 && m._skelWords.some(h => h.startsWith(skel(w))))) return 1;
+  if (qc.length >= 5 && skel(qc).length >= 4 && m._skel.includes(skel(qc))) return 1;
+  return 0;
+}
+
+// ---- Near me
+let here = null, locNote = "";
+const miles = (a, b, c, d) => { const r = Math.PI / 180, x = Math.sin((c - a) * r / 2) ** 2 + Math.cos(a * r) * Math.cos(c * r) * Math.sin((d - b) * r / 2) ** 2; return 7917.5 * Math.asin(Math.sqrt(x)); };
+const distOf = m => here && m.lat != null ? miles(here.lat, here.lon, m.lat, m.lon) : null;
+function locate() {
+  const btn = $("nearBtn");
+  if (here) { here = null; btn.classList.remove("on"); btn.setAttribute("aria-pressed", "false"); if ($("sort").value === "near") $("sort").value = "name"; render(); return; }
+  if (!navigator.geolocation) { locNote = "This browser can't share your location. Pick a state or search by city instead."; render(); return; }
+  btn.disabled = true; btn.querySelector("span").textContent = "Finding…";
+  navigator.geolocation.getCurrentPosition(p => {
+    here = {lat: p.coords.latitude, lon: p.coords.longitude}; locNote = "";
+    btn.disabled = false; btn.querySelector("span").textContent = "Near me"; btn.classList.add("on"); btn.setAttribute("aria-pressed", "true");
+    $("sort").value = "near"; $("state").value = ""; render(); window.scrollTo({top: 0, behavior: "smooth"});
+  }, err => {
+    btn.disabled = false; btn.querySelector("span").textContent = "Near me";
+    locNote = err.code === 1 ? "Location is blocked. Allow it for this site in your browser settings, or pick a state."
+                             : "Couldn't get your location right now. Try again, or pick a state.";
+    render();
+  }, {enableHighAccuracy: false, timeout: 12000, maximumAge: 300000});
+}
+
+let hit = () => false, hitIq = () => false;
+
+// ---- remembered filters; a #MN style link picks the state
+const KEYS = ["q","state","sort","hasj","iq"];
+try { const s = JSON.parse(localStorage.getItem("usmf1") || "{}"); KEYS.forEach(k => { if (k in s) $(k)[$(k).type === "checkbox" ? "checked" : "value"] = s[k]; }); } catch {}
+const fromHash = () => { const h = location.hash.slice(1).toUpperCase(); if (STATES[h]) { $("state").value = h; return true; } return false; };
+fromHash();
+const save = () => { try { localStorage.setItem("usmf1", JSON.stringify(Object.fromEntries(KEYS.map(k => [k, $(k).type === "checkbox" ? $(k).checked : $(k).value])))); } catch {} };
+const syncHash = () => { const s = $("state").value, want = s ? "#" + s : ""; if (location.hash.toUpperCase() !== want) history.replaceState(null, "", want || location.pathname + location.search); };
+
+function jumuahHtml(m) {
+  if (!(m.jumuah || []).length) return `<span class="none">Jumu'ah time not published online. Call or check the website.</span>`;
+  return m.jumuah.map(j => {
+    const parts = [];
+    if (j.khutbah && j.khutbah !== j.start) parts.push(`khutbah ${esc(j.khutbah)}`);
+    if (j.iqamah) parts.push(`iqamah ${esc(j.iqamah)}`);
+    return `<span class="t${hit(j) ? " hit" : ""}">${esc(j.start)}${parts.length ? ` <small>(${parts.join(", ")})</small>` : ""}</span>`;
+  }).join("") + `<span class="none" style="font-size:11px">${esc(m.jumuah_source || "")}</span>`;
+}
+
+function dayTable(day) {
+  const iq = day.iqamah || {}, hasIq = Object.values(iq).some(Boolean);
+  return `<table><tr><th scope="col">Prayer</th><th scope="col">Adhan</th><th scope="col">Iqamah</th></tr>` +
+    PRAYERS.map(([k, n]) => `<tr><td>${n}</td><td>${esc(day.adhan?.[k] || "—")}</td><td class="${hasIq ? (hitIq(iq[k]) ? "hit" : "") : "na"}">${k === "sunrise" ? "" : esc(iq[k] || "—")}</td></tr>`).join("") +
+    "</table>" + (hasIq ? "" : `<div class="iqnote">Iqamah times aren't published online. Call or check the masjid's website.</div>`);
+}
+
+// ---- feedback goes to the same Google Form as MN Masjid Finder (the masjid label carries the state)
+const FORM = {
+  base: "https://docs.google.com/forms/d/e/1FAIpQLSdbPTC-fwICRAG58oj-kykXhfoj7PhM63SGVO7YJe1hNUbemw/",
+  masjid: "entry.143079288", correct: "entry.47161889", what: "entry.370983494",
+};
+const label = m => `${m.name} (${[m.city, m.state].filter(Boolean).join(", ")})`;
+const formLink = fields => FORM.base + "viewform?usp=pp_url&" + new URLSearchParams(fields).toString();
+const voteKey = m => `usmf-vote:${m.id}:${todayOfTz(tzOf(m))}`;
+const voted = m => { try { return localStorage.getItem(voteKey(m)); } catch { return null; } };
+function feedbackHtml(m) {
+  const no = formLink({[FORM.masjid]: label(m), [FORM.correct]: "No"});
+  if (voted(m)) return `<div class="fb"><span class="done">Thanks, you confirmed these times today.</span>
+    <a href="${esc(no)}" target="_blank" rel="noopener">Something wrong?</a></div>`;
+  return `<div class="fb" data-id="${esc(m.id)}"><span>Are these times correct?</span>
+    <div class="fb-btns"><button type="button" data-vote="yes" aria-label="Yes, the times are correct">👍 Yes</button>
+    <a class="btn" href="${esc(no)}" target="_blank" rel="noopener" aria-label="No, report a correction">👎 No, report a fix</a></div></div>`;
+}
+async function confirmTimes(m, box) {
+  const fields = {[FORM.masjid]: label(m), [FORM.correct]: "Yes",
+                  [FORM.what]: `Confirmed on ${todayOfTz(tzOf(m))} via usamasjidfinder (${m._calc ? "calculated" : m.timing_source || "unknown source"})`};
+  try {
+    await fetch(FORM.base + "formResponse", {method: "POST", mode: "no-cors", body: new URLSearchParams(fields)});
+    try { localStorage.setItem(voteKey(m), "yes"); } catch {}
+    box.innerHTML = `<span class="done">Thanks! Your confirmation was recorded.</span>`;
+  } catch {
+    window.open(formLink(fields), "_blank", "noopener");
+    box.innerHTML = `<span class="done">Thanks! Press Submit on the form that opened.</span>`;
+  }
+}
+const byId = new Map(D.mosques.map(m => [m.id, m]));
+$("grid").addEventListener("click", e => {
+  const st = e.target.closest("button[data-state]");
+  if (st) { $("state").value = st.dataset.state; render(); window.scrollTo({top: 0}); return; }
+  const b = e.target.closest("button[data-vote]");
+  if (b) { const box = b.closest(".fb"), m = byId.get(box.dataset.id); if (m) { b.disabled = true; confirmTimes(m, box); } return; }
+  if (e.target.closest("#moreBtn")) more();
+});
+$("addMasjid").href = formLink({[FORM.masjid]: "New masjid / general feedback (USA): "});
+
+function card(m) {
+  const days = daysOf(m), day = days[0], rest = days.slice(1);
+  const calc = !!m._calc;
+  const addr = m.address || STATES[m.state];
+  const map = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(m.name + " " + addr)}`;
+  const links = [
+    `<a href="${map}" target="_blank" rel="noopener">Map</a>`,
+    m.website && /^https?:/i.test(m.website) && `<a href="${esc(m.website)}" target="_blank" rel="noopener">Website</a>`,
+    m.mohid_url && `<a href="${esc(m.mohid_url)}" target="_blank" rel="noopener">Mohid page</a>`,
+    m.phone && `<a href="tel:${esc(m.phone.replace(/[^\d+]/g, ""))}">${esc(m.phone)}</a>`,
+  ].filter(Boolean).join(" · ");
+  const ev = (m.events || []).length
+    ? `<ul class="events">${m.events.slice(0, 5).map(e => `<li><time>${esc((e.start || "").slice(0, 16).replace("T", " "))}</time>${e.url ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>` : esc(e.title)}</li>`).join("")}</ul>`
+    : `<span class="meta">No upcoming events published online.</span>`;
+  const week = rest.map(d => `<div class="sect" style="margin-top:8px">${esc(d.date)}</div>${dayTable(d)}`).join("");
+  const dist = distOf(m);
+  return `<article class="card" data-card="${esc(m.id)}">
+    <div>
+      <h2>${esc(m.name)}</h2>${m.aka ? `<div class="meta">also listed as ${esc(m.aka)}</div>` : ""}
+      <div class="meta">${dist != null ? `<span class="dist">${dist < 10 ? dist.toFixed(1) : Math.round(dist)} mi away</span> · ` : ""}${esc(addr)}</div>
+      <div class="meta">${links}</div>
+    </div>
+    <div><div class="sect">Jumu'ah (Friday)</div><div class="jum">${jumuahHtml(m)}</div></div>
+    ${day ? `<div><div class="sect">${esc(day.date)}${day.hijri ? " · " + esc(day.hijri) : ""} &nbsp;
+      <span class="badge ${calc ? "calc" : "live"}">${calc ? "Calculated" : "Live"}</span></div>
+      ${dayTable(day)}${week ? `<details><summary>Next ${rest.length} days</summary>${week}</details>` : ""}</div>` : ""}
+    <div><div class="sect">Upcoming events</div>${ev}</div>
+    ${feedbackHtml(m)}
+  </article>`;
+}
+
+// ---- live Masjidal refresh, only for the cards someone is actually looking at
+const liveQ = [], liveTried = new Set();
+let liveBusy = 0;
+function wantLive(m) { if (!m.masjidal_id || liveTried.has(m.id)) return; liveTried.add(m.id); liveQ.push(m); pumpLive(); }
+function pumpLive() {
+  while (liveBusy < 6 && liveQ.length) {
+    const m = liveQ.shift(); liveBusy++;
+    fetchLive(m).finally(() => { liveBusy--; pumpLive(); });
+  }
+}
+async function fetchLive(m) {
+  try {
+    const tz = tzOf(m), from = todayOfTz(tz), to = addDays(from, 6);
+    const r = await fetch(`https://masjidal.com/api/v1/time/range?masjid_id=${encodeURIComponent(m.masjidal_id)}&from_date=${from}&to_date=${to}`);
+    const j = await r.json();
+    if (j.status !== "success" || !j.data?.salah?.length) return;
+    const days = j.data.salah.map((s, i) => { const q = j.data.iqamah[i] || {}; return {
+      date: s.date, hijri: `${s.hijri_date || ""} ${s.hijri_month || ""}`.trim(),
+      adhan: {fajr: nt(s.fajr), sunrise: nt(s.sunrise), dhuhr: nt(s.zuhr), asr: nt(s.asr), maghrib: nt(s.maghrib), isha: nt(s.isha)},
+      iqamah: {fajr: nt(q.fajr), dhuhr: nt(q.zuhr), asr: nt(q.asr), maghrib: nt(q.maghrib), isha: nt(q.isha)} }; });
+    if (!days.some(d => Object.values(d.adhan).some(Boolean))) return;
+    m.days = days; m._days = null; m.timing_source = "Masjidal (live)";
+    const q0 = j.data.iqamah[0] || {};
+    const jm = Object.keys(q0).filter(k => k.startsWith("jummah")).sort().map(k => nt(q0[k])).filter((v, i, all) => v && all.indexOf(v) === i);
+    if (jm.length) { m.jumuah = jm.map(s => ({start: s, start_min: mins(s)})); m.jumuah_source = "Masjidal (live)"; }
+    m.live = true; liveCount++; subtitle();
+    const el = document.querySelector(`[data-card="${CSS.escape(m.id)}"]`);
+    if (el && !el.contains(document.activeElement)) { const open = el.querySelector("details")?.open; el.outerHTML = card(m); if (open) document.querySelector(`[data-card="${CSS.escape(m.id)}"] details`).open = true; }
+  } catch {}
+}
+
+// ---- main render
+let shown = PAGE, lastSig = "";
+function statePicker() {
+  return `<p class="intro">Tap <b>📍 Near me</b>, search for a masjid or city, or pick a state.</p><div class="states">` +
+    stateCodes.map(c => `<button type="button" data-state="${c}"><span>${esc(STATES[c])}</span><b>${counts[c] || 0}</b></button>`).join("") + "</div>";
+}
+function render(more = false) {
+  save(); syncHash();
+  const {text: q, time: qt} = parseTimeQuery($("q").value.trim().toLowerCase());
+  const st = $("state").value;
+  const nearTyped = j => qt != null && j.start_min != null && Math.abs(j.start_min - qt) <= 15;
+  hit = nearTyped;
+  hitIq = v => qt != null && mins(v) === qt;
+  const phrase = q.replace(/\s+/g, " ").replace(/^[\s,]+|[\s,]+$/g, "");
+  if ($("sort").value === "near" && !here) $("sort").value = "name";
+  const sig = JSON.stringify([phrase, qt, st, $("sort").value, $("hasj").checked, $("iq").checked, !!here]);
+  if (!more && sig !== lastSig) shown = PAGE;
+  lastSig = sig;
+  const nf = [st, $("hasj").checked, $("iq").checked].filter(Boolean).length + ($("sort").value !== "name" && $("sort").value !== "near" ? 1 : 0);
+  $("filtBtn").textContent = nf ? `Filters (${nf})` : "Filters";
+
+  if (!st && !phrase && qt == null && !here && !$("hasj").checked && !$("iq").checked) {
+    $("count").innerHTML = esc(`${D.mosques.length.toLocaleString()} masajid nationwide`) + (locNote ? ` <span class="note">${esc(locNote)}</span>` : "");
+    $("grid").innerHTML = statePicker();
+    return;
+  }
+  const score = new Map();
+  const list = D.mosques.filter(m => {
+    if (st && m.state !== st) return false;
+    if (phrase) { const sc = matchScore(m, phrase); if (!sc) return false; score.set(m, sc); }
+    if ($("iq").checked && !hasIqamah(m)) return false;
+    if ($("hasj").checked && !(m.jumuah || []).some(j => j.start_min != null)) return false;
+    if (qt != null && !(m.jumuah || []).some(nearTyped) && !Object.values(todayOf(m)?.iqamah || {}).some(v => mins(v) === qt)) return false;
+    return true;
+  });
+  const firstJ = m => Math.min(...(m.jumuah || []).map(j => j.start_min ?? 9999), 9999);
+  const lastJ = m => Math.max(...(m.jumuah || []).map(j => j.start_min ?? -1), -1);
+  const s = $("sort").value;
+  const byName = (a, b) => a.name.localeCompare(b.name);
+  list.sort(s === "near" ? (a, b) => (distOf(a) ?? 1e9) - (distOf(b) ?? 1e9)
+    : s === "name" && phrase ? (a, b) => (score.get(b) || 0) - (score.get(a) || 0) || byName(a, b)
+    : s === "name" ? byName
+    : s === "jumuah" ? (a, b) => firstJ(a) - firstJ(b) || byName(a, b)
+    : s === "jumuah-late" ? (a, b) => lastJ(b) - lastJ(a) || byName(a, b)
+    : (a, b) => (a.state + (a.city || "~")).localeCompare(b.state + (b.city || "~")) || byName(a, b));
+  const why = [];
+  if (st) why.push(STATES[st]);
+  if (qt != null) why.push(`Jumu'ah or iqamah around ${fmtMin(qt)}`);
+  if (s === "near") why.push("nearest first");
+  const similar = [...score.values()].some(v => v === 1);
+  const total = st ? counts[st] || 0 : D.mosques.length;
+  $("count").innerHTML = esc(`${list.length.toLocaleString()} of ${total.toLocaleString()} masajid` + (why.length ? ` · ${why.join(" · ")}` : "") + (similar ? " · including similar spellings" : "")) +
+    (locNote ? ` <span class="note">${esc(locNote)}</span>` : "");
+  curList = list;
+  $("grid").innerHTML = list.length
+    ? `<div class="grid" id="cards"></div><button type="button" class="more" id="moreBtn" hidden></button>`
+    : `<div class="empty">No masajid match these filters. Try another state, widening the time, or clearing the search.</div>`;
+  if (list.length) appendCards(0, shown);
+}
+// add the next batch of cards to the bottom, leaving the ones already on screen alone
+let curList = [];
+// load the next batch as the "Show more" button comes within ~1.5 screens of view
+addEventListener("scroll", () => {
+  const btn = $("moreBtn"); if (btn && !btn.hidden && btn.getBoundingClientRect().top < innerHeight * 2.5) more(); }, {passive: true});
+function appendCards(from, to) {
+  const page = curList.slice(from, to);
+  $("cards").insertAdjacentHTML("beforeend", page.map(card).join(""));
+  page.forEach(wantLive);
+  const btn = $("moreBtn"), left = curList.length - to;
+  btn.hidden = left <= 0;
+  btn.textContent = `Show more (${left.toLocaleString()} left)`;
+}
+function more() { if (!$("cards")) return; const from = shown; shown += PAGE; appendCards(from, shown); }
+
+KEYS.forEach(k => $(k).addEventListener("input", () => render()));
+addEventListener("hashchange", () => { if (fromHash()) render(); });
+$("nearBtn").onclick = locate;
+const fitHint = () => { const w = $("q").clientWidth; $("q").placeholder = w < 200 ? "Search…" : w < 380 ? "Masjid, city or time" : "Masjid, city or time, e.g. Dar Al-Hijrah or 1:30 pm"; };
+fitHint(); addEventListener("resize", fitHint);
+$("sort").addEventListener("input", () => { if ($("sort").value === "near" && !here) locate(); });
+$("filtBtn").onclick = () => { const o = $("filters").classList.toggle("open"); $("filtBtn").setAttribute("aria-expanded", o); };
+$("q").addEventListener("keydown", e => { if (e.key === "Enter") e.target.blur(); });
+const isPhone = () => matchMedia("(max-width:640px)").matches;
+// iPhone Safari slides the keyboard over bars docked to the bottom; lift the bar to sit on the keyboard.
+const bar = document.querySelector(".controls");
+let dockFrame = 0;
+function dock(vv = window.visualViewport) {
+  if (!vv || !isPhone()) { bar.style.transform = ""; bar.classList.remove("kb"); return; }
+  const covered = Math.max(0, Math.round(innerHeight - vv.height - vv.offsetTop));
+  bar.style.transform = covered > 1 ? `translateY(${-covered}px)` : "";
+  bar.classList.toggle("kb", covered > 80);
+}
+const dockSoon = () => { cancelAnimationFrame(dockFrame); dockFrame = requestAnimationFrame(() => dock()); };
+if (window.visualViewport) { visualViewport.addEventListener("resize", dockSoon); visualViewport.addEventListener("scroll", dockSoon); }
+addEventListener("resize", dockSoon);
+["focus", "blur"].forEach(ev => $("q").addEventListener(ev, () => { dockSoon(); setTimeout(dockSoon, 350); }));
+const toResults = () => { if (!isPhone()) return; const y = $("count").getBoundingClientRect().top + scrollY - 8; if (Math.abs(scrollY - y) > 40) scrollTo({top: y}); };
+KEYS.forEach(k => $(k).addEventListener("input", toResults));
+$("reset").onclick = () => { KEYS.forEach(k => $(k).type === "checkbox" ? $(k).checked = false : $(k).value = (k === "sort" ? "name" : "")); if (here) locate(); else render(); };
+render();
+</script>
+</body>
+</html>

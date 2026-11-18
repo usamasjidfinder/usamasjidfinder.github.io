@@ -1,0 +1,5441 @@
+{
+"http://aiiav.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://aishacenter.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://alhidayamosque.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://alhilaal.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://alhodaic.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "jKZprMAX",
+"mohid_url": "https://us.mohid.co/nj/jerseycity/aic"
+}
+},
+"http://alhudafoundation.org/whats-happening-at-aici/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"http://alsajdah.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://amkhic.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://amsnorthshore.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"http://ansoniamasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "zKzoMvLO"
+}
+},
+"http://avonifc.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0dYp1zA6"
+}
+},
+"http://baitulmukarram.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"http://brmosque.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://burhanacademy.us/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "http://burhanacademy.us"
+}
+},
+"http://chfmosque.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://danburymasjid.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://daralqalam.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://firsthijrah.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://iagd.net/home/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "http://iagd.net",
+"masjidal_id": "4nL1kgda"
+}
+},
+"http://icct.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://icelpaso.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "kK3ykyAe"
+}
+},
+"http://icliny.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"http://icmclean.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "jKZNkNKX",
+"mohid_url": "https://us.mohid.co/il/joliet/mi"
+}
+},
+"http://icmtn.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://icnvt.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://icomaha.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://icomanteca.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://icopc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://icqcmasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://icuc.weebly.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://icva.info": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "M9L2wzAZ",
+"mohid_url": "https://us.mohid.co/va/virginiabeach/icva"
+}
+},
+"http://icwct.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://ionamasjid.org//": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://iqraacademynj.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "3wdqkjLb"
+}
+},
+"http://isdonline.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/de/newark/isd"
+}
+},
+"http://islamiccentergr.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://islamiccenterofdekalb.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "vOLnzELM"
+}
+},
+"http://islamiccenterofseattle.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "E5AvJ0AX"
+}
+},
+"http://ismcca.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ca/sanjose/ismc"
+}
+},
+"http://isneo.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "M9L2MyKZ"
+}
+},
+"http://iswamd.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://lh4h.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "VL4vPvdx"
+}
+},
+"http://madisonmuslims.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "6kK3YzAe"
+}
+},
+"http://mainemuslim.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://masjid-e-khaleel.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://masjidabubakaraz.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://masjidabubakrsiddiq.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://masjidalaman.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://masjidalisraa.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "XAlRwNKb"
+}
+},
+"http://masjidannur.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://masjidbellmore.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://masjidbilalaz.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://masjidbilalofcleveland.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://masjiddaraldawah.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://masjidsunnah.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://masjidyaseen.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "The read operation timed out"
+}
+},
+"http://mcccva.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://mndawah.net": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "http://mndawah.net"
+}
+},
+"http://mosqueofnasreen.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://msmcli.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "pQKMb2LB"
+}
+},
+"http://muslimjamatofstlouis.mydurable.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://nooralislamsociety.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://pgmamd.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://piccva.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "EdolD5K7",
+"mohid_url": "https://us.mohid.co/va/newportnews/picc"
+}
+},
+"http://rayyancenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://rochestermosque.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/mn/rochester1/maas"
+}
+},
+"http://topekamosque.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://waterburyicc.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://westchestermuslim.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://woodbridgefaithcenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.124streetmasjid.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "JAm9g9AR"
+}
+},
+"http://www.BayonneIslamicCenter.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://www.aacic-ct.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.accplainfield.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "http://www.accplainfield.org",
+"mohid_url": "https://us.mohid.co/il/joliet/acc"
+}
+},
+"http://www.aifcenter.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "ZyLj7jAQ",
+"mohid_url": "https://us.mohid.co/il/nwcs/aif"
+}
+},
+"http://www.aimom.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.alfalahinstitute.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.alhaqqfoundation.net": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.alhudakaty.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "8KXma5LM"
+}
+},
+"http://www.alomarymosque.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.alsalaamcenter.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate ("
+}
+},
+"http://www.altaqwamasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://www.amiacademy.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.ampoonline.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.ayeshamasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.babulilm.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.bataviaislamiccenter.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.berkeleymasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.berlinmosque.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.biautica.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://www.bilalislamiccenter.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.charlestonmuslims.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "DAgv8BL0",
+"mohid_url": "https://us.mohid.co/sc/charleston1/cmc"
+}
+},
+"http://www.cicnj.net": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0AWbw0Lj"
+}
+},
+"http://www.clemmonsislamiccenter.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://www.communitymosque.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "YAD4ojAN"
+}
+},
+"http://www.darussunnah.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"http://www.dawateislamiusa.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.delmarvamuslimcommunity.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "http://www.delmarvamuslimcommunity.org"
+}
+},
+"http://www.emasseattle.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "YRKxYRLO"
+}
+},
+"http://www.emccnj.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.fmccnj.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "1QL0VadZ",
+"mohid_url": "https://us.mohid.co/nj/njrgn/fusion"
+}
+},
+"http://www.georgiaislamicinstitute.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "QL01pyAZ"
+}
+},
+"http://www.goicn.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.greenvillemasjid.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/sc/rockhill/greenvillemasjid"
+}
+},
+"http://www.iant.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "http://www.iant.com",
+"masjidal_id": "xdy03lAX"
+}
+},
+"http://www.iatconline.com/Home_Page.html": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/fortworth/iatc"
+}
+},
+"http://www.icbfl.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.icbrsite.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "http://www.icbrsite.org",
+"masjidal_id": "4KB0kPA5"
+}
+},
+"http://www.iccmedford.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ma/boston/iccmedford"
+}
+},
+"http://www.ichcnj.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "keLQ4WKM",
+"mohid_url": "https://us.mohid.co/nj/njrgn/ichcc"
+}
+},
+"http://www.icnm-abq.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.icntn.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.icob.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.icwmo.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://www.idarulehsan.org/home.html": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"http://www.ifnj.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.ifpeoria.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.ihya.foundation": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.iitsnc.org/prayertimes.php": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://www.ikmia.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ga/atlanta/ikmia"
+}
+},
+"http://www.iowacitymosque.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.isaugusta.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "http://www.isaugusta.com",
+"mohid_url": "https://us.mohid.co/ga/augusta/isoaugusta"
+}
+},
+"http://www.islamiccenteroflafayette.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.islamiccenterofolympia.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 522: <none>"
+}
+},
+"http://www.islamiccenteroftennessee.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "rdRvm3dG",
+"mohid_url": "https://us.mohid.co/tn/nashville/ictn"
+}
+},
+"http://www.islamiccenteroftricities.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.ismonline.org/index.php/about-us/new-mosque-by-uwm": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 400: Bad Request"
+}
+},
+"http://www.ismwest.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "O8L7bK5P",
+"mohid_url": "https://us.mohid.co/wi/milwaukee/ismbrookfield"
+}
+},
+"http://www.kellerislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.lc-ic.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://www.maceohio.com": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/oh/cleveland/mace"
+}
+},
+"http://www.majcolumbus.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "kK3G0ZKe"
+}
+},
+"http://www.margatemasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.masjidalaisha.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "http://www.masjidalaisha.org",
+"masjidal_id": "VL4JvVdx"
+}
+},
+"http://www.masjidalfalaah.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.masjidalislamri.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.masjidalwali.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "xwLVXxdJ"
+}
+},
+"http://www.masjidbilalnassau1.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ny/newyork/masjidbilal"
+}
+},
+"http://www.masjidbilalnz.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.masjidhamzah.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ga/atlanta/hamzahmasjid"
+}
+},
+"http://www.masjidisa.com": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"http://www.masjidjafaratl.com": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"http://www.masjidlamirada.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.masjidmadeena.com": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://www.masjidmadinatulilm.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.masjidmuqbilphl.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://www.masjidqubaa.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.masjidrahmah.us": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certif"
+}
+},
+"http://www.masjidsaad.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.masjidtayyaba.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.masjidultaqwasandiego.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"http://www.masjidulwaritheen.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.masjidzamzam.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.mcabayarea.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.mcleanmuslims.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.mec1.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "1QL03QKZ"
+}
+},
+"http://www.michianamuslims.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.musallas.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.muslimsocietyinc.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/il/nwcs/msi"
+}
+},
+"http://www.ndmnc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.newburghmasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.nhicct.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.northsidemosque.org/abu-bakr-masjid-roscoe/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"http://www.northsidemosque.org/jama-masjid-chicago/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"http://www.northsidemosque.org/noor-masjid-chicago/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"http://www.nsicny.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.nurulislam.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.rahmatealam.net/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "rGAEXpLn"
+}
+},
+"http://www.rawdatalquran.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.ridgewoodmosque.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"http://www.seldenmasjid.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "pVdw1xLe"
+}
+},
+"http://www.shelterrockislamiccenter.com": {
+"at": "2026-11-17",
+"found": {
+"site_error": "The read operation timed out"
+}
+},
+"http://www.stratfordmasjid.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.taqwa.net/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "QL0BzpdZ",
+"mohid_url": "https://us.mohid.co/md/columbia1/dat"
+}
+},
+"http://www.theiccm.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://www.theiclr.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"http://www.theicr.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"http://www.ummct.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://www.walthamislamicsociety.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "OA8n1rKp"
+}
+},
+"http://www.zainabia.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"http://www.ziacademy.org/home": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "http://www.ziacademy.org"
+}
+},
+"http://www.ziaulquranmasjid.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"http://zamongajumath.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://abu-bakr-el-seddique-mosque.edan.io/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://abubakrislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://abubakrislamiccenter.org",
+"masjidal_id": "xwLVXMdJ"
+}
+},
+"https://abuubakar.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://adamcc.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0kAklzdq"
+}
+},
+"https://adamscenter.org/support-gainesville": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://aicelkhorn.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://aicnyc.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://aicpma.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "nL1ZPnAa"
+}
+},
+"https://aikmd.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/md/baltimore/almadina"
+}
+},
+"https://aishacenter.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://akronmasjid.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://alamaan.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://alaminjamemasjid.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issue"
+}
+},
+"https://alansaarmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://alansaarmasjid.org"
+}
+},
+"https://alaqsaislamicsociety.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://alaskamasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ak/anchorage/iccaa"
+}
+},
+"https://albanianamericanislamiccenter.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/il/wcs/aaicberkeley"
+}
+},
+"https://alfarooqmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ga/atlanta/afm"
+}
+},
+"https://alfurqaanmosqueofcharleston.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://alhaqqic.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://alhikmaa.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0LbpOXdo"
+}
+},
+"https://alhudainstitute.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://alhudainstitute.org"
+}
+},
+"https://alhudaislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://alhudaislamiccenter.org"
+}
+},
+"https://alhudamcc.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "OA82prKp"
+}
+},
+"https://alhudamke.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "nDAgZDL0"
+}
+},
+"https://alhudamke.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "nDAgZDL0"
+}
+},
+"https://alilmmaryland.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://alimanislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://alimanislamiccenter.org"
+}
+},
+"https://alislam.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://alistiqamah.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://alkarimislamiccenter.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://allenmasjid.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/dallas/iaa"
+}
+},
+"https://almadinauniversity.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://alnooric.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://alnoormcc.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0xdyP4AX"
+}
+},
+"https://alnourcenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://alrahmamasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://alrahmancenter.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certif"
+}
+},
+"https://alrahmanmasjid.com": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ga/atlanta/alrahmanmasjid"
+}
+},
+"https://alrahmanmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://alrcpa.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://alsalamfoundation.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "YRKxllKO"
+}
+},
+"https://amaboonton.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "XAllMNAb"
+}
+},
+"https://amarillomosque.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0Lbpyldo"
+}
+},
+"https://americanmusliminstitute.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://annurfoundation.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://arabic-jumaa-mosque-boston.yolasite.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://as-suffahmn.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://assafaislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://assalaamic.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://aticjc.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://auccnj.org/masjid-alnuha": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "GA6gOrde"
+}
+},
+"https://auliyacouncil.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://austinmosque.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://austinmosque.org"
+}
+},
+"https://azicc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://badrudeen.net/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://baitulamanny.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://baitulmukarrammasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://bekcc.org/istorija/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://bellevillemosque.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://bic-ar.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://bicc-chicago.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://bicjax.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/fl/jacksonville/bicjax"
+}
+},
+"https://bicmasjid.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "PAPyDodJ"
+}
+},
+"https://bmcama.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://bmmasjid.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "OMA545Lr",
+"mohid_url": "https://us.mohid.co/ct/waterbury/bmmasjid"
+}
+},
+"https://bolingbrookmasjid.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://boonemasjid.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://bothellmosque.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://brmcc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://cej.ahmadiyya.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://centercitymosque.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0Lbk9NAo"
+}
+},
+"https://centervilleislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://cfkdfw.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://chamrefugeescommunity.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://chapelhillmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://chicagoislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ciacademy.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://cicmi.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "8K9qpNKp"
+}
+},
+"https://cincinnatiislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://citcd.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/il/scs/citacd"
+}
+},
+"https://cliftonmosque.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://coloradomuslimsociety.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://coronamuslims.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ca/losangeles/iscn"
+}
+},
+"https://crescentcommunity.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://crescentcommunity.com"
+}
+},
+"https://crescentview.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://cypressislamiccenter.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://cypressislamiccenter.org"
+}
+},
+"https://daar-ul-ehsaan.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://daarattawheedws.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "VdwqXOLe"
+}
+},
+"https://daralfarooq.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://daralfarooq.com",
+"masjidal_id": "8L7kWPL5"
+}
+},
+"https://daraljalal.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://daraltaqwa-ny.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "xdymw3dX"
+}
+},
+"https://daraltaqwa.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "kK3yx5Ae"
+}
+},
+"https://daromaralfarooq.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://darulahnaf.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://darularqammn.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "rdRyYvAG",
+"mohid_url": "https://us.mohid.co/mn/minneapolis/dacoe"
+}
+},
+"https://daruleimaan.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://darulhudamasjid.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://darulhudausa.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://darulihsanusa.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://darulmustafa.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://darulquranacademy.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://darusalam.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://darussalaam.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://dawah.ac/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://dbrmc.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://denverislamicsociety.com": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/co/denver/dis"
+}
+},
+"https://diyanetamerica.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://dncfw.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/fortworth/iaftnoor"
+}
+},
+"https://downeymasjid.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired ("
+}
+},
+"https://dqws.us": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://dqws.us"
+}
+},
+"https://dunf.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0LbnBVLo"
+}
+},
+"https://duusa.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://eastsidemosque.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/wa/bellevue/icoe"
+}
+},
+"https://edmondmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ok/oklahomacity/ise"
+}
+},
+"https://emananw.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/wa/seattle/emana"
+}
+},
+"https://epmaonline.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/pa/allentown/epma"
+}
+},
+"https://eugeneislamiccenter.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://eyupsultan.business.site/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://ficiusa.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ficny.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://firstclevelandmasjid.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://firsthijrah.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired ("
+}
+},
+"https://firstmuslimmosque.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://gbislamic.center/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "9L2153KZ",
+"mohid_url": "https://us.mohid.co/mi/detroit/gbic"
+}
+},
+"https://gicharvey.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/il/scs/gicharvey"
+}
+},
+"https://goisga.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://grangermusalla.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://greenvillencmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://greenvillencmasjid.org",
+"masjidal_id": "p8KXlYKM"
+}
+},
+"https://grmasjid.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://grmasjid.org"
+}
+},
+"https://gsismasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://haalipularnj.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://haicbaltimore.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://hart.community/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://haverhillmasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://hayward.masjidfurqaan.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0Lb7eVAo"
+}
+},
+"https://hersheyislamiccenter.alminaret.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://hijrah.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://hijrah.org"
+}
+},
+"https://hirainstitute.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://hodacenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://hollismuslimcenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://hometownmercymosque.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iamcenter.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/trgn/iamc"
+}
+},
+"https://iasv.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ibaadurahman.com": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://ibadarrahman.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/nc/durham/jamaat"
+}
+},
+"https://ic-db.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ica-co.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icabayarea.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "DAgwQ1A0",
+"mohid_url": "https://us.mohid.co/ca/sanfrancisco/ica"
+}
+},
+"https://icbgky.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icbrushycreek.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icburlington.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "x4KB6PK5"
+}
+},
+"https://icbwayland.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iccharlotte.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iccicenter.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "wLVOEwAJ",
+"mohid_url": "https://us.mohid.co/il/nchicago/islamiccommunitycent"
+}
+},
+"https://iccl.alminaret.com": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/pa/philadelphia/islamiccenter"
+}
+},
+"https://icclmd.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/md/mdrgn/iccl"
+}
+},
+"https://iccnc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iccpaz.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iccpaz.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iccv.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "YAD4jQAN"
+}
+},
+"https://icdga.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icdonline.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://icfbayarea.com": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://icfbayarea.com"
+}
+},
+"https://icfmasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icgf.us": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icgolden.net/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icislam.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://icislam.org"
+}
+},
+"https://icjar.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icjc.net": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://icjv.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ickansas.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icl-huda.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iclivermore.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iclnmooresville.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icmc-us.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "1XAl4AbY"
+}
+},
+"https://icmcmasjid.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "6adJxyLk",
+"mohid_url": "https://us.mohid.co/nj/njrgn/icmc"
+}
+},
+"https://icmcnj.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icmississippi.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icmks.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icmny.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icmorgantown.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/wv/morgantown/icmt"
+}
+},
+"https://icmoscow.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icnaples.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "8KXpp0KM"
+}
+},
+"https://icnava.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://icne.net": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icnef.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "The read operation timed out"
+}
+},
+"https://icnlruston.net": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icnmasjid.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "y0LboaAo",
+"mohid_url": "https://us.mohid.co/il/swcs/icn"
+}
+},
+"https://icoeuless.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/fortworth/eic"
+}
+},
+"https://icoft.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "QL0BkbdZ"
+}
+},
+"https://icomd.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/md/mdrgn/icomd"
+}
+},
+"https://iconwfl.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icopct.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://icopsmasjidwa.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icpbmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icpeoria.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icplattsburgh.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "JAmzOGdR"
+}
+},
+"https://icscmfallriver.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icscv.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icsd.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icstillwater.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icswct.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ictampa.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0aAegzKj",
+"mohid_url": "https://us.mohid.co/fl/florida/alqassam"
+}
+},
+"https://icverona.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://icwallingford.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:100"
+}
+},
+"https://icwweb.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ifnonline.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://ifnonline.com",
+"masjidal_id": "6adJxLkx"
+}
+},
+"https://ifol.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ifsws.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iioc.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "adJEkrAk"
+}
+},
+"https://iisgc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ikicenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ilmcenter.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "QL038EKZ"
+}
+},
+"https://imaamcenter.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://imaamcenter.org"
+}
+},
+"https://imamalicenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iqramn.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error timed out>"
+}
+},
+"https://is-rc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://isak.us/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://isak.us"
+}
+},
+"https://isbcc.org/getting-here/#x-section-2": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://isbri.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://isbri.org",
+"masjidal_id": "0LbpWVdo"
+}
+},
+"https://isccpa.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://isccpa.org"
+}
+},
+"https://iscnyonline.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://iscnyonline.com"
+}
+},
+"https://iscnyonline.org/who-we-are": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://iscnyonline.org"
+}
+},
+"https://iscp.me/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iscs.info/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://isfmd.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://isgcharlotte.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "MA582zLr"
+}
+},
+"https://isgh.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://isgm.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://isgmc.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://isgw.us/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "pQKM01dB"
+}
+},
+"https://iskmasjidomar.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamiccenterblaine.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "XAllbWAb"
+}
+},
+"https://islamiccenteremporia.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "wAaqa9A1"
+}
+},
+"https://islamiccenterofatlanticcity.org/contact/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://islamiccenterofatlanticcity.org"
+}
+},
+"https://islamiccenterofcapegirardeau.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamiccenterofeastmadison.com": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://islamiccenterofhenrico.com": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/va/richmond/ichva"
+}
+},
+"https://islamiccenterofkent.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "QL0MGBAZ"
+}
+},
+"https://islamiccenteroflincolnpark.godaddysites.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "RKxqb6LO"
+}
+},
+"https://islamiccenterofmacon.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamiccenterofnaperville.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "y0LboaAo",
+"mohid_url": "https://us.mohid.co/il/swcs/icn"
+}
+},
+"https://islamiccenterofnorthseattle.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamiccenterofreseda.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamiccenterofsavannah.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamiccenterofsiouxfalls.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamicinstituteofmn.com/burnsville.html": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamicinstituteofmn.com/eden_prairie.html": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamicinstituteofmn.com/maplewood.html": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamicoutreachcenterofcolorado.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://islamicsocietylc.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired ("
+}
+},
+"https://islamicsocietyofcapecod.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamindallas.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islaminfortworth.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamnd.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "MA5ZQzdr"
+}
+},
+"https://islamsb.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamsf.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamstl.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://islamtc.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "kK3GnQKe"
+}
+},
+"https://isna.net/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://isnh.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://isnj.net/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://isnok.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "The read operation timed out"
+}
+},
+"https://isogs.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "M9L2yNKZ",
+"mohid_url": "https://us.mohid.co/il/schicago/isogs"
+}
+},
+"https://isstcc.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://isstcc.org"
+}
+},
+"https://isstonline.wixsite.com/isstmcallen": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://istijabah.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 500: Internal Server Error"
+}
+},
+"https://istuscaloosa.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://istweb.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://isvt.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://iswmonline.com": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ma/springfield1/iswm"
+}
+},
+"https://jamaicamuslimcenter.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "z0AW66Lj"
+}
+},
+"https://jamiamasjid.us/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://jaoct.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://kalamazooislamiccenter.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://kalkalmasjid.wordpress.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://kcic.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://kingfahadmosque.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://knowmanlearning.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://lascolinasmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://leavenworthmuslims.weebly.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://lovejoymadinahmasjid.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0kAkWjAq"
+}
+},
+"https://lubbockmuslims.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://macanj.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://macemasjid.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "8KXOM9dM"
+}
+},
+"https://macous.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://madinahmasjid.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://madinahmasjid.us/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 503: Service Unavailable"
+}
+},
+"https://madinamasjid.us/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://madinamasjid.us",
+"masjidal_id": "MA5ZGDdr"
+}
+},
+"https://makkimasjid.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "1VL4WVKx"
+}
+},
+"https://makmasjid.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "OA8mGbdp"
+}
+},
+"https://maldenislamiccenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mankatoislamiccenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://maplevalleymosque.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "RKxy3MLO",
+"mohid_url": "https://us.mohid.co/wa/seattle/icmv"
+}
+},
+"https://mapsredmond.org/maps-snohomish/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://markazaltaqwa.info": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://maryammasjidofspokane.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "OA82XVKp",
+"mohid_url": "https://us.mohid.co/wa/spokane/mmicc"
+}
+},
+"https://mascnj.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://mascnj.org"
+}
+},
+"https://masjid-alhuda.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjid-ali.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjid-e-ali.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjid-ibrahim.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjid-umar-ibn-al-khattab.business.site": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://masjid.mccapopka.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "PAP9wZdJ"
+}
+},
+"https://masjidabubakarlouisville.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidabubakarpdx.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidahad.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidahlilhadeeth.wordpress.com": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://masjidal-islam.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidalabraar.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidalbarakah.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidaleiman.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidalfarouq.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0AWpBPdj"
+}
+},
+"https://masjidalhuda.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "1QL0GKZD"
+}
+},
+"https://masjidalikhlasflorida.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "QKMqeqKB"
+}
+},
+"https://masjidalmustafa.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://masjidalmustafa.org",
+"mohid_url": "https://us.mohid.co/az/chandler/masjidalmustafa"
+}
+},
+"https://masjidalnooriowa.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidalrahman.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidalrasheed.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidanasbinmalik.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidannoorfs.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidannur.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidarrahmannyc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidassaffat.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certif"
+}
+},
+"https://masjidattaqwa.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidattaqwa.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "xdy0XnAX"
+}
+},
+"https://masjidbadr.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "The read operation timed out"
+}
+},
+"https://masjidbilalcny.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://masjidbilaltx.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://masjidbilaltx.org"
+}
+},
+"https://masjiddarulquran.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ny/newyork/mdq"
+}
+},
+"https://masjidds.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://masjidds.org"
+}
+},
+"https://masjidfatimaalzahra.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidhidayath.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidicf.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidinaam.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidjamaluddin.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://masjidkr.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidmadeena.org/masjid_madeena_duvAll/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/wa/bellevue/mmblv"
+}
+},
+"https://masjidmanhattan.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidmusab.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidomar.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ga/atlanta/masjidomar"
+}
+},
+"https://masjidqubanj.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidribat.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidsaaliheen.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://masjidsadar.com": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://masjidsadar.com"
+}
+},
+"https://masjidsalama.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidsalmanalfarsi.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://masjidsalmanalfarsi.org",
+"mohid_url": "https://us.mohid.co/ga/atlanta/muna"
+}
+},
+"https://masjidsunnahchi.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidtaqwa.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "p8KXaELM",
+"mohid_url": "https://us.mohid.co/fl/florida/masjidtaqwa"
+}
+},
+"https://masjidtawfeeq.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidubk.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidulhidayah.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidulmumineen.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masjidwh.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://masmn.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "xdNPqnLV"
+}
+},
+"https://masroormosque.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://massacramento.org/massacramento": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ca/sacramento/mcyc"
+}
+},
+"https://masuc.org/center/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mca-a2.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/mi/annarbor/mca"
+}
+},
+"https://mccbrooklyn.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mccchicago.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mcceastbay.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://mcceastbay.org"
+}
+},
+"https://mccgp.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "6kK3XPLe"
+}
+},
+"https://mccsandiego.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mccsdsiouxfalls.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mccstc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mcm-mi.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://mcm-mi.com",
+"masjidal_id": "VKpeyoLP",
+"mohid_url": "https://us.mohid.co/mi/detroit/icafarmington"
+}
+},
+"https://mcmmasjid.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://mcofsi.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mcthr.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 500: Internal Server Error"
+}
+},
+"https://mcws.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/mi/detroit/mcws"
+}
+},
+"https://meccacenter.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://meccacenter.org",
+"mohid_url": "https://us.mohid.co/il/scs/mecca"
+}
+},
+"https://mhiawappingers.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ny/newyork/mhia"
+}
+},
+"https://mhma.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://miccmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mislamiah.com": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 54] Connection reset by peer>"
+}
+},
+"https://mmasacramento.com": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://mmasacramento.com"
+}
+},
+"https://momincc.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://momincc.org",
+"masjidal_id": "8KXp6bKM",
+"mohid_url": "https://us.mohid.co/fl/jacksonville/momincc"
+}
+},
+"https://monroeislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "5Avo4OdX"
+}
+},
+"https://monroemosque.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://msa.mit.edu/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://msaic.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "Vdw3Wmde"
+}
+},
+"https://msauw.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mtws.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://musalla-sand.vercel.app": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "aAepRkLj"
+}
+},
+"https://muslimcenter.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://muslimcenter.org"
+}
+},
+"https://muslimknoxville.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://muslimlistings.org/listing/masjid-as-sunnah-5/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mvmasjid.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://mycc-rdu.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://naimnj.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://najamcenterlilburn.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://nbicny.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ncnmo.org/about/chapters/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://nebraskaislamicfoundation.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://nidaulislam.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://nidaulislam.org",
+"masjidal_id": "wdqDRZAb"
+}
+},
+"https://noibmore.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://nonamasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://northeastdenverislamiccenter.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://nuecesmosque.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "y0LbyNKo"
+}
+},
+"https://nurulislam.org/contact-us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://nwiic.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://nwiic.org"
+}
+},
+"https://nycmadinamasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://oaklandislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://oiccmasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://oicct.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://oicct.org"
+}
+},
+"https://orlandparkprayercenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://oswegomasjid.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "OLnR15LM"
+}
+},
+"https://ourmosque.us/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "jKZpaoAX"
+}
+},
+"https://oxfordmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://palosic.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://peaceislamiccenter.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://peaceislamiccenter.org"
+}
+},
+"https://picmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://picmasjid.org"
+}
+},
+"https://planomasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/plano/iacc"
+}
+},
+"https://pmawebsite.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://portland.ahmadiyya.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://pullmanislamicassociation.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "PAPwXrLJ"
+}
+},
+"https://pwicva.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://qiaminstitute.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://qiaminstitute.org",
+"masjidal_id": "kK3GDMKe"
+}
+},
+"https://qubahouston.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://quran-institute.org/masjid-al-furqan": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://qurancenterofknoxville.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://rahmatealam.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "rGAEXpLn"
+}
+},
+"https://raleighmasjid.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://raleighmasjid.org"
+}
+},
+"https://raleighmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://raleighmasjid.org"
+}
+},
+"https://ramadancenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://ranchomasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe l"
+}
+},
+"https://richmondmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "keLQn7AM"
+}
+},
+"https://rifusa.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://rmicmd.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "QL0MOQAZ",
+"mohid_url": "https://us.mohid.co/md/baltimore/rmic"
+}
+},
+"https://rmislamiccenter.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "MA58bDLr"
+}
+},
+"https://roanokemasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://rockawayislamiccenter.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://roundrockmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/austin/icrr"
+}
+},
+"https://saba-igc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://sabeelulfaoz.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://sachsemasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://salamcommunitymn.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://salamdesoto.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://salemislamiccenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://sbia.info": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://scmosque.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://shafie.net/pictures.htm": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://shelbymasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://siddique-e-akbar-islamiccenter.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://sijpa.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://sijpa.org"
+}
+},
+"https://sites.google.com/view/ahmadiyyamovementinislam/home": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://sites.google.com/view/islamiccenteroflumberton/home": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "x8K958Kp"
+}
+},
+"https://smamosque.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://smamosque.org",
+"masjidal_id": "6adJNqdk",
+"mohid_url": "https://us.mohid.co/wa/bellevue/sammamishmosque"
+}
+},
+"https://smiec.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://stamfordislamiccenter.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://sufaraacenter.org/daily-prayer/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://suffaheducational.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://svic.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://taqwact.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://tawheeddawahnj.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://tawhidic.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://tempemosque.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://thanavimadani.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://the-mcc.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "The read operation timed out"
+}
+},
+"https://the.ismaili/us/en/news/jamatkhana-glenview": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://theiclr.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://theislamiccenter.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://theislamicsociety.com": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://theislamicsociety.com"
+}
+},
+"https://theislamicsociety.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://theislamicsociety.com"
+}
+},
+"https://thenationsmosque.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://therahmacenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://thfoundation.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://toledomcc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://tylerislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/txrgn/tic"
+}
+},
+"https://tylermuslim.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/txrgn/etis"
+}
+},
+"https://uama.us/en/chicago-central-mosque-islamic-center/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://ueffw.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "RKxwpMdO",
+"mohid_url": "https://us.mohid.co/in/fortwayne/uef"
+}
+},
+"https://uicmg.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "3AOVoELe"
+}
+},
+"https://uislamicca.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "zKz3zRLO",
+"mohid_url": "https://us.mohid.co/az/phoenix/uica"
+}
+},
+"https://umaracademy.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://umatulislam.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://unitycenterscv.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://us.mohid.co/ky/louisville/masjidbilalsouthside/masjid/online/donation": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ky/louisville/masjidbilalsouthside"
+}
+},
+"https://us.mohid.co/ma/springfield1/baitussalaam/masjid/online/donation": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ma/springfield1/baitussalaam"
+}
+},
+"https://us.mohid.co/tx/txrgn/alkhair": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/txrgn/alkhair"
+}
+},
+"https://uuqcenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://uyghurislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://vric.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://vric.org",
+"mohid_url": "https://us.mohid.co/tx/txrgn/vric"
+}
+},
+"https://wataugamasjid.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/fortworth/iaftsahaba"
+}
+},
+"https://wcmamasjid.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "1QL0NBdZ",
+"mohid_url": "https://us.mohid.co/oh/cleveland/wcma"
+}
+},
+"https://wkic.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://wmccmosque.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://wmecnj.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "eLQe4yLM"
+}
+},
+"https://woodsidemasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://wvmuslim.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://wvmuslim.org"
+}
+},
+"https://www.MACCLM.info": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ma/boston/macclm"
+}
+},
+"https://www.aac-ct.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.aaicw.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.abqislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.adamscenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.ahicm.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/mi/canton/ahicm"
+}
+},
+"https://www.ahmadiyya.us/chapters/chicagoeast/42-": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.ahmadiyya.us"
+}
+},
+"https://www.ahmadiyya.us/chapters/oshkosh": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.ahmadiyya.us"
+}
+},
+"https://www.aicp.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.aiehuntley.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.aim-masjidnoor.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.al-farooqcenter.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired ("
+}
+},
+"https://www.al-hidaya.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ny/newyork/icct"
+}
+},
+"https://www.al-khoei.org/the-foundation/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.alarqamcenter.com": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.alazharfoundation.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.albircenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.alfalahcenter.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://www.alghadeer.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.alghadeer.org"
+}
+},
+"https://www.alhudacenter.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 65] No route to host>"
+}
+},
+"https://www.alhudaislamic.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.alhudasociety.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.alkhairia.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "DAgwweA0"
+}
+},
+"https://www.almahdi.us": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.almahdi.us"
+}
+},
+"https://www.almaqasid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.alnurmosque.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://www.alquranmke.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.alrashideenislamiccenter.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.alrasoolcenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.alsalammasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.altaqwacenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.amccenters.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.amccenters.org",
+"mohid_url": "https://us.mohid.co/fl/orlando/amcc"
+}
+},
+"https://www.amco.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "nDAgOA0J"
+}
+},
+"https://www.amda.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.amscoldwater.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "xdNPXgLV"
+}
+},
+"https://www.annaislamiccenter.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.annoorpdx.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.apexmosque.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.aqsacenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.aqsamasjidkaty.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.arqum.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.arraheemacademy.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.assaber.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.assiddiq.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.atlantamasjid.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.attawheed.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.aubreymasjid.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "DAgkYeA0"
+}
+},
+"https://www.avondaleislamiccenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.az-zahra.org/wp/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.azacademy.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.baytuliman.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.bccd.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.bicny.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.bilalmasjid.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.binghamtonislamiccenter.com/home": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.boroughsislamicsociety.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.bouldermuslims.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.bqnj.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.bvmcc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.carymasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.carymasjid.org"
+}
+},
+"https://www.charlottemcc.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.chicagomosque.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.chicagoquran.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "xwLVzpLJ"
+}
+},
+"https://www.childrenofadam.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.cimic.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/il/school/cimic"
+}
+},
+"https://www.crmosque.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.cvicohio.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/oh/cleveland/cvicohio"
+}
+},
+"https://www.dar-alhijrahchicago.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.daralarqam.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.daralislam.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.daralnoor.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.daralquranwasunnahinstitute.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.darul-quba.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://www.darulislah.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.darulislah.org"
+}
+},
+"https://www.darululoomcenter.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "The read operation timed out"
+}
+},
+"https://www.darululoominstitute.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.darululoommi.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "OLnzqQLM"
+}
+},
+"https://www.darunnaeiminstitute.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.daruttawheed.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/il/chicago/daruttawheed"
+}
+},
+"https://www.davismasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.dawahcenter.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "lJAm0rLR"
+}
+},
+"https://www.ddmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/il/nwcs/ddm"
+}
+},
+"https://www.deerparkmasjid.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.dentonmosque.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.dhicva.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/va/richmond/dhcc"
+}
+},
+"https://www.dtislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 523: <none>"
+}
+},
+"https://www.dutx.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.eastsidemosque.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/wa/bellevue/icoe"
+}
+},
+"https://www.eicsanjose.org/wp/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.elfarouq.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.etcic.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "6adJqxAk"
+}
+},
+"https://www.facebook.com/Al-Madany-Islamic-Center-of-Norwalk-271074252917985": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/HarveyMasjid/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/ICNAOutreachCenter": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/IslamicCenterOfFederalWay/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/MasjidAlfurqanPhiladelphia/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/MasjidQubaNY/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/Minhaj-ul-Quran-Al-Noor-Islamic-Center-Ellington-CT-732533276808535": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/everettmasjid": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/iccbehargr": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/p/Bell-Islamic-Center-100066382398353/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/pages/Islamic-Center-of-Laramie/100862133291222": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/pages/Islamic-Center-of-Yakima/134204169963235": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/profile.php?id=100077900395344": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.facebook.com/zajednica.bosnjakageorgia/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.fairfieldmasjid.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.fairfieldmasjid.com"
+}
+},
+"https://www.fiveprayers.org/display/index.php?id=Tlcpaterson": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.flintislamiccenter.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.fvamc.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ct/hartford/fvamc"
+}
+},
+"https://www.gary-muslim-center.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.gclea.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "XAlRZ4Kb"
+}
+},
+"https://www.gicmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.gicoak.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "The read operation timed out"
+}
+},
+"https://www.gliaweb.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.icomerced.com/&ved=2ahUKEwikprLco4SRAxWAFDQIHZ35G4YQFnoECCAQAQ&sqi=2&usg=AOvVaw0_9T08_btGrdMkvfmvo8Cw": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.haskay.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.hedayacenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.hicny.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.highlandmasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.home.isnrv.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.houstonjamaat.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.husainiyatucson.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.ialfm.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iasconnect.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.iasconnect.org",
+"masjidal_id": "8L7mGbd5"
+}
+},
+"https://www.ibad-ur-rahman.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.icbcs.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icbr.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icbrsite.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.icbrsite.org",
+"masjidal_id": "4KB0kPA5"
+}
+},
+"https://www.icc-ny.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icc-va.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iccdny.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iccelgin.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iccgfl.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "rdRvbbdG"
+}
+},
+"https://www.iccgreaterchicago.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/il/necs/iccgc"
+}
+},
+"https://www.iccleveland.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/oh/cleveland/iccohio"
+}
+},
+"https://www.iccnystamford.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iccofdesplaines.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icconline.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icebnj.net/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icfc.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "OA8nrVKp"
+}
+},
+"https://www.ichnc.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/nc/charlotte/ichnc"
+}
+},
+"https://www.ichnj.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icjc.org/contact.html": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://www.ickc.info": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "x4KB2K5Q"
+}
+},
+"https://www.iclaketravis.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iclks.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iclpmd.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.icnachicago.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "rGAEZkdn"
+}
+},
+"https://www.icnl.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "xdNaMwAV"
+}
+},
+"https://www.icnpr.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icnwa.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icnyu.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issue"
+}
+},
+"https://www.icobnj.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/nj/njrgn/icobnj"
+}
+},
+"https://www.icofsf.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icoi.net/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icolakeworth.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icolc.org/main.html": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://www.icommd.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "BYADmQdN"
+}
+},
+"https://www.icomodesto.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "kK3yZMAe"
+}
+},
+"https://www.icorlando.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icoslc.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icotv.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icp-pgh.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "QKMnW1LB"
+}
+},
+"https://www.icpcnj.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icptx.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icrama.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://www.icrarkansas.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icrmuslim.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icsaonline.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icsgv.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.icsgv.com",
+"mohid_url": "https://us.mohid.co/ca/losangeles/icsgv"
+}
+},
+"https://www.icsiouxland.net/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icsjmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/nj/njrgn/icsj"
+}
+},
+"https://www.icsmissouri.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "nwAaXnL1"
+}
+},
+"https://www.icsrnj.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "keLQlOKM"
+}
+},
+"https://www.ictorrance.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.ictpmn.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.ictucson.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icwlct.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "wLVO9BAJ"
+}
+},
+"https://www.icwonline.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.icwpa.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icwsmasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.icyl.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.idrismosque.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "keLQjWAM"
+}
+},
+"https://www.iechusaini.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.ifnymasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iio.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "nzKzgvLO"
+}
+},
+"https://www.iiofa.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.imamalasr.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iman-wa.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.imcaindy.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.imcaindy.org"
+}
+},
+"https://www.imof.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iost.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ny/newyork/iost"
+}
+},
+"https://www.iqrany.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "VKpe8OLP"
+}
+},
+"https://www.isallentown.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.isamasjid.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.isamasjid.org"
+}
+},
+"https://www.isb.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/md/mdrgn/isb"
+}
+},
+"https://www.isbr.net/home-e.php": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iscindiana.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.iscj.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.isevv.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.isgn.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/nh/nashua/isgn"
+}
+},
+"https://www.isgvf.com": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/pa/philadelphia/isgvf"
+}
+},
+"https://www.isgyohio.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.islamcenter.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/az/phoenix/icnev"
+}
+},
+"https://www.islamiccenterfrankfortky.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "VdwoR0de"
+}
+},
+"https://www.islamiccenterlathrop.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.islamiccenterofcharlottesville.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.islamiccenterofeastlake.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.islamiccenterofeastlake.com"
+}
+},
+"https://www.islamiccenterofhamden.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.islamiccenterofhewitt.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.islamiccenterofhewitt.org"
+}
+},
+"https://www.islamiccenterofmadison.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.islamiccenterofterrehaute.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "wdqDBPAb"
+}
+},
+"https://www.islamiccenterofvernon.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ct/hartford/icov"
+}
+},
+"https://www.islamicedu.org": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.islamicedu.org"
+}
+},
+"https://www.islamicfinder.org/world/view-place/406/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: "
+}
+},
+"https://www.islamicsocietyframingham.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.islamicsocietyframingham.org",
+"masjidal_id": "xwLVpqdJ"
+}
+},
+"https://www.islaminbaltimore.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.islamincenla.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.ismcnj.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.ismonline.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "nzKzJoKO",
+"mohid_url": "https://us.mohid.co/wi/milwaukee/ismsouth"
+}
+},
+"https://www.isnb.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.isnf.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://www.isns.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.isnwisconsin.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "OMA5JNdr"
+}
+},
+"https://www.isnwo.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.isocmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.isogs.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "M9L2yNKZ",
+"mohid_url": "https://us.mohid.co/il/schicago/isogs"
+}
+},
+"https://www.issa-nh.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "yLjOmjAQ"
+}
+},
+"https://www.issb.net/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/fl/tampa/issb"
+}
+},
+"https://www.issmass.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.istulsa.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "xdyq9ZdX",
+"mohid_url": "https://us.mohid.co/ok/tulsa/ist"
+}
+},
+"https://www.iswmd.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.jafaria.org/jafaria_site/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.jcislamiccenter.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.jolietislamiccenter.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.joplinmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.kcmasjidomar.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.khaircenter.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.kitsapmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.lackawannamosque.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.lansingislam.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0aAeyzAj",
+"mohid_url": "https://us.mohid.co/mi/lansing/icgl"
+}
+},
+"https://www.lathropmca.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.lighthousemosque.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.lightofislammasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.louisvilleislamiccenter.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/ky/louisville/lic"
+}
+},
+"https://www.madanimasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/il/secs/madanimasjid"
+}
+},
+"https://www.madinainstitute.us/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.malv.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.mapsredmond.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.maqws.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masarizona.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "GA6aVrLe"
+}
+},
+"https://www.masboston.org/msc/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.masboston.org",
+"masjidal_id": "PAPyP4dJ"
+}
+},
+"https://www.masdc.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "YRKxVOAO"
+}
+},
+"https://www.masdetroit.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjid-e-madani.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjid-salaam.com": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.masjid.alabidin.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "wLVplMdJ"
+}
+},
+"https://www.masjidabuhuraira.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidal-siddiq.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidalbaqi.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidalemaan.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidalhikmahnewyork.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "ZyLj5bKQ"
+}
+},
+"https://www.masjidalhusna.com": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "5AvPx2KX"
+}
+},
+"https://www.masjidalmuminun.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://www.masjidalnoor.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "XEdoEvL7",
+"mohid_url": "https://us.mohid.co/ca/losangeles/icsb"
+}
+},
+"https://www.masjidalquran.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidalrahmanofcanton.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "GAEbJYdn"
+}
+},
+"https://www.masjidalsalamfsm.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidalwadood.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidan-noor.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidansarcolorado.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/co/aurora/biac"
+}
+},
+"https://www.masjidarrahmaan.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 401: Unauthorized"
+}
+},
+"https://www.masjidas-sabiqun.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidbilalcanton.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/mi/canton/mbc"
+}
+},
+"https://www.masjidbilalky.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "3wdqX2Ab"
+}
+},
+"https://www.masjidbilalmi.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/mi/ypsillanti/mb"
+}
+},
+"https://www.masjiddarulquran.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjideesa.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidesajideen.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidfatima.com": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/md/baltimore/fatima"
+}
+},
+"https://www.masjidhamza.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidhamzasandiego.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issue"
+}
+},
+"https://www.masjidhaqq.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidibraaheem.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidibrahim.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.masjidibrahim.org"
+}
+},
+"https://www.masjidihsan.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "oxdN0YLV"
+}
+},
+"https://www.masjidisgl.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidjihad.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidmiami.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidnoorli.net/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidomarohio.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/oh/columbus1/omarmosque"
+}
+},
+"https://www.masjidqiblatain.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidquba.net/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidsalahadeen.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidtawheedallentown.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidtawheedkissimmee.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidullah.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidunuurkc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjiduthman.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.masjiduthmanbinaffan.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired ("
+}
+},
+"https://www.masjidvisalia.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.massic.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.masyc.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0dYpzvA6"
+}
+},
+"https://www.mayf.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.mbabaltimore.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.mcabayarea.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.mcctucson.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.mcecc.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/tx/sanantonio/mcecc"
+}
+},
+"https://www.mcfolsom.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "E5Av5nLX"
+}
+},
+"https://www.mckinneymasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "wLVzDqLJ",
+"mohid_url": "https://us.mohid.co/tx/dallas/mia"
+}
+},
+"https://www.mcmcnj.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.mcnjonline.com/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/nj/edison/mcnj"
+}
+},
+"https://www.mcscmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.mcshreveport.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "BYADwlLN"
+}
+},
+"https://www.meccharlotte.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.memphisislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "1QL0gbKZ",
+"mohid_url": "https://us.mohid.co/tn/memphis/micc"
+}
+},
+"https://www.memphismuslims.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.metpdx.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.mfnj.net": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.miccusa.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.micgh.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.monroemasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.mosquefoundation.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "pQKM3ABE"
+}
+},
+"https://www.mosqueofwilliamsburg.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 401: Unauthorized"
+}
+},
+"https://www.mosquepraiseallah.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.mothermosque.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.msdvpa.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.mtuva.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.muhammadimasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://www.muhb.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.muslimdawacircle.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}
+},
+"https://www.muslimfamilycenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.mustafacenter.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.myalansar.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.mybicc.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "3wdqj2Kb"
+}
+},
+"https://www.myisw.org/isw2/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://www.nahda.us/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.najamcenterdecatur.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.namcc.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.nbic.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.newtampamasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.niamasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "8KXm93LM",
+"mohid_url": "https://us.mohid.co/nj/newark1/niamasjid"
+}
+},
+"https://www.noi.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.nooracademyomaha.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.norristownislamicsociety.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.norristownislamicsociety.org"
+}
+},
+"https://www.nwiccmn.org": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/mn/minneapolis/nwicc"
+}
+},
+"https://www.nwicstl.com/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "rdRvQDdG"
+}
+},
+"https://www.nyicci.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "xdNaxxAV"
+}
+},
+"https://www.oakcliffempowermentcenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.obkseattle.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/wa/seattle/obkmasjid"
+}
+},
+"https://www.occofwa.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.phillymosque.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.pmcva.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "4KBqxed5",
+"mohid_url": "https://us.mohid.co/va/northernvirginia/petersburgmuslimcent"
+}
+},
+"https://www.puyallupmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.qcicmasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.qcicmasjid.org"
+}
+},
+"https://www.rahmatealam-ia.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.rawdahislamiccenterofdelaware.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.rccharlotte.org/about/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://www.rcmosque.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.respectgs.us/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.ricbaltimore.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "QKM5NGKB"
+}
+},
+"https://www.ridgecrestmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.rollamasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.sabahchicago.com/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.sabahchicago.com",
+"mohid_url": "https://us.mohid.co/il/chicago/sabah"
+}
+},
+"https://www.sacredlearning.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "nzKz84AO"
+}
+},
+"https://www.sahabahservices.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.salamcenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.salamroanoke.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.salatomatic.com/spc/Seattle/Masjid-Al-Taqwa/XG08K4By92": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)>"
+}
+},
+"https://www.samahaislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "EdoeO9L7"
+}
+},
+"https://www.shafiaculturalcenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.shirleymasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.sicmasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.smcmosque.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.southeastaurora.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.southlakemasjid.org/home": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 404: Not Found"
+}
+},
+"https://www.spartanburgmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.srvic.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.stlaltaqwacenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.suwaneemasjid.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "pQKMMBKB"
+}
+},
+"https://www.tahausa.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.tahausa.org",
+"mohid_url": "https://us.mohid.co/ca/sanjose/taha"
+}
+},
+"https://www.tajweedusa.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.tarbiya.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "0Lbpzqdo"
+}
+},
+"https://www.tawbaislamiccenter.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.tawfiqic.org": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [Errno 65] No route to host>"
+}
+},
+"https://www.tawheedcenter.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.theabrar.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.thedeencenter.org/support": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.themasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.themasjidibrahim.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.themasjidmalcolmshabazz.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.themuslimcenter.com": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.themuslimcenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.theummahcenter.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "b3AOJMLe"
+}
+},
+"https://www.ticga.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "8K9q5nKp"
+}
+},
+"https://www.toledomasjid.com/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired ("
+}
+},
+"https://www.towhidic.org": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "3AO2n4Le"
+}
+},
+"https://www.tracyislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.tracyislamiccenter.org"
+}
+},
+"https://www.triadmuslims.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "OLnR9WLM"
+}
+},
+"https://www.turabi.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.ulucami.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.ummonline.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.uvms.org/": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/nj/njrgn/nbic"
+}
+},
+"https://www.valdostaislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.wasatiyah.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.wc-ic.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "QL0BZWdZ"
+}
+},
+"https://www.wcismasjid.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.wcmas.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.westendislamiccenter.org/": {
+"at": "2026-11-17",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
+"https://www.wicmasjid.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.worthmasjid.org": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.wvicenter.com/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.wvmuslim.org/": {
+"at": "2026-11-17",
+"found": {
+"events_wp": "https://www.wvmuslim.org"
+}
+},
+"https://www.yaseen.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://www.zaidcommunitycenter.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "8KXOD3dM"
+}
+},
+"https://www.zubaidafoundation.com": {
+"at": "2026-11-17",
+"found": {
+"mohid_url": "https://us.mohid.co/pa/philadelphia/zf"
+}
+},
+"https://yaseen.org/": {
+"at": "2026-11-17",
+"found": {}
+},
+"https://zaytechacademy.org/": {
+"at": "2026-11-17",
+"found": {
+"masjidal_id": "nL1JRRAa"
+}
+}
+}

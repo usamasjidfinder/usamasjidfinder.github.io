@@ -1,0 +1,47 @@
+{
+ "islamic-center-of-sacramento-sacramento-ca": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "tracy-islamic-center-tracy-ca": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "masjid-al-mustafa-chandler-az": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "islamic-society-of-southern-texas-corpus-christi-tx": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "masjid-darussalam-lombard-il": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "imca-indianapolis-muslim-community-association-indianapolis-in": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "islamic-society-of-central-new-york-syracuse-ny": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "iscny-islamic-community-center-jamesville-ny": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "iamc-colleyville-masjid-colleyville-tx": [
+  "mohid: HTTP Error 404: Not Found"
+ ],
+ "islamic-center-of-hewitt-masjid-al-hidaya-hewitt-tx": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "islamic-society-of-framingham-framingham-ma": [
+  "events: Expecting value: line 1 column 1 (char 0)"
+ ],
+ "mas-youth-center-of-nj-north-brunswick-township-nj": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "masjid-al-tawheed-kentwood-mi": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "masjid-salman-al-farsi-tucker-ga": [
+  "events: HTTP Error 403: Forbidden"
+ ],
+ "picc-hampton-va": [
+  "mohid: HTTP Error 404: Not Found"
+ ]
+}
