@@ -34891,6 +34891,43 @@
 }
 },
 {
+"id": "0aAekNKj",
+"uuid": "a2ae821c-c612-45c9-8c76-c117ccd178f1",
+"name": "Masjid at-Tawheed York PA",
+"address": "539 PA-462",
+"city": "York",
+"state": "PA",
+"country": "US",
+"longitude": "-76.7418",
+"latitude": "39.9583",
+"zipcode": "17401",
+"phone": "717-699-1988",
+"meta": "-",
+"email": "-",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
+}
+}
+},
+{
 "id": "yLj2zkLQ",
 "uuid": "0b4aac38-d20b-4be2-bda1-15a0a9a8355d",
 "name": "Masjid Ayesha",
