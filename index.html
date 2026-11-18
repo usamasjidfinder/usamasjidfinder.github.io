@@ -291,9 +291,9 @@ function dayTable(day) {
     "</table>" + (hasIq ? "" : `<div class="iqnote">Iqamah times aren't published online. Call or check the masjid's website.</div>`);
 }
 
-// ---- feedback goes to the same Google Form as MN Masjid Finder (the masjid label carries the state)
+// ---- feedback goes to the USA Masjid Finder Google Form; responses land in its Google Sheet
 const FORM = {
-  base: "https://docs.google.com/forms/d/e/1FAIpQLSdbPTC-fwICRAG58oj-kykXhfoj7PhM63SGVO7YJe1hNUbemw/",
+  base: "https://docs.google.com/forms/d/e/1FAIpQLSfYhmMoV_o0H6pXsWVL1k6hvNvjEPOzAJfrTfIrbYwurQqWRw/",
   masjid: "entry.143079288", correct: "entry.47161889", what: "entry.370983494",
 };
 const label = m => `${m.name} (${[m.city, m.state].filter(Boolean).join(", ")})`;
@@ -328,7 +328,7 @@ $("grid").addEventListener("click", e => {
   if (b) { const box = b.closest(".fb"), m = byId.get(box.dataset.id); if (m) { b.disabled = true; confirmTimes(m, box); } return; }
   if (e.target.closest("#moreBtn")) more();
 });
-$("addMasjid").href = formLink({[FORM.masjid]: "New masjid / general feedback (USA): "});
+$("addMasjid").href = formLink({[FORM.masjid]: "New masjid / general feedback: "});
 
 function card(m) {
   const days = daysOf(m), day = days[0], rest = days.slice(1);
