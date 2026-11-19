@@ -9324,43 +9324,6 @@
 }
 },
 {
-"id": "RKx6y8AO",
-"uuid": "08066ef1-e6f2-400d-a523-2c36fa64c6a0",
-"name": "Darul Arqam ",
-"address": "4101 California Ave",
-"city": "Kenner",
-"state": "Louisiana",
-"country": "US",
-"longitude": "-90.2436",
-"latitude": "30.0316",
-"zipcode": "70065",
-"phone": "5047018535",
-"meta": "-",
-"email": "nomajohayu@gmail.com",
-"website_url": "HTTPS://www.darularqamfoundation.org",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": true,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "8L76DQK5",
 "uuid": "4133d86e-fef8-4582-afd4-61e6fa2456ab",
 "name": "Darul Arqam",
@@ -9389,6 +9352,43 @@
 "iqamah_settings": {
 "athan": {
 "enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
+}
+}
+},
+{
+"id": "RKx6y8AO",
+"uuid": "08066ef1-e6f2-400d-a523-2c36fa64c6a0",
+"name": "Darul Arqam ",
+"address": "4101 California Ave",
+"city": "Kenner",
+"state": "Louisiana",
+"country": "US",
+"longitude": "-90.2436",
+"latitude": "30.0316",
+"zipcode": "70065",
+"phone": "5047018535",
+"meta": "-",
+"email": "nomajohayu@gmail.com",
+"website_url": "HTTPS://www.darularqamfoundation.org",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": true,
 "fajr_offset": "0",
 "zuhr_offset": "0",
 "asr_offset": "0",
@@ -30081,20 +30081,20 @@
 }
 },
 {
-"id": "OA8agbdp",
-"uuid": "c35aa9a0-8aa8-4fd8-840f-ac94698b2566",
-"name": "Masjid Al Mustafa ",
-"address": "24039 S Val Vista Dr",
-"city": "Chandler",
-"state": "Arizona",
+"id": "eLQ2EjAM",
+"uuid": "ff057c9f-231d-41cd-aed0-b5dc5bd0c584",
+"name": "Masjid Al Mustafa",
+"address": "300 E 55th St",
+"city": "Westmont",
+"state": "Illinois",
 "country": "US",
-"longitude": "-111.7559",
-"latitude": "33.2288",
-"zipcode": "85249",
+"longitude": "-87.9675",
+"latitude": "41.7886",
+"zipcode": "60559",
 "phone": "-",
 "meta": "-",
-"email": "Samsgroupllc@gmail.com",
-"website_url": "https://masjidalmustafa.org",
+"email": "bhattikj@gmail.com",
+"website_url": "-",
 "event_url": "-",
 "donation_url": "-",
 "audio_url": "-",
@@ -30118,20 +30118,20 @@
 }
 },
 {
-"id": "eLQ2EjAM",
-"uuid": "ff057c9f-231d-41cd-aed0-b5dc5bd0c584",
-"name": "Masjid Al Mustafa",
-"address": "300 E 55th St",
-"city": "Westmont",
-"state": "Illinois",
+"id": "OA8agbdp",
+"uuid": "c35aa9a0-8aa8-4fd8-840f-ac94698b2566",
+"name": "Masjid Al Mustafa ",
+"address": "24039 S Val Vista Dr",
+"city": "Chandler",
+"state": "Arizona",
 "country": "US",
-"longitude": "-87.9675",
-"latitude": "41.7886",
-"zipcode": "60559",
+"longitude": "-111.7559",
+"latitude": "33.2288",
+"zipcode": "85249",
 "phone": "-",
 "meta": "-",
-"email": "bhattikj@gmail.com",
-"website_url": "-",
+"email": "Samsgroupllc@gmail.com",
+"website_url": "https://masjidalmustafa.org",
 "event_url": "-",
 "donation_url": "-",
 "audio_url": "-",
@@ -30303,20 +30303,20 @@
 }
 },
 {
-"id": "5AvoZ2dX",
-"uuid": "21168b42-dc64-41dc-9284-760f012e4bf7",
-"name": "Masjid Al Rahman",
-"address": "1235 Peachtree Pkwy",
-"city": "Cumming",
-"state": "Georgia",
+"id": "QKMrOqLB",
+"uuid": "5eed78e7-91f8-40fb-9964-21f46dfb9d23",
+"name": "Masjid Al Rahman ",
+"address": "6040 N 43rd Ave",
+"city": "Glendale",
+"state": "Arizona",
 "country": "US",
-"longitude": "-84.1700",
-"latitude": "34.1314",
-"zipcode": "30041",
+"longitude": "-112.1520",
+"latitude": "33.5256",
+"zipcode": "85301",
 "phone": "-",
 "meta": "-",
-"email": "admin@alrahmanmasjid.com",
-"website_url": "https://alrahmanmasjid.com",
+"email": "msjdrahman@gmail.com",
+"website_url": "-",
 "event_url": "-",
 "donation_url": "-",
 "audio_url": "-",
@@ -30340,20 +30340,20 @@
 }
 },
 {
-"id": "QKMrOqLB",
-"uuid": "5eed78e7-91f8-40fb-9964-21f46dfb9d23",
-"name": "Masjid Al Rahman ",
-"address": "6040 N 43rd Ave",
-"city": "Glendale",
-"state": "Arizona",
+"id": "5AvoZ2dX",
+"uuid": "21168b42-dc64-41dc-9284-760f012e4bf7",
+"name": "Masjid Al Rahman",
+"address": "1235 Peachtree Pkwy",
+"city": "Cumming",
+"state": "Georgia",
 "country": "US",
-"longitude": "-112.1520",
-"latitude": "33.5256",
-"zipcode": "85301",
+"longitude": "-84.1700",
+"latitude": "34.1314",
+"zipcode": "30041",
 "phone": "-",
 "meta": "-",
-"email": "msjdrahman@gmail.com",
-"website_url": "-",
+"email": "admin@alrahmanmasjid.com",
+"website_url": "https://alrahmanmasjid.com",
 "event_url": "-",
 "donation_url": "-",
 "audio_url": "-",
@@ -31080,43 +31080,6 @@
 }
 },
 {
-"id": "GA6aQjLe",
-"uuid": "3aad282d-53ba-4424-b267-4ba9822cf56c",
-"name": "Masjid Al-Furqaan",
-"address": "27643 Schoenherr Rd",
-"city": "Warren",
-"state": "Michigan",
-"country": "US",
-"longitude": "-82.9876",
-"latitude": "42.4975",
-"zipcode": "48088",
-"phone": "-",
-"meta": "-",
-"email": "masjidalfurqaan@yahoo.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiIiwidG9rZW4iOiJtYXNqaWRhbGZ1cnFhYW5AeWFob28uY29tIn0=",
-"audio_url": "-",
-"prayer_timing_url": "https://www.masjidfurqaan.net/prayer-times/",
-"app_premium_features": true,
-"premium_features": {
-"app": true,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "PAPnDrKJ",
 "uuid": "f1c6ae19-20d3-4ed0-85f9-2c42b42c7174",
 "name": "Masjid Al-furqaan",
@@ -31150,6 +31113,43 @@
 "asr_offset": "0",
 "maghrib_offset": "1",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "GA6aQjLe",
+"uuid": "3aad282d-53ba-4424-b267-4ba9822cf56c",
+"name": "Masjid Al-Furqaan",
+"address": "27643 Schoenherr Rd",
+"city": "Warren",
+"state": "Michigan",
+"country": "US",
+"longitude": "-82.9876",
+"latitude": "42.4975",
+"zipcode": "48088",
+"phone": "-",
+"meta": "-",
+"email": "masjidalfurqaan@yahoo.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiIiwidG9rZW4iOiJtYXNqaWRhbGZ1cnFhYW5AeWFob28uY29tIn0=",
+"audio_url": "-",
+"prayer_timing_url": "https://www.masjidfurqaan.net/prayer-times/",
+"app_premium_features": true,
+"premium_features": {
+"app": true,
+"slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -31339,6 +31339,43 @@
 }
 },
 {
+"id": "wLVp0ydJ",
+"uuid": "1266c9c8-94bb-4651-927a-42c8bb54b68f",
+"name": "MASJID AL-HUDA",
+"address": "3043 Voorhies Ave",
+"city": "Brooklyn ",
+"state": "New York",
+"country": "US",
+"longitude": "-73.9349",
+"latitude": "40.5880",
+"zipcode": "11235",
+"phone": "9297206334",
+"meta": "-",
+"email": "-",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
+}
+}
+},
+{
 "id": "0AWpy2dj",
 "uuid": "08f4eda0-d5a2-418f-9fd4-f981fe26d33a",
 "name": "Masjid Al-Huda ",
@@ -31409,43 +31446,6 @@
 "asr_offset": 0,
 "maghrib_offset": 0,
 "isha_offset": 0
-}
-}
-},
-{
-"id": "wLVp0ydJ",
-"uuid": "1266c9c8-94bb-4651-927a-42c8bb54b68f",
-"name": "MASJID AL-HUDA",
-"address": "3043 Voorhies Ave",
-"city": "Brooklyn ",
-"state": "New York",
-"country": "US",
-"longitude": "-73.9349",
-"latitude": "40.5880",
-"zipcode": "11235",
-"phone": "9297206334",
-"meta": "-",
-"email": "-",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
 }
 }
 },
@@ -31672,43 +31672,6 @@
 }
 },
 {
-"id": "kK3vZPde",
-"uuid": "f0c9f35e-e9fc-4e48-973c-0e2341a30562",
-"name": "Masjid Al-Hudaa",
-"address": "25650 101st Ave SE",
-"city": "Kent",
-"state": "WA",
-"country": "US",
-"longitude": "-122.2058",
-"latitude": "47.3711",
-"zipcode": "98030",
-"phone": "-",
-"meta": "-",
-"email": "-",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": true,
-"premium_features": {
-"app": true,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "3OA8mXdp",
 "uuid": "3ab6fcb2-b6c9-471f-af57-5a047c35c6dc",
 "name": "Masjid al-Hudaa",
@@ -31731,6 +31694,43 @@
 "premium_features": {
 "app": false,
 "slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
+}
+}
+},
+{
+"id": "kK3vZPde",
+"uuid": "f0c9f35e-e9fc-4e48-973c-0e2341a30562",
+"name": "Masjid Al-Hudaa",
+"address": "25650 101st Ave SE",
+"city": "Kent",
+"state": "WA",
+"country": "US",
+"longitude": "-122.2058",
+"latitude": "47.3711",
+"zipcode": "98030",
+"phone": "-",
+"meta": "-",
+"email": "-",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": true,
+"premium_features": {
+"app": true,
+"slideshow": true,
 "donation_app": false
 },
 "is_shell_account": false,
@@ -35335,43 +35335,6 @@
 }
 },
 {
-"id": "6adJeVAk",
-"uuid": "cd6921b9-133b-442c-bdf9-9e4be2d6b277",
-"name": "Masjid Bilal",
-"address": "1701 Dumesnil St",
-"city": "Louisville",
-"state": "KY",
-"country": "US",
-"longitude": "-85.7832",
-"latitude": "38.2363",
-"zipcode": "40210",
-"phone": "(502) 235-3420",
-"meta": "-",
-"email": "bilalmasjidlou@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "0AWbOBLj",
 "uuid": "afa5ec71-39b9-47a1-8d9b-ca318ae84268",
 "name": "Masjid Bilal",
@@ -35442,6 +35405,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "6adJeVAk",
+"uuid": "cd6921b9-133b-442c-bdf9-9e4be2d6b277",
+"name": "Masjid Bilal",
+"address": "1701 Dumesnil St",
+"city": "Louisville",
+"state": "KY",
+"country": "US",
+"longitude": "-85.7832",
+"latitude": "38.2363",
+"zipcode": "40210",
+"phone": "(502) 235-3420",
+"meta": "-",
+"email": "bilalmasjidlou@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -37518,43 +37518,6 @@
 }
 },
 {
-"id": "6kK3wyKe",
-"uuid": "fabeb08a-08a1-4605-aa26-838de28d38a6",
-"name": "Masjid Ibrahim",
-"address": "8521 State Hwy 71",
-"city": "Austin",
-"state": "Texas",
-"country": "US",
-"longitude": "-97.8921",
-"latitude": "30.2482",
-"zipcode": "78735",
-"phone": "5126932924",
-"meta": "-",
-"email": "admin@masjidibrahim.org",
-"website_url": "https://www.masjidibrahim.org/",
-"event_url": "-",
-"donation_url": "https://www.masjidibrahim.org/donate/",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "EdorJGA7",
 "uuid": "40c3cd37-798d-4496-ba85-6de18af6d757",
 "name": "Masjid Ibrahim",
@@ -37588,6 +37551,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "6kK3wyKe",
+"uuid": "fabeb08a-08a1-4605-aa26-838de28d38a6",
+"name": "Masjid Ibrahim",
+"address": "8521 State Hwy 71",
+"city": "Austin",
+"state": "Texas",
+"country": "US",
+"longitude": "-97.8921",
+"latitude": "30.2482",
+"zipcode": "78735",
+"phone": "5126932924",
+"meta": "-",
+"email": "admin@masjidibrahim.org",
+"website_url": "https://www.masjidibrahim.org/",
+"event_url": "-",
+"donation_url": "https://www.masjidibrahim.org/donate/",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -41107,43 +41107,6 @@
 }
 },
 {
-"id": "8K9q5nKp",
-"uuid": "509d41b5-eaad-43eb-b153-7221c868293a",
-"name": "Masjid Yaseen",
-"address": "272 County St",
-"city": "Attleboro",
-"state": "Massachusetts",
-"country": "US",
-"longitude": "-71.2987",
-"latitude": "41.9345",
-"zipcode": "02703",
-"phone": "-",
-"meta": "-",
-"email": "admin@ticga.org",
-"website_url": "https://www.ticga.org/",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "XAlyVWdb",
 "uuid": "b52b2c40-9de7-468b-8fc5-7650387a7b80",
 "name": "Masjid Yaseen",
@@ -41166,6 +41129,43 @@
 "premium_features": {
 "app": false,
 "slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
+}
+}
+},
+{
+"id": "8K9q5nKp",
+"uuid": "509d41b5-eaad-43eb-b153-7221c868293a",
+"name": "Masjid Yaseen",
+"address": "272 County St",
+"city": "Attleboro",
+"state": "Massachusetts",
+"country": "US",
+"longitude": "-71.2987",
+"latitude": "41.9345",
+"zipcode": "02703",
+"phone": "-",
+"meta": "-",
+"email": "admin@ticga.org",
+"website_url": "https://www.ticga.org/",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": true,
 "donation_app": false
 },
 "is_shell_account": false,
