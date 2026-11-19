@@ -386,7 +386,8 @@ async function fetchLive(m) {
     m.days = days; m._days = null; m.timing_source = "Masjidal (live)";
     const q0 = j.data.iqamah[0] || {};
     const jm = Object.keys(q0).filter(k => k.startsWith("jummah")).sort().map(k => nt(q0[k])).filter((v, i, all) => v && all.indexOf(v) === i);
-    if (jm.length) { m.jumuah = jm.map(s => ({start: s, start_min: mins(s)})); m.jumuah_source = "Masjidal (live)"; }
+    // the live feed only carries two slots; keep the daily list when it has a 3rd/4th Jumu'ah
+    if (jm.length && jm.length >= (m.jumuah || []).length) { m.jumuah = jm.map(s => ({start: s, start_min: mins(s)})); m.jumuah_source = "Masjidal (live)"; }
     m.live = true; liveCount++; subtitle();
     const el = document.querySelector(`[data-card="${CSS.escape(m.id)}"]`);
     if (el && !el.contains(document.activeElement)) { const open = el.querySelector("details")?.open; el.outerHTML = card(m); if (open) document.querySelector(`[data-card="${CSS.escape(m.id)}"] details`).open = true; }

@@ -231,6 +231,19 @@ def src_masjidal(mid, today):
     return {"days": [day], "jumuah": jumuah, "source": "Masjidal (set by masjid)"}
 
 
+def src_masjidal_jumuah(mid):
+    """Every Jumu'ah slot from Masjidal's public widget; the time API only returns the first two."""
+    h = http_get(f"https://timing.athanplus.com/masjid/widgets/embed?theme=1&masjid_id={urllib.parse.quote(mid)}",
+                 timeout=20)
+    blk = re.search(r'class="testing-sec"(.*?)</ul>', h, re.S)
+    out = []
+    for t, _n in re.findall(r"<b>\s*([^<]*?)\s*</b>\s*<p[^>]*>\s*Jum[a-z']*\s*(\d)", blk.group(1) if blk else "", re.I):
+        t = norm_time(t)
+        if t and t not in [x["start"] for x in out]:
+            out.append({"start": t})
+    return out
+
+
 def _text(h):
     h = re.sub(r"<script.*?</script>|<style.*?</style>", " ", h, flags=re.S | re.I)
     h = re.sub(r"<[^>]+>", " ", h)
@@ -625,6 +638,12 @@ def enrich(m, disc):
         try:
             r = src_masjidal(m["masjidal_id"], today)
             m["days"], m["timing_source"] = r["days"], r["source"]
+            try:
+                w = src_masjidal_jumuah(m["masjidal_id"])
+                if len(w) > len(r["jumuah"]):
+                    r["jumuah"] = w
+            except Exception:
+                pass
             if r["jumuah"]:
                 m["jumuah"], m["jumuah_source"] = r["jumuah"], r["source"]
             sources.append("masjidal")
@@ -654,7 +673,8 @@ def enrich(m, disc):
     now = today.isoformat()
     m["events"] = sorted([e for e in m["events"] if (e.get("start") or "")[:10] >= now],
                          key=lambda e: e.get("start") or "")[:5]
-    m["jumuah"] = [j for j in (m.get("jumuah") or []) if j.get("start")]
+    seen = set()  # drop empty and repeated slots (some pages list the same one several times)
+    m["jumuah"] = [j for j in (m.get("jumuah") or []) if j.get("start") and not (j["start"] in seen or seen.add(j["start"]))]
     for j in m["jumuah"]:
         j["start_min"] = minutes(j["start"])
     m["live"] = bool(sources)
