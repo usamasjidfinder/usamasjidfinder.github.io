@@ -10,6 +10,7 @@ on:
 permissions:
   contents: write   # commit refreshed data back
   pages: write
+  issues: write     # open an issue when a watched Jumu'ah time changes
   id-token: write
 
 concurrency:
@@ -34,6 +35,26 @@ jobs:
         env:
           MAX_NEW_GEOCODES: "300"   # stay polite to Nominatim; the cache fills over a few runs
         run: python3 fetch.py
+
+      - name: Open an issue when a watched Jumu'ah time changes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY' > alerts.tsv
+          import json
+          for k, v in json.load(open("data/watch_alerts.json")).items():
+              print(f"Jumu'ah check: {k}\t{v}")
+          PY
+          while IFS=$'\t' read -r title body; do
+            [ -z "$title" ] && continue
+            open=$(gh issue list --state open --search "\"$title\" in:title" --json title -q ".[] | select(.title == \"$title\") | .title")
+            if [ -z "$open" ]; then
+              gh issue create --title "$title" --body "$body
+
+          Found by the daily refresh. Close this issue once mosques_seed.json is updated (or the website is fixed)."
+            fi
+          done < alerts.tsv
+          rm -f alerts.tsv
 
       - name: Save refreshed data to the repo
         run: |

@@ -282,6 +282,29 @@ def src_mohid(url, today):
     return out
 
 
+def watch_jumuah(m):
+    """Re-read a hand-entered Jumu'ah time from the masjid's own page. Returns an alert string or None."""
+    w = m["jumuah_watch"]
+    hand = [norm_time(j.get("start")) for j in m.get("jumuah") or []]
+    try:
+        t = _text(http_get(w["url"], ua="Mozilla/5.0 (compatible; USAMasjidFinder)"))
+    except Exception as e:
+        return f"could not open {w['url']} ({str(e)[:80]}); kept {', '.join(hand)}"
+    found = []
+    for x in re.findall(rf"(?:{w['label']})\s*(?:at|:|-)?\s*(\d{{1,2}}(?::\d{{2}})?\s*[ap]\.?\s?m\.?)", t, re.I):
+        x = re.sub(r"[\s.]", "", x).upper()
+        x = norm_time(x if ":" in x else x[:-2] + ":00" + x[-2:])
+        if x and x not in found:
+            found.append(x)
+    if not found:
+        return f"the Jumu'ah line is gone from {w['url']}; kept {', '.join(hand)}"
+    m["jumuah"] = [{"start": x} for x in found]
+    m["jumuah_source"] = f"From the masjid's website ({re.sub(r'^https?://(www[.])?|/$', '', w['url'])}), checked daily"
+    if found != hand:
+        return f"Jumu'ah changed on {w['url']}: was {', '.join(hand)}, now {', '.join(found)}. The site uses the new time; update mosques_seed.json to match."
+    return None
+
+
 def src_wp_events(base, today):
     j = http_json(f"{base.rstrip('/')}/wp-json/tribe/events/v1/events?per_page=10&start_date={today.isoformat()}")
     return [{"title": html.unescape(re.sub(r"<[^>]+>", "", e.get("title", ""))),
@@ -666,6 +689,10 @@ def enrich(m, disc):
             m["events"] += src_wp_events(m["events_wp"], today)
         except Exception as e:
             m["errors"].append(f"events: {str(e)[:100]}")
+    if m.get("jumuah_watch") and not m.get("jumuah_source"):
+        a = watch_jumuah(m)
+        if a:
+            m["watch_alert"] = a
     if m.get("jumuah") and not m.get("jumuah_source"):  # typed in by hand in the seed
         for j in m["jumuah"]:
             j["start"] = norm_time(j.get("start") or j.get("khutbah") or j.get("iqamah"))
@@ -708,6 +735,10 @@ def main():
     }
     (DATA / "masajid.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")))
     (DATA / "masajid.js").write_text("window.MASAJID = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    alerts = {f"{m['name']} ({m['state']})": m["watch_alert"] for m in mosques if m.get("watch_alert")}
+    (DATA / "watch_alerts.json").write_text(json.dumps(alerts, indent=1, ensure_ascii=False))
+    for k, v in alerts.items():
+        log(f"WATCH {k}: {v}")
     (DATA / "errors.json").write_text(json.dumps(errors, indent=1, ensure_ascii=False))
     live = sum(1 for m in mosques if m["live"])
     jm = sum(1 for m in mosques if m["jumuah"])

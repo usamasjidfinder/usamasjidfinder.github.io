@@ -174,7 +174,18 @@
       "phone": "410-635-1269",
       "website": "https://isccmd.com/",
       "ref": "Reported missing by a user, 2026-11-19",
-      "zip": "21158"
+      "zip": "21158",
+      "jumuah": [
+        {
+          "start": "2:00 PM"
+        }
+      ],
+      "jumuah_note": "from isccmd.com",
+      "jumuah_watch": {
+        "url": "https://isccmd.com/",
+        "label": "Jumm?u?'?a?h? Prayer"
+      }
     }
-  ]
+  ],
+  "_watch_help": "jumuah_watch: {url, label}. Each daily run reads the page and looks for '<label> at <time>'. A new time replaces the hand entry and opens a GitHub issue; if the line is gone, the hand entry stays and an issue opens."
 }
