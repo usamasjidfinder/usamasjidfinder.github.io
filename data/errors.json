@@ -8,26 +8,11 @@
  "abubakr-islamic-of-center-tukwila-wa": [
   "events: Expecting value: line 1 column 1 (char 0)"
  ],
- "cypress-islamic-center-cypress-tx": [
-  "events: Expecting value: line 1 column 1 (char 0)"
- ],
  "islamic-society-of-southern-texas-corpus-christi-tx": [
   "events: HTTP Error 404: Not Found"
  ],
- "momin-community-center-st-johns-fl": [
-  "events: <urlopen error timed out>"
- ],
  "masjid-darussalam-lombard-il": [
   "events: HTTP Error 404: Not Found"
- ],
- "al-mahdi-islamic-center-nashville-tn": [
-  "events: <urlopen error timed out>"
- ],
- "islamic-society-of-akron-and-kent-cuyahoga-falls-oh": [
-  "events: Expecting value: line 1 column 1 (char 0)"
- ],
- "dar-al-hijrah-islamic-center-falls-church-va": [
-  "events: Expecting value: line 1 column 1 (char 0)"
  ],
  "imca-indianapolis-muslim-community-association-indianapolis-in": [
   "events: HTTP Error 404: Not Found"
@@ -38,20 +23,11 @@
  "iscny-islamic-community-center-jamesville-ny": [
   "events: HTTP Error 404: Not Found"
  ],
- "dar-al-qalam-islamic-center-minneapolis-mn": [
-  "events: Expecting value: line 1 column 1 (char 0)"
- ],
- "darul-huda-houston-tx": [
-  "events: Expecting value: line 1 column 1 (char 0)"
- ],
  "iamc-colleyville-masjid-colleyville-tx": [
   "mohid: HTTP Error 404: Not Found"
  ],
  "islamic-center-of-hewitt-masjid-al-hidaya-hewitt-tx": [
   "events: HTTP Error 404: Not Found"
- ],
- "islamic-society-of-augusta-martinez-ga": [
-  "events: Expecting value: line 1 column 1 (char 0)"
  ],
  "islamic-society-of-framingham-framingham-ma": [
   "events: Expecting value: line 1 column 1 (char 0)"
@@ -63,18 +39,9 @@
   "events: HTTP Error 404: Not Found"
  ],
  "masjid-salman-al-farsi-tucker-ga": [
-  "events: HTTP Error 403: Forbidden"
- ],
- "peace-islamic-center-burke-va": [
-  "events: Expecting value: line 1 column 1 (char 0)"
+  "events: HTTP Error 404: Not Found"
  ],
  "picc-hampton-va": [
   "mohid: HTTP Error 404: Not Found"
- ],
- "princeton-islamic-center-pic-princeton-tx": [
-  "events: Expecting value: line 1 column 1 (char 0)"
- ],
- "zia-musallah-zakaria-islamic-academy-chantilly-va": [
-  "events: Expecting value: line 1 column 1 (char 0)"
  ]
 }

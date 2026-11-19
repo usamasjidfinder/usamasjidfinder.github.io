@@ -7891,5 +7891,28 @@
 "-73.9596822",
 "-73.9326321"
 ]
+},
+"f:3100-B Littlestown Pike, Westminster, MD 21158": [
+{
+"place_id": 349272440,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1388056386,
+"lat": "39.5942101",
+"lon": "-76.9992083",
+"category": "highway",
+"type": "trunk",
+"place_rank": 26,
+"importance": 0.053387586022735904,
+"addresstype": "trunk",
+"name": "Littlestown Pike",
+"display_name": "Littlestown Pike, Westminster, Carroll County, Maryland, 21158, United States",
+"boundingbox": [
+"39.5938958",
+"39.5945243",
+"-76.9992134",
+"-76.9992031"
+]
 }
+]
 }
