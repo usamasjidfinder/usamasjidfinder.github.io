@@ -6364,6 +6364,43 @@
 }
 },
 {
+"id": "DAgkXBA0",
+"uuid": "519d799e-0026-49d1-860b-76c1998bd59f",
+"name": "Bilal Masjid Association",
+"address": "4115 SW 160th Ave",
+"city": "Aloha",
+"state": "Oregon",
+"country": "US",
+"longitude": "-122.8427",
+"latitude": "45.4901",
+"zipcode": "97007",
+"phone": "5039028807",
+"meta": "-",
+"email": "officemanager@bilalmasjid.com",
+"website_url": "https://bilalmasjid.net/",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": true,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
+}
+}
+},
+{
 "id": "YAD4ZJAN",
 "uuid": "7288fb25-189f-472d-b987-50514207b91f",
 "name": "Bilal Oromo Dawa Center",
@@ -15710,7 +15747,7 @@
 "premium_features": {
 "app": true,
 "slideshow": true,
-"donation_app": false
+"donation_app": true
 },
 "is_shell_account": false,
 "iqamah_settings": {
@@ -30266,20 +30303,20 @@
 }
 },
 {
-"id": "QKMrOqLB",
-"uuid": "5eed78e7-91f8-40fb-9964-21f46dfb9d23",
-"name": "Masjid Al Rahman ",
-"address": "6040 N 43rd Ave",
-"city": "Glendale",
-"state": "Arizona",
+"id": "5AvoZ2dX",
+"uuid": "21168b42-dc64-41dc-9284-760f012e4bf7",
+"name": "Masjid Al Rahman",
+"address": "1235 Peachtree Pkwy",
+"city": "Cumming",
+"state": "Georgia",
 "country": "US",
-"longitude": "-112.1520",
-"latitude": "33.5256",
-"zipcode": "85301",
+"longitude": "-84.1700",
+"latitude": "34.1314",
+"zipcode": "30041",
 "phone": "-",
 "meta": "-",
-"email": "msjdrahman@gmail.com",
-"website_url": "-",
+"email": "admin@alrahmanmasjid.com",
+"website_url": "https://alrahmanmasjid.com",
 "event_url": "-",
 "donation_url": "-",
 "audio_url": "-",
@@ -30303,20 +30340,20 @@
 }
 },
 {
-"id": "5AvoZ2dX",
-"uuid": "21168b42-dc64-41dc-9284-760f012e4bf7",
-"name": "Masjid Al Rahman",
-"address": "1235 Peachtree Pkwy",
-"city": "Cumming",
-"state": "Georgia",
+"id": "QKMrOqLB",
+"uuid": "5eed78e7-91f8-40fb-9964-21f46dfb9d23",
+"name": "Masjid Al Rahman ",
+"address": "6040 N 43rd Ave",
+"city": "Glendale",
+"state": "Arizona",
 "country": "US",
-"longitude": "-84.1700",
-"latitude": "34.1314",
-"zipcode": "30041",
+"longitude": "-112.1520",
+"latitude": "33.5256",
+"zipcode": "85301",
 "phone": "-",
 "meta": "-",
-"email": "admin@alrahmanmasjid.com",
-"website_url": "https://alrahmanmasjid.com",
+"email": "msjdrahman@gmail.com",
+"website_url": "-",
 "event_url": "-",
 "donation_url": "-",
 "audio_url": "-",
@@ -38834,7 +38871,7 @@
 "app_premium_features": false,
 "premium_features": {
 "app": false,
-"slideshow": false,
+"slideshow": true,
 "donation_app": false
 },
 "is_shell_account": false,
