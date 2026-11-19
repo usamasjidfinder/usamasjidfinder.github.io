@@ -39,7 +39,7 @@
   "events: HTTP Error 404: Not Found"
  ],
  "masjid-salman-al-farsi-tucker-ga": [
-  "events: HTTP Error 404: Not Found"
+  "events: HTTP Error 403: Forbidden"
  ],
  "picc-hampton-va": [
   "mohid: HTTP Error 404: Not Found"
