@@ -185,7 +185,864 @@
         "url": "https://isccmd.com/",
         "label": "Jumm?u?'?a?h? Prayer"
       }
+    },
+    {
+      "name": "Masjid Ibrahim",
+      "state": "AZ",
+      "jumuah": [
+        {
+          "start": "1:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.themasjidibrahim.com/",
+        "seen": [
+          "1:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Evergreen Islamic Center",
+      "state": "CA",
+      "jumuah": [
+        {
+          "start": "12:25 PM"
+        },
+        {
+          "start": "1:25 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.eicsanjose.org/wp/",
+        "seen": [
+          "12:25 PM",
+          "1:25 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Midcities",
+      "state": "CA",
+      "jumuah": [
+        {
+          "start": "1:10 PM"
+        },
+        {
+          "start": "1:55 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "http://downeymasjid.com/",
+        "seen": [
+          "1:10 PM",
+          "1:55 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of San Diego",
+      "state": "CA",
+      "jumuah": [
+        {
+          "start": "12:00 PM"
+        },
+        {
+          "start": "1:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://icsd.org",
+        "seen": [
+          "12:00 PM",
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Cultural Center of Northern California",
+      "state": "CA",
+      "jumuah": [
+        {
+          "start": "1:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://iccnc.org/",
+        "seen": [
+          "1:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Society Of Santa Barbara",
+      "state": "CA",
+      "jumuah": [
+        {
+          "start": "1:20 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://islamsb.org/",
+        "seen": [
+          "1:20 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Masjid Al-Ansar",
+      "state": "CA",
+      "jumuah": [
+        {
+          "start": "1:10 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.wcismasjid.com/",
+        "seen": [
+          "1:10 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19",
+      "jumuah_note": "khutbah 1:10 PM, prayer around 1:45 PM"
+    },
+    {
+      "name": "Masjid Annur",
+      "state": "CA",
+      "jumuah": [
+        {
+          "start": "1:10 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "http://masjidannur.com/",
+        "seen": [
+          "1:10 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Peninsula Muslim Association",
+      "state": "CA",
+      "jumuah": [
+        {
+          "start": "1:35 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://pmawebsite.org",
+        "seen": [
+          "1:35 PM",
+          "2:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19",
+      "jumuah_note": "khutbah 1:35 PM, salah 2:00 PM"
+    },
+    {
+      "name": "Broomfield Islamic Community Center (Masjid Al Barakah)",
+      "state": "CO",
+      "jumuah": [
+        {
+          "start": "12:15 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://masjidalbarakah.org/",
+        "seen": [
+          "12:15 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Boulder",
+      "state": "CO",
+      "jumuah": [
+        {
+          "start": "12:10 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.bouldermuslims.com/",
+        "seen": [
+          "12:10 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Abdul-Majid Karim Hasan Islamic Center",
+      "state": "CT",
+      "jumuah": [
+        {
+          "start": "1:05 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "http://amkhic.com",
+        "seen": [
+          "1:05 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Willimantic",
+      "state": "CT",
+      "jumuah": [
+        {
+          "start": "1:45 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "http://icwct.org",
+        "seen": [
+          "1:45 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "First Hijrah Muslim Community Center",
+      "state": "DC",
+      "jumuah": [
+        {
+          "start": "12:00 PM"
+        },
+        {
+          "start": "1:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "http://firsthijrah.org",
+        "seen": [
+          "12:00 PM",
+          "12:30 PM",
+          "1:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19",
+      "jumuah_note": "1st Amharic, 2nd English"
+    },
+    {
+      "name": "The Islamic Center of Washington DC",
+      "state": "DC",
+      "jumuah": [
+        {
+          "start": "12:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://theislamiccenter.us/",
+        "seen": [
+          "12:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Cape Coral - Masjid Quba",
+      "state": "FL",
+      "jumuah": [
+        {
+          "start": "1:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.masjidquba.net/",
+        "seen": [
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Masjid Jamaat Al-Mumineen",
+      "state": "FL",
+      "jumuah": [
+        {
+          "start": "2:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "http://www.margatemasjid.org/",
+        "seen": [
+          "2:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Atlanta Masjid of Al Islam",
+      "state": "GA",
+      "jumuah": [
+        {
+          "start": "1:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.atlantamasjid.com/",
+        "seen": [
+          "1:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Masjid Al Rahman",
+      "state": "GA",
+      "jumuah": [
+        {
+          "start": "12:30 PM"
+        },
+        {
+          "start": "1:30 PM"
+        },
+        {
+          "start": "2:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://alrahmanmasjid.com",
+        "seen": [
+          "12:30 PM",
+          "1:30 PM",
+          "2:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Masjid Jihad",
+      "state": "GA",
+      "jumuah": [
+        {
+          "start": "1:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.masjidjihad.com/",
+        "seen": [
+          "1:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Leavenworth",
+      "state": "KS",
+      "jumuah": [
+        {
+          "start": "1:45 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://leavenworthmuslims.weebly.com/",
+        "seen": [
+          "1:45 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Manhattan",
+      "state": "KS",
+      "jumuah": [
+        {
+          "start": "1:15 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://icmks.org/",
+        "seen": [
+          "1:15 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Topeka",
+      "state": "KS",
+      "jumuah": [
+        {
+          "start": "1:15 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "http://topekamosque.org/",
+        "seen": [
+          "1:15 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic center of Frankfort Kentucky",
+      "state": "KY",
+      "jumuah": [
+        {
+          "start": "2:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.islamiccenterfrankfortky.org/",
+        "seen": [
+          "2:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Boston",
+      "state": "MA",
+      "jumuah": [
+        {
+          "start": "1:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://icbwayland.org/",
+        "seen": [
+          "1:00 PM",
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19",
+      "jumuah_note": "khutbah 1:00 PM, prayer 1:30 PM"
+    },
+    {
+      "name": "First Hijrah Foundation",
+      "state": "MD",
+      "jumuah": [
+        {
+          "start": "12:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "http://firsthijrah.org/",
+        "seen": [
+          "12:00 PM",
+          "12:30 PM",
+          "1:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Hasbuna Allahu Islamic Center",
+      "state": "MD",
+      "jumuah": [
+        {
+          "start": "1:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://haicbaltimore.org/",
+        "seen": [
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Al Falah Institute & Masjid",
+      "state": "MI",
+      "jumuah": [
+        {
+          "start": "2:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "http://www.alfalahinstitute.org",
+        "seen": [
+          "2:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Rolla Missouri (ICRM)",
+      "state": "MO",
+      "jumuah": [
+        {
+          "start": "1:15 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.rollamasjid.org/",
+        "seen": [
+          "1:15 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Upper Valley Muslim Society",
+      "state": "NH",
+      "jumuah": [
+        {
+          "start": "1:10 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.uvms.org/",
+        "seen": [
+          "1:00 PM",
+          "1:10 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Masjid-e-Ali",
+      "state": "NJ",
+      "jumuah": [
+        {
+          "start": "12:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://masjid-e-ali.org/",
+        "seen": [
+          "12:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Muslim Federation of NJ",
+      "state": "NJ",
+      "jumuah": [
+        {
+          "start": "1:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.mfnj.net",
+        "seen": [
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Masjid Malcolm Shabazz",
+      "state": "NY",
+      "jumuah": [
+        {
+          "start": "12:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.themasjidmalcolmshabazz.com/",
+        "seen": [
+          "12:00 PM",
+          "1:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19",
+      "jumuah_note": "fall/winter; 1:00 PM in spring/summer"
+    },
+    {
+      "name": "Masjid Manhattan",
+      "state": "NY",
+      "jumuah": [
+        {
+          "start": "1:05 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://masjidmanhattan.com/",
+        "seen": [
+          "1:05 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "North Bronx Islamic Center",
+      "state": "NY",
+      "jumuah": [
+        {
+          "start": "1:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://nbicny.org",
+        "seen": [
+          "1:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Akron Masjid",
+      "state": "OH",
+      "jumuah": [
+        {
+          "start": "1:15 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://akronmasjid.com",
+        "seen": [
+          "1:15 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Society of Akron and Kent",
+      "state": "OH",
+      "jumuah": [
+        {
+          "start": "1:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://isak.us/",
+        "seen": [
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Toledo Muslim Community Center",
+      "state": "OH",
+      "jumuah": [
+        {
+          "start": "12:30 PM"
+        },
+        {
+          "start": "1:45 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://toledomcc.org/",
+        "seen": [
+          "12:30 PM",
+          "1:45 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19",
+      "jumuah_note": "12:30 PM English, 1:45 PM Arabic"
+    },
+    {
+      "name": "Masjid Ibrahim Bethany Musalla",
+      "state": "OR",
+      "jumuah": [
+        {
+          "start": "12:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://masjid-ibrahim.com/",
+        "seen": [
+          "12:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "The Porltand Rizwan Mosque",
+      "state": "OR",
+      "jumuah": [
+        {
+          "start": "1:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://portland.ahmadiyya.us/",
+        "seen": [
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "al-Masjid al-Awwal",
+      "state": "PA",
+      "jumuah": [
+        {
+          "start": "1:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://firstmuslimmosque.com/",
+        "seen": [
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Sioux Falls",
+      "state": "SD",
+      "jumuah": [
+        {
+          "start": "1:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://islamiccenterofsiouxfalls.com/",
+        "seen": [
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "ElFarouq Mosque",
+      "state": "TX",
+      "jumuah": [
+        {
+          "start": "12:30 PM"
+        },
+        {
+          "start": "1:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.elfarouq.org/",
+        "seen": [
+          "12:30 PM",
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Greater Austin",
+      "state": "TX",
+      "jumuah": [
+        {
+          "start": "1:15 PM"
+        },
+        {
+          "start": "2:25 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://austinmosque.org/",
+        "seen": [
+          "1:15 PM",
+          "2:25 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Society Of South Texas",
+      "state": "TX",
+      "jumuah": [
+        {
+          "start": "1:45 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://isstonline.wixsite.com/isstmcallen",
+        "seen": [
+          "1:45 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Masjid Khulafa’a Rashideen",
+      "state": "TX",
+      "jumuah": [
+        {
+          "start": "12:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://masjidkr.org/",
+        "seen": [
+          "12:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Quad City Islamic Center of North Austin Leander",
+      "state": "TX",
+      "jumuah": [
+        {
+          "start": "1:45 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.qcicmasjid.org/",
+        "seen": [
+          "1:45 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Darul Huda",
+      "state": "VA",
+      "jumuah": [
+        {
+          "start": "12:30 PM"
+        },
+        {
+          "start": "1:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://darulhudausa.org/",
+        "seen": [
+          "12:30 PM",
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of Bothell",
+      "state": "WA",
+      "jumuah": [
+        {
+          "start": "12:45 PM"
+        },
+        {
+          "start": "1:30 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://bothellmosque.org",
+        "seen": [
+          "12:45 PM",
+          "1:30 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Ithna-asheri Muslim Association of the Northwest (IMAN)",
+      "state": "WA",
+      "jumuah": [
+        {
+          "start": "12:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://www.iman-wa.org/",
+        "seen": [
+          "12:00 PM"
+        ]
+      },
+      "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
     }
   ],
-  "_watch_help": "jumuah_watch: {url, label}. Each daily run reads the page and looks for '<label> at <time>'. A new time replaces the hand entry and opens a GitHub issue; if the line is gone, the hand entry stays and an issue opens."
+  "_watch_help": "jumuah_watch: {url, label} or {url, seen}. Each daily run re-reads the page. With label ('<label> at <time>'), a new time replaces the hand entry. With seen (the midday times found next to Jumu'ah words when it was set up), the hand entry stays and any difference opens a GitHub issue. A page that is gone or unreadable also opens an issue."
 }

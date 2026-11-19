@@ -282,26 +282,53 @@ def src_mohid(url, today):
     return out
 
 
+_JLAB = r"(?<![a-z])(?:jum(?![aā]d)[uʿ'’‘a]*\w*|friday\s+(?:prayers?|salah|khutb\w*|sermon)|khut?b\w*)"
+_JTIME = r"(\d{1,2}(?::\d{2})?\s*[ap]\.?\s?m\b\.?)"
+
+
+def _clock(x):
+    x = re.sub(r"[\s.]", "", x).upper()
+    return norm_time(x if ":" in x else x[:-2] + ":00" + x[-2:])
+
+
+def jumuah_on_page(t, label=None):
+    """Times written next to a Jumu'ah label in page text. With no label, any midday time near a
+    Jumu'ah/Friday/khutbah word (11 AM-3:30 PM), the fingerprint used to notice a change."""
+    pat = (rf"(?:{label})\s*(?:at|:|-)?\s*" if label else _JLAB + r"[^.|\n]{0,40}?") + _JTIME
+    out = []
+    for x in re.findall(pat, t, re.I):
+        x = _clock(x)
+        if x and x not in out and (label or 660 <= minutes(x) <= 930):
+            out.append(x)
+    return out if label else sorted(out, key=minutes)
+
+
 def watch_jumuah(m):
-    """Re-read a hand-entered Jumu'ah time from the masjid's own page. Returns an alert string or None."""
+    """Re-read a hand-entered Jumu'ah time from the masjid's own page. Returns an alert string or None.
+    With "label", a new time is used straight away. With "seen", the hand entry stays and a change
+    only raises an alert, so a misread page never puts a wrong time on the site."""
     w = m["jumuah_watch"]
     hand = [norm_time(j.get("start")) for j in m.get("jumuah") or []]
+    site = re.sub(r"^https?://(www[.])?|/$", "", w["url"])
     try:
         t = _text(http_get(w["url"], ua="Mozilla/5.0 (compatible; USAMasjidFinder)"))
     except Exception as e:
-        return f"could not open {w['url']} ({str(e)[:80]}); kept {', '.join(hand)}"
-    found = []
-    for x in re.findall(rf"(?:{w['label']})\s*(?:at|:|-)?\s*(\d{{1,2}}(?::\d{{2}})?\s*[ap]\.?\s?m\.?)", t, re.I):
-        x = re.sub(r"[\s.]", "", x).upper()
-        x = norm_time(x if ":" in x else x[:-2] + ":00" + x[-2:])
-        if x and x not in found:
-            found.append(x)
+        return f"could not open {w['url']} ({str(e)[:80]}); the site still shows {', '.join(hand)}"
+    found = jumuah_on_page(t, w.get("label"))
     if not found:
-        return f"the Jumu'ah line is gone from {w['url']}; kept {', '.join(hand)}"
-    m["jumuah"] = [{"start": x} for x in found]
-    m["jumuah_source"] = f"From the masjid's website ({re.sub(r'^https?://(www[.])?|/$', '', w['url'])}), checked daily"
-    if found != hand:
-        return f"Jumu'ah changed on {w['url']}: was {', '.join(hand)}, now {', '.join(found)}. The site uses the new time; update mosques_seed.json to match."
+        return f"the Jumu'ah times are gone from {w['url']}; the site still shows {', '.join(hand)}"
+    if w.get("label"):
+        m["jumuah"] = [{"start": x} for x in found]
+        if found != hand:
+            m["jumuah_source"] = f"From the masjid's website ({site}), checked daily"
+            return (f"Jumu'ah changed on {w['url']}: was {', '.join(hand)}, now {', '.join(found)}. "
+                    "The site uses the new time; update mosques_seed.json to match.")
+    elif found != w.get("seen"):
+        return (f"the Jumu'ah times on {w['url']} changed: the page used to show {', '.join(w.get('seen') or [])}, "
+                f"now {', '.join(found)}. The site still shows {', '.join(hand)}; check the page and update "
+                "mosques_seed.json (jumuah and jumuah_watch.seen).")
+    note = f"; {m['jumuah_note']}" if m.get("jumuah_note") and not m["jumuah_note"].startswith("from ") else ""
+    m["jumuah_source"] = f"From the masjid's website ({site}), checked daily{note}"
     return None
 
 
@@ -604,13 +631,24 @@ def build_list():
     geo = Geo()
     by_osm = {m["osm_id"]: m for m in mosques if m.get("osm_id")}
     by_mid = {m["masjidal_id"]: m for m in mosques if m.get("masjidal_id")}
-    by_name = {(m["name"].lower(), m["state"]): m for m in mosques}
+    by_name = defaultdict(list)
+    for m in mosques:
+        by_name[(m["name"].lower(), m["state"])].append(m)
+    _site = lambda u: re.sub(r"^https?://(www[.])?", "", u or "").rstrip("/").lower()
+
+    def named(s):
+        """The masjid a seed entry names; when two share a name, the one whose website it was read from."""
+        c = by_name.get((s.get("name", "").lower(), s.get("state")), [])
+        if len(c) > 1:
+            web = _site(s.get("website") or (s.get("jumuah_watch") or {}).get("url"))
+            c = [m for m in c if web and _site(m.get("website")) == web] or c[-1:]
+        return c[0] if c else None
     for s in seed_file["mosques"]:
         s = {k: v for k, v in s.items() if k != "ref"}
         if "address" in s and "street" not in s:
             s["street"] = s["address"].split(",")[0]
         tgt = (by_osm.get(s.get("osm_id")) or by_mid.get(s.get("masjidal_id"))
-               or by_name.get((s.get("name", "").lower(), s.get("state"))))
+               or named(s))
         if not tgt and s.get("lat") is None and s.get("address"):
             ll = geo.forward(s["address"])
             if ll:
