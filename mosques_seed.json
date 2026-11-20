@@ -1042,7 +1042,40 @@
         ]
       },
       "ref": "Jumu'ah from the masjid's homepage, checked 2026-11-19"
+    },
+    {
+      "name": "Islamic Center of North Fulton",
+      "state": "GA",
+      "website": "https://icnf.org/",
+      "masjiddashboard_id": "6046bc4b37e1105575a61ef0",
+      "jumuah": [
+        {
+          "start": "12:45 PM",
+          "khutbah": "12:45 PM",
+          "iqamah": "1:00 PM"
+        },
+        {
+          "start": "1:45 PM",
+          "khutbah": "1:45 PM",
+          "iqamah": "2:00 PM"
+        },
+        {
+          "start": "2:45 PM",
+          "khutbah": "2:45 PM",
+          "iqamah": "3:00 PM"
+        }
+      ],
+      "jumuah_watch": {
+        "url": "https://icnf.org/",
+        "seen": [
+          "12:45 PM",
+          "1:45 PM",
+          "2:45 PM"
+        ]
+      },
+      "ref": "Reported by a user 2026-11-19: Masjidal account (GA6goWde) is stale (Asr 6:45 PM, Isha 10:15 PM, Jumu'ah an hour late). icnf.org uses MasjidDashboard company 6046bc4b37e1105575a61ef0."
     }
   ],
-  "_watch_help": "jumuah_watch: {url, label} or {url, seen}. Each daily run re-reads the page. With label ('<label> at <time>'), a new time replaces the hand entry. With seen (the midday times found next to Jumu'ah words when it was set up), the hand entry stays and any difference opens a GitHub issue. A page that is gone or unreadable also opens an issue."
+  "_watch_help": "jumuah_watch: {url, label} or {url, seen}. Each daily run re-reads the page. With label ('<label> at <time>'), a new time replaces the hand entry. With seen (the midday times found next to Jumu'ah words when it was set up), the hand entry stays and any difference opens a GitHub issue. A page that is gone or unreadable also opens an issue.",
+  "_masjiddashboard_help": "masjiddashboard_id: the companyId from a masjid's MasjidDashboard prayer widget. Its times replace Masjidal's for that masjid."
 }

@@ -244,6 +244,40 @@ def src_masjidal_jumuah(mid):
     return out
 
 
+_HIJRI = ["Muharram", "Safar", "Rabi Al-Awwal", "Rabi Al-Thani", "Jumada Al-Awwal", "Jumada Al-Thani",
+          "Rajab", "Shaban", "Ramadan", "Shawwal", "Dhul-Qadah", "Dhul-Hijjah"]
+
+
+def src_masjiddashboard(cid, today, n=7):
+    """MasjidDashboard prayer-time widget (masjiddashboard.com), one request per day."""
+    days = []
+    for i in range(n):
+        d = today + dt.timedelta(days=i)
+        j = http_json(f"https://masjiddashboard.com/api/prayer/companyId/{urllib.parse.quote(cid)}"
+                      f"/month/{d.month}/day/{d.day}", timeout=20)
+        t = j.get("target") if j.get("successful") else None
+        if not t:
+            if i == 0:
+                raise RuntimeError(f"masjiddashboard: {j.get('message')}")
+            break
+        hy, hm, hd = (t.get("hijriString") or "0/0/0").split("/")
+        adhan = {k2: norm_time(t.get(k1)) for k1, k2 in
+                 [("fajr", "fajr"), ("sunrise", "sunrise"), ("dhuhr", "dhuhr"),
+                  ("asr", "asr"), ("maghrib", "maghrib"), ("isha", "isha")]}
+        iq = {}
+        for k in ["fajr", "dhuhr", "asr", "maghrib", "isha"]:
+            v = (t.get(k + "Iqama") or "").strip()
+            off = re.match(r"^\+?(\d+)\s*min", v, re.I)  # "5 Mins" = minutes after the adhan
+            if off and adhan.get(k):
+                v = fmt12(*divmod(minutes(adhan[k]) + int(off[1]), 60))
+            if norm_time(v):
+                iq[k] = norm_time(v)
+        days.append({"date": d.strftime("%A, %b %d, %Y").replace(" 0", " "),
+                     "hijri": f"{int(hd)}, {hy} {_HIJRI[int(hm) - 1]}" if hm.isdigit() and 0 < int(hm) <= 12 else "",
+                     "adhan": adhan, "iqamah": iq})
+    return {"days": days, "source": "MasjidDashboard (the masjid's website)"}
+
+
 def _text(h):
     h = re.sub(r"<script.*?</script>|<style.*?</style>", " ", h, flags=re.S | re.I)
     h = re.sub(r"<[^>]+>", " ", h)
@@ -695,6 +729,14 @@ def enrich(m, disc):
         for k, v in disc.get(m["website"]).items():
             if k != "site_error":
                 m.setdefault(k, v)
+    if m.get("masjiddashboard_id"):  # what the masjid's own website shows; wins over a stale Masjidal account
+        try:
+            r = src_masjiddashboard(m["masjiddashboard_id"], today)
+            m["days"], m["timing_source"] = r["days"], r["source"]
+            m.pop("masjidal_id", None)  # stop visitors' browsers overwriting it with Masjidal times
+            sources.append("masjiddashboard")
+        except Exception as e:
+            m["errors"].append(f"masjiddashboard: {str(e)[:100]}")
     if m.get("masjidal_id"):
         try:
             r = src_masjidal(m["masjidal_id"], today)
