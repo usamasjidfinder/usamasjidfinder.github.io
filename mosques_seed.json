@@ -1074,6 +1074,18 @@
         ]
       },
       "ref": "Reported by a user 2026-11-19: Masjidal account (GA6goWde) is stale (Asr 6:45 PM, Isha 10:15 PM, Jumu'ah an hour late). icnf.org uses MasjidDashboard company 6046bc4b37e1105575a61ef0."
+    },
+    {
+      "masjidal_id": "QKM5pqKB",
+      "state": "GA",
+      "masjiddashboard_id": "64519e1064ddcf5e42e2b381",
+      "ref": "Masjid Maryam ICD (Duluth). Masjidal account stale on 2026-11-19 (Fajr 5:30 AM, Asr 7:00 PM, Isha 10:20 PM); icdga.org uses MasjidDashboard."
+    },
+    {
+      "masjidal_id": "xdNP0PLV",
+      "state": "GA",
+      "masjiddashboard_id": "69f14200695396797fb6b0a4",
+      "ref": "IICC - Masjid Al Ikhlas (Norcross). Masjidal account stale on 2026-11-19 (Asr 6:00 PM, Isha 7:02 PM); ikmia.org uses MasjidDashboard."
     }
   ],
   "_watch_help": "jumuah_watch: {url, label} or {url, seen}. Each daily run re-reads the page. With label ('<label> at <time>'), a new time replaces the hand entry. With seen (the midday times found next to Jumu'ah words when it was set up), the hand entry stays and any difference opens a GitHub issue. A page that is gone or unreadable also opens an issue.",

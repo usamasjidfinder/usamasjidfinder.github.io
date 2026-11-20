@@ -275,7 +275,20 @@ def src_masjiddashboard(cid, today, n=7):
         days.append({"date": d.strftime("%A, %b %d, %Y").replace(" 0", " "),
                      "hijri": f"{int(hd)}, {hy} {_HIJRI[int(hm) - 1]}" if hm.isdigit() and 0 < int(hm) <= 12 else "",
                      "adhan": adhan, "iqamah": iq})
-    return {"days": days, "source": "MasjidDashboard (the masjid's website)"}
+    jumuah = []
+    try:
+        cfg = http_json(f"https://masjiddashboard.com/api/auth/companies/{urllib.parse.quote(cid)}/configurations",
+                        timeout=20)
+        txt = next((c.get("value") or "" for c in cfg if c.get("name") == "jumah_prayer"), "")
+        for h, mi, ap in re.findall(r"(?<![\d.])(\d{1,2})(?:[:.](\d{2}))?\s*([ap]\.?m\.?)?(?![\d]|st|nd|rd|th)", txt, re.I):
+            h, mi = int(h), int(mi or 0)
+            ap = (ap or "").lower()[:1] or ("a" if 9 <= h <= 11 else "p")  # bare "2:00" means 2 PM
+            t = norm_time(f"{h}:{mi:02d} {ap}m")
+            if t and 660 <= minutes(t) <= 960 and t not in [j["start"] for j in jumuah]:
+                jumuah.append({"start": t})
+    except Exception:
+        pass
+    return {"days": days, "jumuah": jumuah, "source": "MasjidDashboard (the masjid's website)"}
 
 
 def _text(h):
@@ -733,6 +746,8 @@ def enrich(m, disc):
         try:
             r = src_masjiddashboard(m["masjiddashboard_id"], today)
             m["days"], m["timing_source"] = r["days"], r["source"]
+            if r["jumuah"] and not m.get("jumuah"):  # a hand-entered Jumu'ah wins
+                m["jumuah"], m["jumuah_source"] = r["jumuah"], r["source"]
             m.pop("masjidal_id", None)  # stop visitors' browsers overwriting it with Masjidal times
             sources.append("masjiddashboard")
         except Exception as e:
