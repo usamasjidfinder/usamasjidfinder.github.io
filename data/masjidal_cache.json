@@ -1073,6 +1073,43 @@
 }
 },
 {
+"id": "JdGJlXAP",
+"uuid": "8c706de1-0657-4f0c-8187-2f91730a2622",
+"name": "Al Aqsa Islamic Society",
+"address": "1501 Germantown Ave",
+"city": "Philadelphia",
+"state": "PA",
+"country": "US",
+"longitude": "-75.1417",
+"latitude": "39.9738",
+"zipcode": "19122",
+"phone": "2157652743",
+"meta": "-",
+"email": "inquiry@alaqsais.org",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
+}
+}
+},
+{
 "id": "EdolwMK7",
 "uuid": "84dc5786-7ad2-434f-9b51-068846cafdf9",
 "name": "Al Falah Center - Bridgewater",
@@ -28979,11 +29016,11 @@
 "state": "PA",
 "country": "US",
 "longitude": "-75.2292",
-"latitude": "39.9248",
+"latitude": "39.9250",
 "zipcode": "19142",
-"phone": "-",
+"phone": "12679929100",
 "meta": "-",
-"email": "-",
+"email": "jomandym@gmail.com",
 "website_url": "-",
 "event_url": "-",
 "donation_url": "-",
@@ -31080,43 +31117,6 @@
 }
 },
 {
-"id": "PAPnDrKJ",
-"uuid": "f1c6ae19-20d3-4ed0-85f9-2c42b42c7174",
-"name": "Masjid Al-furqaan",
-"address": "1525 Glenwood Ave",
-"city": "Minneapolis",
-"state": "MN",
-"country": "US",
-"longitude": "-93.3002",
-"latitude": "44.9806",
-"zipcode": "55405",
-"phone": "-",
-"meta": "-",
-"email": "-",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "1",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "GA6aQjLe",
 "uuid": "3aad282d-53ba-4424-b267-4ba9822cf56c",
 "name": "Masjid Al-Furqaan",
@@ -31150,6 +31150,43 @@
 "asr_offset": 0,
 "maghrib_offset": 0,
 "isha_offset": 0
+}
+}
+},
+{
+"id": "PAPnDrKJ",
+"uuid": "f1c6ae19-20d3-4ed0-85f9-2c42b42c7174",
+"name": "Masjid Al-furqaan",
+"address": "1525 Glenwood Ave",
+"city": "Minneapolis",
+"state": "MN",
+"country": "US",
+"longitude": "-93.3002",
+"latitude": "44.9806",
+"zipcode": "55405",
+"phone": "-",
+"meta": "-",
+"email": "-",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "1",
+"isha_offset": "0"
 }
 }
 },
@@ -31339,43 +31376,6 @@
 }
 },
 {
-"id": "wLVp0ydJ",
-"uuid": "1266c9c8-94bb-4651-927a-42c8bb54b68f",
-"name": "MASJID AL-HUDA",
-"address": "3043 Voorhies Ave",
-"city": "Brooklyn ",
-"state": "New York",
-"country": "US",
-"longitude": "-73.9349",
-"latitude": "40.5880",
-"zipcode": "11235",
-"phone": "9297206334",
-"meta": "-",
-"email": "-",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "0AWpy2dj",
 "uuid": "08f4eda0-d5a2-418f-9fd4-f981fe26d33a",
 "name": "Masjid Al-Huda ",
@@ -31409,6 +31409,43 @@
 "asr_offset": "10",
 "maghrib_offset": "10",
 "isha_offset": "10"
+}
+}
+},
+{
+"id": "wLVp0ydJ",
+"uuid": "1266c9c8-94bb-4651-927a-42c8bb54b68f",
+"name": "MASJID AL-HUDA",
+"address": "3043 Voorhies Ave",
+"city": "Brooklyn ",
+"state": "New York",
+"country": "US",
+"longitude": "-73.9349",
+"latitude": "40.5880",
+"zipcode": "11235",
+"phone": "9297206334",
+"meta": "-",
+"email": "-",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
 }
 }
 },
@@ -31672,43 +31709,6 @@
 }
 },
 {
-"id": "3OA8mXdp",
-"uuid": "3ab6fcb2-b6c9-471f-af57-5a047c35c6dc",
-"name": "Masjid al-Hudaa",
-"address": "3880 Smith St",
-"city": "Union City",
-"state": "CA",
-"country": "US",
-"longitude": "-122.0787",
-"latitude": "37.5961",
-"zipcode": "94587",
-"phone": "-",
-"meta": "-",
-"email": "-",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "kK3vZPde",
 "uuid": "f0c9f35e-e9fc-4e48-973c-0e2341a30562",
 "name": "Masjid Al-Hudaa",
@@ -31731,6 +31731,43 @@
 "premium_features": {
 "app": true,
 "slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
+}
+}
+},
+{
+"id": "3OA8mXdp",
+"uuid": "3ab6fcb2-b6c9-471f-af57-5a047c35c6dc",
+"name": "Masjid al-Hudaa",
+"address": "3880 Smith St",
+"city": "Union City",
+"state": "CA",
+"country": "US",
+"longitude": "-122.0787",
+"latitude": "37.5961",
+"zipcode": "94587",
+"phone": "-",
+"meta": "-",
+"email": "-",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
 "donation_app": false
 },
 "is_shell_account": false,
@@ -32079,43 +32116,6 @@
 }
 },
 {
-"id": "3AOajEKe",
-"uuid": "8271eef6-c9c7-48ce-b62a-8044c2d9faa8",
-"name": "Masjid Al-Khair",
-"address": "1670 Homewood Ave",
-"city": "Youngstown",
-"state": "Ohio",
-"country": "US",
-"longitude": "-80.6269",
-"latitude": "41.0768",
-"zipcode": "44502",
-"phone": "-",
-"meta": "-",
-"email": "admin@isgyohio.org",
-"website_url": "https://www.isgyohio.org/",
-"event_url": "https://calendar.google.com/calendar/embed?src=isgyiot%40gmail.com&ctz=America%2FNew_York",
-"donation_url": "https://donation.masjidal.com/MasjidAl-Khair/campaign/masjid-donation-75/",
-"audio_url": "-",
-"prayer_timing_url": "https://masjidal.com/widget/monthly/?masjid_id=3AOajEKe",
-"app_premium_features": true,
-"premium_features": {
-"app": true,
-"slideshow": true,
-"donation_app": true
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "8K9O0nAp",
 "uuid": "03e5fb2a-51a7-46ff-b832-4624e4a9ad9d",
 "name": "Masjid Al-Khair",
@@ -32149,6 +32149,43 @@
 "asr_offset": 0,
 "maghrib_offset": 0,
 "isha_offset": 0
+}
+}
+},
+{
+"id": "3AOajEKe",
+"uuid": "8271eef6-c9c7-48ce-b62a-8044c2d9faa8",
+"name": "Masjid Al-Khair",
+"address": "1670 Homewood Ave",
+"city": "Youngstown",
+"state": "Ohio",
+"country": "US",
+"longitude": "-80.6269",
+"latitude": "41.0768",
+"zipcode": "44502",
+"phone": "-",
+"meta": "-",
+"email": "admin@isgyohio.org",
+"website_url": "https://www.isgyohio.org/",
+"event_url": "https://calendar.google.com/calendar/embed?src=isgyiot%40gmail.com&ctz=America%2FNew_York",
+"donation_url": "https://donation.masjidal.com/MasjidAl-Khair/campaign/masjid-donation-75/",
+"audio_url": "-",
+"prayer_timing_url": "https://masjidal.com/widget/monthly/?masjid_id=3AOajEKe",
+"app_premium_features": true,
+"premium_features": {
+"app": true,
+"slideshow": true,
+"donation_app": true
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
 }
 }
 },
@@ -32560,43 +32597,6 @@
 }
 },
 {
-"id": "kK3G51Ke",
-"uuid": "b08434f9-c283-45b8-9653-055b265a7442",
-"name": "MASJID AL-RAHMA",
-"address": "2916 E McDowell Rd",
-"city": "Phoenix",
-"state": "Arizona",
-"country": "US",
-"longitude": "-112.0189",
-"latitude": "33.4663",
-"zipcode": "85008",
-"phone": "-",
-"meta": "-",
-"email": "samatarcadde@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "https://masjidal.com/widget/monthly/v2/?masjid_id=kK3G51Ke",
-"app_premium_features": true,
-"premium_features": {
-"app": true,
-"slideshow": true,
-"donation_app": true
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": true,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "OA8axrdp",
 "uuid": "3d990e3f-1d73-4f94-b337-03f62ee7689b",
 "name": "Masjid AL-Rahma",
@@ -32625,6 +32625,43 @@
 "iqamah_settings": {
 "athan": {
 "enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
+}
+}
+},
+{
+"id": "kK3G51Ke",
+"uuid": "b08434f9-c283-45b8-9653-055b265a7442",
+"name": "MASJID AL-RAHMA",
+"address": "2916 E McDowell Rd",
+"city": "Phoenix",
+"state": "Arizona",
+"country": "US",
+"longitude": "-112.0189",
+"latitude": "33.4663",
+"zipcode": "85008",
+"phone": "-",
+"meta": "-",
+"email": "samatarcadde@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "https://masjidal.com/widget/monthly/v2/?masjid_id=kK3G51Ke",
+"app_premium_features": true,
+"premium_features": {
+"app": true,
+"slideshow": true,
+"donation_app": true
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": true,
 "fajr_offset": "0",
 "zuhr_offset": "0",
 "asr_offset": "0",
@@ -33818,43 +33855,6 @@
 }
 },
 {
-"id": "wdqr9lKb",
-"uuid": "60eead9c-e996-4373-a81e-a99a2d9c2a85",
-"name": "Masjid An-Noor",
-"address": "2235 9th St",
-"city": "Mandeville",
-"state": "Louisiana",
-"country": "US",
-"longitude": "-90.0897",
-"latitude": "30.3982",
-"zipcode": "70471",
-"phone": "-",
-"meta": "-",
-"email": "masjid.mandeville@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "3OA892dp",
 "uuid": "6d163408-bc55-4e0f-85f1-7f63429ca8ea",
 "name": "Masjid An-Noor",
@@ -33888,6 +33888,43 @@
 "asr_offset": 0,
 "maghrib_offset": 0,
 "isha_offset": 0
+}
+}
+},
+{
+"id": "wdqr9lKb",
+"uuid": "60eead9c-e996-4373-a81e-a99a2d9c2a85",
+"name": "Masjid An-Noor",
+"address": "2235 9th St",
+"city": "Mandeville",
+"state": "Louisiana",
+"country": "US",
+"longitude": "-90.0897",
+"latitude": "30.3982",
+"zipcode": "70471",
+"phone": "-",
+"meta": "-",
+"email": "masjid.mandeville@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
 }
 }
 },
@@ -36186,43 +36223,6 @@
 }
 },
 {
-"id": "xwLVzpLJ",
-"uuid": "b053de55-8225-406c-9ffe-687cd857ab03",
-"name": "Masjid Darul Quran ",
-"address": "2514 W Thorndale Ave",
-"city": "Chicago",
-"state": "IL",
-"country": "US",
-"longitude": "-87.6928",
-"latitude": "41.9888",
-"zipcode": "60659",
-"phone": "7736810801",
-"meta": "-",
-"email": "darulquranchicago@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "eLQODbdM",
 "uuid": "403ffdde-51a6-4594-bd78-c6f62dad1259",
 "name": "Masjid Darul Quran",
@@ -36256,6 +36256,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "xwLVzpLJ",
+"uuid": "b053de55-8225-406c-9ffe-687cd857ab03",
+"name": "Masjid Darul Quran ",
+"address": "2514 W Thorndale Ave",
+"city": "Chicago",
+"state": "IL",
+"country": "US",
+"longitude": "-87.6928",
+"latitude": "41.9888",
+"zipcode": "60659",
+"phone": "7736810801",
+"meta": "-",
+"email": "darulquranchicago@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -36778,43 +36815,6 @@
 }
 },
 {
-"id": "0AWpmbdj",
-"uuid": "a734f2f1-3d24-421f-a699-9154fc64c6af",
-"name": "Masjid Fatima",
-"address": "1928 Powers Ln",
-"city": "Catonsville",
-"state": "Maryland",
-"country": "US",
-"longitude": "-76.7552",
-"latitude": "39.2858",
-"zipcode": "21228",
-"phone": "410-800-4880",
-"meta": "-",
-"email": "info@masjidfatima.com",
-"website_url": "https://www.masjidfatima.com",
-"event_url": "-",
-"donation_url": "https://us.mohid.co/md/baltimore/fatima/masjid/online/donation/index/10",
-"audio_url": "-",
-"prayer_timing_url": "https://www.islamicfinder.org/world/united-states/4350635/catonsville-prayer-times/",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "QL032EKZ",
 "uuid": "5783db2a-e756-4731-9c1e-86bd066f4716",
 "name": "Masjid Fatima",
@@ -36848,6 +36848,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "0AWpmbdj",
+"uuid": "a734f2f1-3d24-421f-a699-9154fc64c6af",
+"name": "Masjid Fatima",
+"address": "1928 Powers Ln",
+"city": "Catonsville",
+"state": "Maryland",
+"country": "US",
+"longitude": "-76.7552",
+"latitude": "39.2858",
+"zipcode": "21228",
+"phone": "410-800-4880",
+"meta": "-",
+"email": "info@masjidfatima.com",
+"website_url": "https://www.masjidfatima.com",
+"event_url": "-",
+"donation_url": "https://us.mohid.co/md/baltimore/fatima/masjid/online/donation/index/10",
+"audio_url": "-",
+"prayer_timing_url": "https://www.islamicfinder.org/world/united-states/4350635/catonsville-prayer-times/",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -44585,43 +44622,6 @@
 }
 },
 {
-"id": "lJAmz4dR",
-"uuid": "6e70d392-bf18-4d33-ae06-13615439db5a",
-"name": "Muslim Education Center",
-"address": "8601 Menard Ave",
-"city": "Morton Grove",
-"state": "IL",
-"country": "US",
-"longitude": "-87.7710",
-"latitude": "42.0377",
-"zipcode": "60053",
-"phone": " (773) 725-9047",
-"meta": "MEC",
-"email": "-",
-"website_url": "https://mccchicago.org/",
-"event_url": "https://calendar.google.com/calendar/embed?src=53f6e57bf0ea1448a2846ee7b6dfe490ead0d5a5cf75976e5f586debe2a89aa2%40group.calendar.google.com&ctz=America%2FChicago",
-"donation_url": "https://donate.mccchicago.org/",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": true,
-"premium_features": {
-"app": true,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "kAkj8zLq",
 "uuid": "8e1e9eed-e5a4-4512-b706-16d597d863d2",
 "name": "Muslim Education Center",
@@ -44655,6 +44655,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "lJAmz4dR",
+"uuid": "6e70d392-bf18-4d33-ae06-13615439db5a",
+"name": "Muslim Education Center",
+"address": "8601 Menard Ave",
+"city": "Morton Grove",
+"state": "IL",
+"country": "US",
+"longitude": "-87.7710",
+"latitude": "42.0377",
+"zipcode": "60053",
+"phone": " (773) 725-9047",
+"meta": "MEC",
+"email": "-",
+"website_url": "https://mccchicago.org/",
+"event_url": "https://calendar.google.com/calendar/embed?src=53f6e57bf0ea1448a2846ee7b6dfe490ead0d5a5cf75976e5f586debe2a89aa2%40group.calendar.google.com&ctz=America%2FChicago",
+"donation_url": "https://donate.mccchicago.org/",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": true,
+"premium_features": {
+"app": true,
+"slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },

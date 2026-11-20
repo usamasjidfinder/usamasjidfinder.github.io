@@ -11,14 +11,8 @@
  "islamic-society-of-southern-texas-corpus-christi-tx": [
   "events: HTTP Error 404: Not Found"
  ],
- "momin-community-center-st-johns-fl": [
-  "events: <urlopen error timed out>"
- ],
  "masjid-darussalam-lombard-il": [
   "events: HTTP Error 404: Not Found"
- ],
- "al-mahdi-islamic-center-nashville-tn": [
-  "events: <urlopen error timed out>"
  ],
  "imca-indianapolis-muslim-community-association-indianapolis-in": [
   "events: HTTP Error 404: Not Found"
@@ -39,6 +33,9 @@
   "events: Expecting value: line 1 column 1 (char 0)"
  ],
  "mas-youth-center-of-nj-north-brunswick-township-nj": [
+  "events: HTTP Error 404: Not Found"
+ ],
+ "masjid-al-ansaar-the-woodlands-tx": [
   "events: HTTP Error 404: Not Found"
  ],
  "masjid-al-tawheed-kentwood-mi": [
