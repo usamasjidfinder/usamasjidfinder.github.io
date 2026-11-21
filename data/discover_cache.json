@@ -2850,6 +2850,12 @@
 "events_wp": "https://mmasacramento.com"
 }
 },
+"https://mndawah.net": {
+"at": "2026-11-21",
+"found": {
+"events_wp": "https://mndawah.net"
+}
+},
 "https://momincc.org/": {
 "at": "2026-11-17",
 "found": {
@@ -5253,6 +5259,10 @@
 },
 "https://www.southeastaurora.org/": {
 "at": "2026-11-17",
+"found": {}
+},
+"https://www.southlakemasjid.com/": {
+"at": "2026-11-21",
 "found": {}
 },
 "https://www.southlakemasjid.org/home": {
