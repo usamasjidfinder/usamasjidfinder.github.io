@@ -1147,6 +1147,15 @@
       "state": "SC",
       "website": "https://almasjid.com",
       "ref": "From the Muslims of Columbia directory (muslimsofcolumbia.com/directory/?need=pray), added 2026-11-20: website"
+    },
+    {
+      "name": "Islamic Center of Southlake (Southlake Masjid)",
+      "masjidal_id": "keLQpXKM",
+      "state": "TX",
+      "address": "1280 N Carroll Ave, Southlake, TX 76092",
+      "city": "Southlake",
+      "website": "https://www.southlakemasjid.com/",
+      "ref": "https://www.southlakemasjid.com/ (user report 2026-11-21: listed as 'Southlake Masjid', renamed to its official name)"
     }
   ],
   "_watch_help": "jumuah_watch: {url, label} or {url, seen}. Each daily run re-reads the page. With label ('<label> at <time>'), a new time replaces the hand entry. With seen (the midday times found next to Jumu'ah words when it was set up), the hand entry stays and any difference opens a GitHub issue. A page that is gone or unreadable also opens an issue.",
