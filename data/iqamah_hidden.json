@@ -1,0 +1,1930 @@
+{
+ "Islamic Center of Jonesboro (AR)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:25 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:00 PM",
+   "maghrib": "5:02 PM",
+   "isha": "6:27 PM"
+  },
+  "shown": {
+   "fajr": "5:25 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "5:02 PM",
+   "isha": "6:27 PM"
+  }
+ },
+ "Islamic Center of North Phoenix (AZ)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:30 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "5:30 PM",
+   "maghrib": "5:28 PM",
+   "isha": "9:15 PM"
+  },
+  "shown": {}
+ },
+ "Islamic Community Center of Phoenix (AZ)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "4:30 PM",
+   "maghrib": "6:45 PM",
+   "isha": "8:15 PM"
+  },
+  "shown": {}
+ },
+ "Darul Arqam (CA)": {
+  "stale": true,
+  "source": null,
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "6:00 PM",
+   "maghrib": "5:50 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": null
+ },
+ "Evergreen Islamic Center (CA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:00 PM",
+   "maghrib": "5:04 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "5:04 PM",
+   "isha": "9:00 PM"
+  }
+ },
+ "Islamic Center Northridge (CA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "5:15 PM",
+   "maghrib": "4:56 PM",
+   "isha": "8:15 PM"
+  },
+  "shown": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:15 PM",
+   "maghrib": "4:56 PM",
+   "isha": "8:15 PM"
+  }
+ },
+ "Islamic Center of Jurupa Valley (CA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "6:15 PM",
+   "maghrib": "4:45 PM",
+   "isha": "9:15 PM"
+  },
+  "shown": {}
+ },
+ "Islamic Center of Northridge (Granada Hills Masjid and Community Center) (CA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "5:45 PM",
+   "maghrib": "4:55 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:15 PM",
+   "maghrib": "4:55 PM",
+   "isha": "9:00 PM"
+  }
+ },
+ "Madina Center (CA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:00 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "6:15 PM",
+   "maghrib": "4:55 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Hamza (CA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:00 AM",
+   "dhuhr": "1:45 PM",
+   "asr": "6:30 PM",
+   "maghrib": "8:34 PM",
+   "isha": "10:15 PM"
+  },
+  "shown": {}
+ },
+ "My Deen Center (CA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:15 AM",
+   "dhuhr": "1:10 PM",
+   "asr": "5:00 PM",
+   "maghrib": "4:57 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {}
+ },
+ "NHIC (CA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:45 PM",
+   "maghrib": "8:30 PM",
+   "isha": "10:15 PM"
+  },
+  "shown": {}
+ },
+ "Quba masjid (CA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:20 AM",
+   "dhuhr": "1:35 PM",
+   "asr": "5:15 PM",
+   "maghrib": "5:02 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {}
+ },
+ "SVIC (CA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:30 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:00 PM",
+   "maghrib": "4:58 PM",
+   "isha": "8:00 PM"
+  },
+  "shown": {
+   "fajr": "6:30 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "4:58 PM",
+   "isha": "8:00 PM"
+  }
+ },
+ "Unity Center of Santa Clarita (CA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:50 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:30 PM",
+   "maghrib": "4:52 PM",
+   "isha": "8:45 PM"
+  },
+  "shown": {
+   "fajr": "5:50 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "4:52 PM",
+   "isha": "8:45 PM"
+  }
+ },
+ "Islamic Center of Golden (CO)": {
+  "stale": true,
+  "source": null,
+  "listed": {
+   "fajr": "7:03 AM",
+   "dhuhr": "1:07 PM",
+   "asr": "3:42 PM",
+   "maghrib": "5:51 PM",
+   "isha": "7:10 PM"
+  },
+  "shown": null
+ },
+ "Islamic Society Of Colorado Springs (CO)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:05 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "5:00 PM",
+   "maghrib": "4:47 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Assalam (CT)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "4:45 PM",
+   "maghrib": "7:30 PM",
+   "isha": "8:45 PM"
+  },
+  "shown": {}
+ },
+ "Darul Uloom Institute (FL)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:45 PM",
+   "asr": "6:15 PM",
+   "maghrib": "5:42 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:45 PM",
+   "maghrib": "5:42 PM",
+   "isha": "9:30 PM"
+  }
+ },
+ "Islamic Center of Brandon (FL)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:20 AM",
+   "dhuhr": "2:00 AM",
+   "asr": "5:30 AM",
+   "maghrib": "5:45 PM",
+   "isha": "9:30 AM"
+  },
+  "shown": {}
+ },
+ "Masjid Al Ikhlas Florida (FL)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:45 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:00 PM",
+   "maghrib": "5:31 PM",
+   "isha": "8:45 PM"
+  },
+  "shown": {}
+ },
+ "Nur Ul Islam Masjid (FL)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:30 AM",
+   "dhuhr": "1:35 PM",
+   "asr": "6:00 PM",
+   "maghrib": "5:40 PM",
+   "isha": "8:30 PM"
+  },
+  "shown": {
+   "fajr": "6:30 AM",
+   "dhuhr": "1:35 PM",
+   "maghrib": "5:40 PM",
+   "isha": "8:30 PM"
+  }
+ },
+ "East Cobb Islamic Center (GA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:40 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:30 PM",
+   "maghrib": "5:37 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {
+   "fajr": "6:40 AM",
+   "dhuhr": "2:00 PM",
+   "maghrib": "5:37 PM",
+   "isha": "9:30 PM"
+  }
+ },
+ "Hamzah Islamic Center (GA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:30 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "5:00 PM",
+   "maghrib": "12:05 AM",
+   "isha": "8:15 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Assiddiq islamic centre of west Georgia (GA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:35 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:10 PM",
+   "maghrib": "5:39 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {
+   "fajr": "6:35 AM",
+   "dhuhr": "2:00 PM",
+   "maghrib": "5:39 PM",
+   "isha": "9:30 PM"
+  }
+ },
+ "Masjid Badrudeen (GA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:10 AM",
+   "dhuhr": "12:35 PM",
+   "asr": "3:35 PM",
+   "maghrib": "5:55 PM",
+   "isha": "7:10 PM"
+  },
+  "shown": {
+   "fajr": "6:10 AM",
+   "dhuhr": "12:35 PM",
+   "asr": "3:35 PM",
+   "maghrib": "5:55 PM"
+  }
+ },
+ "Masjid Rahman (GA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:15 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "5:32 PM",
+   "maghrib": "5:36 PM",
+   "isha": "9:31 PM"
+  },
+  "shown": {
+   "fajr": "6:15 AM",
+   "dhuhr": "2:00 PM",
+   "maghrib": "5:36 PM",
+   "isha": "9:31 PM"
+  }
+ },
+ "Masjid Salman Al Farsi (GA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:30 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:30 PM",
+   "maghrib": "5:36 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {
+   "fajr": "6:30 AM",
+   "dhuhr": "2:00 PM",
+   "maghrib": "5:36 PM",
+   "isha": "9:30 PM"
+  }
+ },
+ "Fort Dodge Islamic Center (IA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:50 AM",
+   "dhuhr": "2:30 PM",
+   "asr": "6:45 PM",
+   "maghrib": "4:55 PM",
+   "isha": "10:45 PM"
+  },
+  "shown": {}
+ },
+ "Baitul Ateeq Learning Center (IL)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:30 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "4:30 PM",
+   "maghrib": "4:31 PM",
+   "isha": "8:00 PM"
+  },
+  "shown": {
+   "fajr": "6:30 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "4:31 PM",
+   "isha": "8:00 PM"
+  }
+ },
+ "Bradley MSA (IL)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:42 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:45 PM",
+   "maghrib": "4:42 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {}
+ },
+ "Center For Islamic Teachings And Community Development (IL)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:09 AM",
+   "dhuhr": "11:36 AM",
+   "asr": "2:45 PM",
+   "maghrib": "4:26 PM",
+   "isha": "9:15 PM"
+  },
+  "shown": {
+   "fajr": "5:09 AM",
+   "dhuhr": "11:36 AM",
+   "asr": "2:45 PM",
+   "maghrib": "4:26 PM"
+  }
+ },
+ "Chicago Mosque (IL)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:15 AM",
+   "dhuhr": "12:30 PM",
+   "asr": "5:00 PM",
+   "maghrib": "4:31 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {}
+ },
+ "Dar-Alhijrah Center Chicago (IL)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "3:42 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "7:00 PM",
+   "maghrib": "4:49 AM",
+   "isha": "10:12 PM"
+  },
+  "shown": {}
+ },
+ "Jamia Masjid of Chicago (IL)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:15 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:30 PM",
+   "maghrib": "4:31 PM",
+   "isha": "10:15 PM"
+  },
+  "shown": {}
+ },
+ "Masjid A Dhun-Noorayn (IL)": {
+  "stale": true,
+  "source": null,
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "3:45 PM",
+   "maghrib": "4:30 PM",
+   "isha": "8:30 PM"
+  },
+  "shown": null
+ },
+ "Masjid Rahmat (IL)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "5:15 PM",
+   "maghrib": "4:31 PM",
+   "isha": "7:30 PM"
+  },
+  "shown": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:15 PM",
+   "maghrib": "4:31 PM",
+   "isha": "7:30 PM"
+  }
+ },
+ "Noor Masjid of Chicago (IL)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:55 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "5:00 PM",
+   "maghrib": "4:31 PM",
+   "isha": "5:57 PM"
+  },
+  "shown": {
+   "fajr": "5:55 AM",
+   "dhuhr": "1:00 PM",
+   "maghrib": "4:31 PM",
+   "isha": "5:57 PM"
+  }
+ },
+ "Granger Musalla (IN)": {
+  "stale": true,
+  "source": null,
+  "listed": {
+   "fajr": "6:45 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "4:00 PM",
+   "maghrib": "5:25 PM",
+   "isha": "7:30 PM"
+  },
+  "shown": null
+ },
+ "Islamic Center of Fort Wayne - Masjid Al Quds (IN)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "2:10 PM",
+   "asr": "6:00 PM",
+   "maghrib": "5:23 PM",
+   "isha": "6:38 PM"
+  },
+  "shown": {}
+ },
+ "Masjid darul ansaar (IN)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "7:30 PM",
+   "maghrib": "5:24 PM",
+   "isha": "11:00 PM"
+  },
+  "shown": {}
+ },
+ "Sand Creek Musalla (IN)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:45 AM",
+   "dhuhr": "3:00 PM",
+   "asr": "6:30 PM",
+   "maghrib": "4:27 PM",
+   "isha": "5:50 PM"
+  },
+  "shown": {}
+ },
+ "Islamic Center Bowling Green (KY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "12:55 PM",
+   "asr": "5:20 PM",
+   "maghrib": "7:10 PM",
+   "isha": "8:30 PM"
+  },
+  "shown": {}
+ },
+ "Darul Arqam (LA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:30 PM",
+   "maghrib": "7:14 PM",
+   "isha": "8:45 PM"
+  },
+  "shown": {}
+ },
+ "MCS Islamic Center (LA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 PM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:15 PM",
+   "maghrib": "5:17 PM",
+   "isha": "7:30 PM"
+  },
+  "shown": {}
+ },
+ "Al Hamed (MA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:00 PM",
+   "maghrib": "8:00 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {}
+ },
+ "AL-Furqan Islamic Center (MA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "2:44 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "4:50 PM",
+   "maghrib": "4:18 PM",
+   "isha": "5:40 PM"
+  },
+  "shown": {}
+ },
+ "At-Taqwa Society (MA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:39 AM",
+   "dhuhr": "11:50 AM",
+   "asr": "2:18 PM",
+   "maghrib": "4:28 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {
+   "fajr": "5:39 AM",
+   "dhuhr": "11:50 AM",
+   "asr": "2:18 PM",
+   "maghrib": "4:28 PM"
+  }
+ },
+ "Harvard University Prayer Room (MA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "12:45 PM",
+   "asr": "3:00 PM",
+   "maghrib": "4:24 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {
+   "fajr": "5:45 AM",
+   "dhuhr": "12:45 PM",
+   "asr": "3:00 PM",
+   "maghrib": "4:24 PM"
+  }
+ },
+ "Masjid Al Falah (MA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:00 PM",
+   "maghrib": "4:46 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Al-Quran (MA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "3:49 AM",
+   "dhuhr": "12:51 PM",
+   "asr": "4:51 PM",
+   "maghrib": "8:15 PM",
+   "isha": "9:52 PM"
+  },
+  "shown": {}
+ },
+ "Islamic Society of Northern Baltimore (MD)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:20 AM",
+   "dhuhr": "1:30 AM",
+   "asr": "5:30 PM",
+   "maghrib": "4:58 PM",
+   "isha": "8:30 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Al Marzia (MD)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "10:00 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:00 PM",
+   "maghrib": "5:26 PM",
+   "isha": "11:00 PM"
+  },
+  "shown": {}
+ },
+ "Insight Flint Musallah (MI)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:41 AM",
+   "dhuhr": "2:30 PM",
+   "asr": "5:45 PM",
+   "maghrib": "5:12 PM",
+   "isha": "6:45 PM"
+  },
+  "shown": {
+   "fajr": "6:41 AM",
+   "dhuhr": "2:30 PM",
+   "maghrib": "5:12 PM",
+   "isha": "6:45 PM"
+  }
+ },
+ "Masjid Darul Quran (MI)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:17 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "7:30 PM",
+   "maghrib": "5:11 PM",
+   "isha": "10:50 PM"
+  },
+  "shown": {}
+ },
+ "Okaland Islamic Community Center (OICC) (MI)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:10 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "7:30 PM",
+   "maghrib": "5:11 PM",
+   "isha": "6:33 PM"
+  },
+  "shown": {
+   "fajr": "6:10 AM",
+   "dhuhr": "2:00 PM",
+   "maghrib": "5:11 PM",
+   "isha": "6:33 PM"
+  }
+ },
+ "Zawiyah Foundation Michigan (MI)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "7:00 PM",
+   "maghrib": "5:14 PM",
+   "isha": "6:35 PM"
+  },
+  "shown": {}
+ },
+ "Eagan Islamic Center (MN)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:16 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "4:55 PM",
+   "maghrib": "7:51 PM",
+   "isha": "9:14 PM"
+  },
+  "shown": {}
+ },
+ "Chapel Hill Islamic Center (NC)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:35 PM",
+   "asr": "5:30 PM",
+   "maghrib": "5:16 PM",
+   "isha": "9:15 PM"
+  },
+  "shown": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:35 PM",
+   "maghrib": "5:16 PM",
+   "isha": "9:15 PM"
+  }
+ },
+ "Community Mosque of High Point (NC)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:45 PM",
+   "maghrib": "8:21 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {}
+ },
+ "Islamic Center of Cary (NC)": {
+  "stale": true,
+  "source": null,
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "3:45 PM",
+   "maghrib": "6:10 PM",
+   "isha": "8:00 PM"
+  },
+  "shown": null
+ },
+ "Islamic Center of Triad (NC)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:05 AM",
+   "dhuhr": "1:35 PM",
+   "asr": "5:26 PM",
+   "maghrib": "8:50 PM",
+   "isha": "10:23 PM"
+  },
+  "shown": {}
+ },
+ "Masjid al hikma (NC)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:40 AM",
+   "dhuhr": "1:16 PM",
+   "asr": "5:01 PM",
+   "maghrib": "8:27 PM",
+   "isha": "9:51 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Qiblatain (NC)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:40 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "4:45 PM",
+   "maghrib": "6:52 PM",
+   "isha": "8:00 PM"
+  },
+  "shown": {
+   "fajr": "6:40 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "4:45 PM",
+   "isha": "8:00 PM"
+  }
+ },
+ "Owoyemi Musollah (NC)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:35 PM",
+   "asr": "5:30 PM",
+   "maghrib": "5:15 PM",
+   "isha": "8:45 PM"
+  },
+  "shown": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:35 PM",
+   "maghrib": "5:15 PM",
+   "isha": "8:45 PM"
+  }
+ },
+ "Bismarck Muslim Community Center (ND)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "3:52 AM",
+   "dhuhr": "1:48 PM",
+   "asr": "6:00 PM",
+   "maghrib": "9:40 PM",
+   "isha": "11:43 PM"
+  },
+  "shown": {}
+ },
+ "Bayonne Masjid and Community Center (NJ)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:50 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:00 PM",
+   "maghrib": "4:40 PM",
+   "isha": "6:04 PM"
+  },
+  "shown": {
+   "fajr": "5:50 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "4:40 PM",
+   "isha": "6:04 PM"
+  }
+ },
+ "Baytul Iman Academy (NJ)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:30 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "4:15 PM",
+   "maghrib": "4:41 PM",
+   "isha": "10:15 PM"
+  },
+  "shown": {}
+ },
+ "Islamic Society of Monmouth County (NJ)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "4:45 PM",
+   "maghrib": "4:39 PM",
+   "isha": "5:58 PM"
+  },
+  "shown": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:15 PM",
+   "maghrib": "4:39 PM",
+   "isha": "5:58 PM"
+  }
+ },
+ "Masjid Al'Nuha (NJ)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:44 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "2:44 PM",
+   "maghrib": "5:04 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {
+   "fajr": "5:44 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "2:44 PM",
+   "maghrib": "5:04 PM"
+  }
+ },
+ "Masjid al-Rayyan (ICHC) (NJ)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "3:15 PM",
+   "maghrib": "4:43 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "3:15 PM",
+   "maghrib": "4:43 PM"
+  }
+ },
+ "Aisha Islamic Center (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:45 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:30 PM",
+   "maghrib": "4:36 PM",
+   "isha": "10:10 PM"
+  },
+  "shown": {}
+ },
+ "Al Noorani Islamic Center of Staten Island (NY)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:20 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:30 PM",
+   "maghrib": "4:35 PM",
+   "isha": "8:30 PM"
+  },
+  "shown": {
+   "fajr": "6:20 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "4:35 PM",
+   "isha": "8:30 PM"
+  }
+ },
+ "Bangla Bazar Masjid (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:15 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "5:30 PM",
+   "maghrib": "4:33 PM",
+   "isha": "10:15 PM"
+  },
+  "shown": {}
+ },
+ "Brooklyn Islamic Center (NY)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:30 AM",
+   "dhuhr": "1:20 PM",
+   "asr": "2:30 PM",
+   "maghrib": "4:44 PM",
+   "isha": "6:04 PM"
+  },
+  "shown": {
+   "dhuhr": "1:20 PM",
+   "asr": "2:30 PM",
+   "maghrib": "4:44 PM",
+   "isha": "6:04 PM"
+  }
+ },
+ "Darul Uloom Niagara Falls (NY)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:45 AM",
+   "dhuhr": "1:45 PM",
+   "asr": "5:00 PM",
+   "maghrib": "4:53 PM",
+   "isha": "8:15 PM"
+  },
+  "shown": {
+   "fajr": "6:45 AM",
+   "dhuhr": "1:45 PM",
+   "maghrib": "4:53 PM",
+   "isha": "8:15 PM"
+  }
+ },
+ "Downtown Islamic Center ( D.I.C) (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:15 PM",
+   "maghrib": "7:41 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {}
+ },
+ "Fawzaan (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "4:45 PM",
+   "maghrib": "7:15 PM",
+   "isha": "8:45 PM"
+  },
+  "shown": {}
+ },
+ "Futa Islamic Center (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:00 PM",
+   "maghrib": "7:40 PM",
+   "isha": "9:15 PM"
+  },
+  "shown": {}
+ },
+ "Gawsul Azam Jame Masjid (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:00 AM",
+   "dhuhr": "1:40 PM",
+   "asr": "7:00 PM",
+   "maghrib": "9:05 PM",
+   "isha": "11:15 PM"
+  },
+  "shown": {}
+ },
+ "Hamlin Park Islamic Center (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:00 PM",
+   "maghrib": "4:53 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {}
+ },
+ "Islamic Center of Brighton Beach (NY)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:15 PM",
+   "maghrib": "4:35 PM",
+   "isha": "8:00 PM"
+  },
+  "shown": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "4:35 PM",
+   "isha": "8:00 PM"
+  }
+ },
+ "Jami Masjid Buffalo (NY)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:30 AM",
+   "dhuhr": "1:35 PM",
+   "asr": "6:15 PM",
+   "maghrib": "4:49 PM",
+   "isha": "8:45 PM"
+  },
+  "shown": {
+   "fajr": "6:30 AM",
+   "dhuhr": "1:35 PM",
+   "maghrib": "4:49 PM",
+   "isha": "8:45 PM"
+  }
+ },
+ "Jamiah Darus Sunnah (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:10 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:15 PM",
+   "maghrib": "4:35 PM",
+   "isha": "9:50 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Al Koaba South Jamaica Islamic Center (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:30 PM",
+   "maghrib": "4:38 PM",
+   "isha": "10:30 PM"
+  },
+  "shown": {}
+ },
+ "Masjid AL-Huda (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:50 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:20 PM",
+   "maghrib": "4:39 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Al-Ikhlas (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:00 PM",
+   "maghrib": "4:33 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Assalam Wal Khair (NY)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "4:30 PM",
+   "maghrib": "6:54 PM",
+   "isha": "8:15 PM"
+  },
+  "shown": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "4:30 PM",
+   "isha": "8:15 PM"
+  }
+ },
+ "Masjid At-Taqwa (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:45 PM",
+   "asr": "6:15 PM",
+   "maghrib": "4:53 PM",
+   "isha": "9:45 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Bilal (NY)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:20 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:30 PM",
+   "maghrib": "4:34 PM",
+   "isha": "8:30 PM"
+  },
+  "shown": {
+   "fajr": "6:20 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "4:34 PM",
+   "isha": "8:30 PM"
+  }
+ },
+ "Masjid Fatima (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:15 AM",
+   "dhuhr": "1:15 PM",
+   "asr": "6:15 PM",
+   "maghrib": "4:36 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {}
+ },
+ "MUNA Center of Amherst (NY)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:15 PM",
+   "maghrib": "4:57 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {}
+ },
+ "Shahjalal Masjid (NY)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "3:45 PM",
+   "maghrib": "4:34 PM",
+   "isha": "7:00 AM"
+  },
+  "shown": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "3:45 PM",
+   "maghrib": "4:34 PM"
+  }
+ },
+ "Woodside Baitul Jannah Masjid (NY)": {
+  "stale": true,
+  "source": null,
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "3:30 PM",
+   "maghrib": "5:39 PM",
+   "isha": "7:15 PM"
+  },
+  "shown": null
+ },
+ "Islamic Society of Lima (OH)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:00 AM",
+   "dhuhr": "1:45 PM",
+   "asr": "6:00 PM",
+   "maghrib": "9:30 PM",
+   "isha": "10:50 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Imaan (OH)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:12 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "4:10 PM",
+   "maghrib": "6:34 PM",
+   "isha": "7:50 PM"
+  },
+  "shown": {
+   "fajr": "6:12 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "4:10 PM",
+   "isha": "7:50 PM"
+  }
+ },
+ "Islamic Society of Norman (OK)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:30 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "5:30 PM",
+   "maghrib": "5:28 PM",
+   "isha": "9:15 PM"
+  },
+  "shown": {
+   "fajr": "6:30 AM",
+   "dhuhr": "2:00 PM",
+   "maghrib": "5:28 PM",
+   "isha": "9:15 PM"
+  }
+ },
+ "AbuBakar Islamic Center PDX (OR)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:10 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:15 PM",
+   "maghrib": "4:45 PM",
+   "isha": "6:02 PM"
+  },
+  "shown": {
+   "fajr": "6:10 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "4:45 PM",
+   "isha": "6:02 PM"
+  }
+ },
+ "Islamic Center of Portland - Masjid As-Saber (OR)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:10 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "4:45 PM",
+   "maghrib": "4:46 PM",
+   "isha": "6:12 PM"
+  },
+  "shown": {
+   "fajr": "6:10 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "4:46 PM",
+   "isha": "6:12 PM"
+  }
+ },
+ "Joel Valle (OR)": {
+  "stale": true,
+  "source": null,
+  "listed": {
+   "fajr": "2:46 AM",
+   "dhuhr": "8:52 AM",
+   "asr": "11:10 AM",
+   "maghrib": "1:31 PM",
+   "isha": "2:57 PM"
+  },
+  "shown": null
+ },
+ "Towhid Islamic Center (OR)": {
+  "stale": true,
+  "source": null,
+  "listed": {
+   "fajr": "5:53 AM",
+   "dhuhr": "12:30 PM",
+   "asr": "2:45 PM",
+   "maghrib": "5:00 PM",
+   "isha": "6:24 PM"
+  },
+  "shown": null
+ },
+ "Al Rawdah Islamic Center (PA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:55 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "4:45 PM",
+   "maghrib": "4:45 PM",
+   "isha": "6:20 PM"
+  },
+  "shown": {
+   "fajr": "5:55 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "4:45 PM",
+   "isha": "6:20 PM"
+  }
+ },
+ "Alrashidden Islamic center (PA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:40 AM",
+   "dhuhr": "1:22 PM",
+   "asr": "5:15 PM",
+   "maghrib": "8:25 PM",
+   "isha": "9:51 PM"
+  },
+  "shown": {}
+ },
+ "Islamic Community Center of Lancaster (PA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:00 PM",
+   "maghrib": "4:51 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {}
+ },
+ "Light of the Age masjid Nur az-Zamaan (PA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "5:30 PM",
+   "maghrib": "5:07 PM",
+   "isha": "9:45 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Al Iman Pennsylvania (PA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:00 PM",
+   "maghrib": "7:00 PM",
+   "isha": "8:45 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Muhammad (PA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:15 AM",
+   "dhuhr": "1:19 PM",
+   "asr": "5:06 PM",
+   "maghrib": "7:58 PM",
+   "isha": "9:19 PM"
+  },
+  "shown": {}
+ },
+ "Rihlatul Ilm Foundation Mosque (PA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:30 PM",
+   "maghrib": "4:44 PM",
+   "isha": "10:20 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Al-Rahman Rhode Island (RI)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "1:00 PM",
+   "asr": "5:00 PM",
+   "maghrib": "4:26 PM",
+   "isha": "8:30 PM"
+  },
+  "shown": {
+   "fajr": "5:30 AM",
+   "dhuhr": "1:00 PM",
+   "maghrib": "4:26 PM",
+   "isha": "8:30 PM"
+  }
+ },
+ "Muslim Community of Maryville (MCM)- Masjid Ar-Rahmah (TN)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "7:00 AM",
+   "dhuhr": "1:45 PM",
+   "asr": "5:30 PM",
+   "maghrib": "5:36 PM",
+   "isha": "9:15 PM"
+  },
+  "shown": {
+   "fajr": "7:00 AM",
+   "dhuhr": "1:45 PM",
+   "maghrib": "5:36 PM",
+   "isha": "9:15 PM"
+  }
+ },
+ "Anna Islamic Center (TX)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:30 PM",
+   "maghrib": "5:31 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {}
+ },
+ "Crescent Connection Academy (TX)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:30 AM",
+   "maghrib": "5:33 PM",
+   "isha": "10:00 AM"
+  },
+  "shown": {}
+ },
+ "DFW Islamic Center (NMAD) (TX)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:15 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:17 PM",
+   "maghrib": "5:59 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {}
+ },
+ "East Texas Islamic Society (ETIS) (TX)": {
+  "stale": true,
+  "source": null,
+  "listed": {
+   "fajr": "6:45 AM",
+   "dhuhr": "1:45 PM",
+   "asr": "5:30 PM",
+   "maghrib": "7:30 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": null
+ },
+ "Islamic Center of Forney (TX)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:00 PM",
+   "maghrib": "5:30 PM",
+   "isha": "9:40 PM"
+  },
+  "shown": {}
+ },
+ "Islamic Center of Hays County (TX)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:30 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:15 PM",
+   "maghrib": "5:43 PM",
+   "isha": "9:15 PM"
+  },
+  "shown": {
+   "fajr": "6:30 AM",
+   "dhuhr": "2:00 PM",
+   "maghrib": "5:43 PM",
+   "isha": "9:15 PM"
+  }
+ },
+ "Islamic center of Rowlett (TX)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:00 PM",
+   "maghrib": "5:29 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {}
+ },
+ "Islamic Society of Triplex – Beaumont Mosque (TX)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:40 AM",
+   "dhuhr": "1:35 PM",
+   "asr": "6:00 PM",
+   "maghrib": "5:29 PM",
+   "isha": "8:45 PM"
+  },
+  "shown": {
+   "fajr": "6:40 AM",
+   "dhuhr": "1:35 PM",
+   "maghrib": "5:29 PM",
+   "isha": "8:45 PM"
+  }
+ },
+ "Makkah Masjid of Garland (TX)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:45 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "7:00 PM",
+   "maghrib": "5:23 PM",
+   "isha": "10:30 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Al-Ahad (TX)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:45 PM",
+   "asr": "6:15 PM",
+   "maghrib": "5:30 PM",
+   "isha": "8:50 PM"
+  },
+  "shown": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:45 PM",
+   "maghrib": "5:30 PM",
+   "isha": "8:50 PM"
+  }
+ },
+ "Masjid Ayesha (TX)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:30 PM",
+   "maghrib": "5:30 PM",
+   "isha": "9:50 PM"
+  },
+  "shown": {}
+ },
+ "Masjid ul Mumineen (TX)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:45 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "5:30 PM",
+   "maghrib": "5:33 PM",
+   "isha": "8:45 PM"
+  },
+  "shown": {
+   "fajr": "6:45 AM",
+   "dhuhr": "2:00 PM",
+   "maghrib": "5:33 PM",
+   "isha": "8:45 PM"
+  }
+ },
+ "Muslim Children Education & Civic Center (TX)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:50 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "6:00 PM",
+   "maghrib": "5:43 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {}
+ },
+ "Riverstone Musullah (TX)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "1:45 PM",
+   "asr": "6:30 PM",
+   "maghrib": "5:36 PM",
+   "isha": "9:50 PM"
+  },
+  "shown": {}
+ },
+ "Sufaraa - McKinney (TX)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "7:00 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "5:30 PM",
+   "maghrib": "5:28 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {
+   "fajr": "7:00 AM",
+   "dhuhr": "2:00 PM",
+   "maghrib": "5:28 PM",
+   "isha": "9:00 PM"
+  }
+ },
+ "Tajweed Institute (TX)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "5:15 PM",
+   "maghrib": "5:35 PM",
+   "isha": "9:45 PM"
+  },
+  "shown": {
+   "fajr": "5:45 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "5:15 PM",
+   "maghrib": "5:35 PM"
+  }
+ },
+ "ADAMS Gainesville (VA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:30 PM",
+   "maghrib": "8:38 PM",
+   "isha": "10:15 PM"
+  },
+  "shown": {}
+ },
+ "AQSA Center (VA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "12:10 PM",
+   "asr": "2:48 PM",
+   "maghrib": "4:57 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {
+   "fajr": "6:00 AM",
+   "dhuhr": "12:10 PM",
+   "asr": "2:48 PM",
+   "maghrib": "4:57 PM"
+  }
+ },
+ "Islamic Center of Culpeper (VA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:45 PM",
+   "maghrib": "4:56 PM",
+   "isha": "9:00 PM"
+  },
+  "shown": {
+   "fajr": "6:00 AM",
+   "dhuhr": "1:30 PM",
+   "maghrib": "4:56 PM",
+   "isha": "9:00 PM"
+  }
+ },
+ "MAS DC Community Center (VA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:30 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:00 PM",
+   "maghrib": "4:57 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Bilal of Richmond Virginia (VA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:00 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:30 PM",
+   "maghrib": "8:30 PM",
+   "isha": "10:15 PM"
+  },
+  "shown": {}
+ },
+ "Mustafa Center (VA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "4:45 AM",
+   "dhuhr": "1:30 AM",
+   "asr": "6:30 AM",
+   "maghrib": "4:52 PM",
+   "isha": "10:00 AM"
+  },
+  "shown": {}
+ },
+ "Peace Islamic Center (VA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:15 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:30 PM",
+   "maghrib": "4:57 PM",
+   "isha": "9:30 PM"
+  },
+  "shown": {}
+ },
+ "Prince William Islamic Center (VA)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:15 AM",
+   "dhuhr": "12:30 PM",
+   "asr": "3:00 PM",
+   "maghrib": "5:00 PM",
+   "isha": "7:30 PM"
+  },
+  "shown": {
+   "dhuhr": "12:30 PM",
+   "asr": "3:00 PM",
+   "maghrib": "5:00 PM",
+   "isha": "7:30 PM"
+  }
+ },
+ "Islamic Center of Eastside (ICOE North) (WA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:30 PM",
+   "maghrib": "8:05 PM",
+   "isha": "9:45 PM"
+  },
+  "shown": {}
+ },
+ "Islamic Center of Eastside (ICOE) (WA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:45 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "6:30 PM",
+   "maghrib": "8:05 PM",
+   "isha": "9:45 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Al-Nur Islamic Center of Olympia (WA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "3:45 AM",
+   "dhuhr": "1:30 PM",
+   "asr": "5:30 PM",
+   "maghrib": "9:25 PM",
+   "isha": "11:25 PM"
+  },
+  "shown": {}
+ },
+ "Masjid Madeena (WA)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "6:15 AM",
+   "dhuhr": "1:40 PM",
+   "asr": "6:15 PM",
+   "maghrib": "4:30 PM",
+   "isha": "9:15 PM"
+  },
+  "shown": {}
+ },
+ "Al Taqwa Masjid Islamic Center (WI)": {
+  "stale": true,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:05 AM",
+   "dhuhr": "1:25 PM",
+   "asr": "5:20 PM",
+   "maghrib": "8:30 PM",
+   "isha": "10:00 PM"
+  },
+  "shown": {}
+ }
+}

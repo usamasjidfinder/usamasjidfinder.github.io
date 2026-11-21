@@ -8961,13 +8961,13 @@
 "city": "Old Town Manassas",
 "state": "VA",
 "country": "US",
-"longitude": "-77.3703",
-"latitude": "38.6766",
+"longitude": "-77.3702",
+"latitude": "38.6767",
 "zipcode": "20112",
 "phone": "703-580-0808",
 "meta": "Muslim Association of Virginia",
 "email": "-",
-"website_url": "https://www.daralnoor.org/ ",
+"website_url": "https://www.daralnoor.org",
 "event_url": "-",
 "donation_url": "https://www.daralnoor.org/donate-now/",
 "audio_url": "-",
@@ -38887,43 +38887,6 @@
 }
 },
 {
-"id": "PAPybNdJ",
-"uuid": "fa3791a9-cbce-4122-8ecc-db601603a892",
-"name": "Masjid of Ummah",
-"address": "207 E Center St",
-"city": "Itasca",
-"state": "Illinois",
-"country": "US",
-"longitude": "-88.0113",
-"latitude": "41.9733",
-"zipcode": "60143",
-"phone": "7737714204",
-"meta": "-",
-"email": "masjidofummah@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "https://masjidal.com/widget/monthly/?masjid_id=PAPybNdJ",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "OA8n1rKp",
 "uuid": "604f5619-89d5-41fc-b60e-9844318772de",
 "name": "Masjid of Waltham",
@@ -40844,6 +40807,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "PAPybNdJ",
+"uuid": "fa3791a9-cbce-4122-8ecc-db601603a892",
+"name": "Masjid Ummah",
+"address": "207 E Center St",
+"city": "Itasca",
+"state": "Illinois",
+"country": "US",
+"longitude": "-88.0113",
+"latitude": "41.9733",
+"zipcode": "60143",
+"phone": "7737714204",
+"meta": "-",
+"email": "masjidofummah207@gmail.com",
+"website_url": "http://Masjidofummah.com",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "https://masjidal.com/widget/monthly/?masjid_id=PAPybNdJ",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -46186,10 +46186,10 @@
 "longitude": "-122.4898",
 "latitude": "45.5043",
 "zipcode": "97236",
-"phone": "-",
+"phone": "9715638846",
 "meta": "-",
 "email": "mocarries1@gmail.com",
-"website_url": "-",
+"website_url": "https://www.ormms.org/",
 "event_url": "-",
 "donation_url": "-",
 "audio_url": "-",
@@ -46197,7 +46197,7 @@
 "app_premium_features": false,
 "premium_features": {
 "app": false,
-"slideshow": false,
+"slideshow": true,
 "donation_app": false
 },
 "is_shell_account": false,

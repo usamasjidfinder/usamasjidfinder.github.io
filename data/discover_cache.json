@@ -1,4 +1,10 @@
 {
+"http://Masjidofummah.com": {
+"at": "2026-11-21",
+"found": {
+"masjidal_id": "PAPybNdJ"
+}
+},
 "http://aiiav.org/": {
 "at": "2026-11-17",
 "found": {}
@@ -1109,6 +1115,10 @@
 },
 "https://almadinauniversity.com": {
 "at": "2026-11-17",
+"found": {}
+},
+"https://almasjid.com": {
+"at": "2026-11-21",
 "found": {}
 },
 "https://alnooric.org": {
@@ -3736,6 +3746,12 @@
 "at": "2026-11-17",
 "found": {}
 },
+"https://www.daralnoor.org": {
+"at": "2026-11-21",
+"found": {
+"site_error": "HTTP Error 403: Forbidden"
+}
+},
 "https://www.daralnoor.org/": {
 "at": "2026-11-17",
 "found": {
@@ -5115,6 +5131,10 @@
 },
 "https://www.occofwa.com/": {
 "at": "2026-11-17",
+"found": {}
+},
+"https://www.ormms.org/": {
+"at": "2026-11-21",
 "found": {}
 },
 "https://www.phillymosque.com/": {
