@@ -1086,6 +1086,67 @@
       "state": "GA",
       "masjiddashboard_id": "69f14200695396797fb6b0a4",
       "ref": "IICC - Masjid Al Ikhlas (Norcross). Masjidal account stale on 2026-11-19 (Asr 6:00 PM, Isha 7:02 PM); ikmia.org uses MasjidDashboard."
+    },
+    {
+      "name": "Islamic Center of Irmo (Umm Zaher Masjid)",
+      "address": "7232 Broad River Rd, Irmo, SC 29063",
+      "city": "Irmo",
+      "zip": "29063",
+      "state": "SC",
+      "lat": 34.095022,
+      "lon": -81.157627,
+      "phone": "954-304-7043",
+      "ref": "From the Muslims of Columbia directory (muslimsofcolumbia.com/directory/?need=pray), added 2026-11-20. Daily prayers; Friday prayer only as a special arrangement for school kids."
+    },
+    {
+      "name": "Masjid Al Quran",
+      "address": "6411 Shakespeare Rd, Columbia, SC 29223",
+      "city": "Columbia",
+      "zip": "29223",
+      "state": "SC",
+      "lat": 34.059827,
+      "lon": -80.970714,
+      "phone": "803-464-5684",
+      "ref": "From the Muslims of Columbia directory (muslimsofcolumbia.com/directory/?need=pray), added 2026-11-20 (location: US Census geocoder)"
+    },
+    {
+      "name": "Masjid Al Wadud",
+      "address": "510 Pilgrim Rd, Columbia, SC 29223",
+      "city": "Columbia",
+      "zip": "29223",
+      "state": "SC",
+      "lat": 34.0939083,
+      "lon": -80.9259511,
+      "phone": "803-553-3106",
+      "ref": "From the Muslims of Columbia directory (muslimsofcolumbia.com/directory/?need=pray), added 2026-11-20. APPROXIMATE location: 510 Pilgrim Rd is not in OpenStreetMap or the Census geocoder, so this is the centre of ZIP 29223; fix lat/lon when known."
+    },
+    {
+      "name": "Masjid Ar Rahman",
+      "address": "3307 Percival Rd, Columbia, SC 29223",
+      "city": "Columbia",
+      "zip": "29223",
+      "state": "SC",
+      "lat": 34.072718,
+      "lon": -80.892169,
+      "phone": "803-553-3106",
+      "ref": "From the Muslims of Columbia directory (muslimsofcolumbia.com/directory/?need=pray), added 2026-11-20 (location: US Census geocoder)"
+    },
+    {
+      "name": "Masjid Noor ul Huda",
+      "address": "800 Amberley Rd, Columbia, SC 29203",
+      "city": "Columbia",
+      "zip": "29203",
+      "state": "SC",
+      "lat": 34.0581926,
+      "lon": -81.0338417,
+      "phone": "803-754-2632",
+      "ref": "From the Muslims of Columbia directory (muslimsofcolumbia.com/directory/?need=pray), added 2026-11-20 (location: Amberley Rd in OpenStreetMap; house number not mapped)"
+    },
+    {
+      "name": "Masjid al-Muslimiin",
+      "state": "SC",
+      "website": "https://almasjid.com",
+      "ref": "From the Muslims of Columbia directory (muslimsofcolumbia.com/directory/?need=pray), added 2026-11-20: website"
     }
   ],
   "_watch_help": "jumuah_watch: {url, label} or {url, seen}. Each daily run re-reads the page. With label ('<label> at <time>'), a new time replaces the hand entry. With seen (the midday times found next to Jumu'ah words when it was set up), the hand entry stays and any difference opens a GitHub issue. A page that is gone or unreadable also opens an issue.",

@@ -285,11 +285,35 @@ function jumuahHtml(m) {
   }).join("") + `<span class="none" style="font-size:11px">${esc(m.jumuah_source || "")}</span>`;
 }
 
-function dayTable(day) {
+// Iqamah outside its prayer's window can't be right (Asr after sunset, Fajr before dawn): same rule as fetch.py
+const NEXT = {fajr: "sunrise", dhuhr: "asr", asr: "maghrib", maghrib: "isha"};
+function badIqamah(day) {
+  const a = day.adhan || {};
+  return Object.entries(day.iqamah || {}).filter(([k, v]) => {
+    let q = mins(v); const start = mins(a[k]);
+    if (q == null || start == null) return false;
+    if (k === "isha") { if (q < 240) q += 1440; return !(start - 10 <= q && q <= start + 180); }
+    const end = mins(a[NEXT[k]]), early = {fajr: 20, asr: 50}[k] ?? 5;  // 18-degree Fajr, Hanafi Asr
+    return end != null && !(start - early <= q && q < end);
+  }).map(([k]) => k);
+}
+const STALE_NOTE = "Iqamah not shown: the times this masjid lists online can't be right today (for example Asr after sunset), so they look out of date. Jumu'ah may be out of date too. Call or check the website.";
+const SOME_NOTE = "Some iqamah times aren't shown because they fall outside their prayer's time today. Call or check the website.";
+function dropBadIqamah(m, days) {
+  if (!m.iqamah_stale) m.iqamah_note = null;
+  if (m.iqamah_stale || (days[0] && badIqamah(days[0]).length >= 2)) {
+    days.forEach(d => d.iqamah = {}); m.iqamah_stale = true; m.iqamah_note = STALE_NOTE; return;
+  }
+  let hid = false;
+  days.forEach(d => badIqamah(d).forEach(k => { delete d.iqamah[k]; hid = true; }));
+  if (hid) m.iqamah_note = SOME_NOTE;
+}
+function dayTable(day, m) {
   const iq = day.iqamah || {}, hasIq = Object.values(iq).some(Boolean);
   return `<table><tr><th scope="col">Prayer</th><th scope="col">Adhan</th><th scope="col">Iqamah</th></tr>` +
     PRAYERS.map(([k, n]) => `<tr><td>${n}</td><td>${esc(day.adhan?.[k] || "—")}</td><td class="${hasIq ? (hitIq(iq[k]) ? "hit" : "") : "na"}">${k === "sunrise" ? "" : esc(iq[k] || "—")}</td></tr>`).join("") +
-    "</table>" + (hasIq ? "" : `<div class="iqnote">Iqamah times aren't published online. Call or check the masjid's website.</div>`);
+    "</table>" + (m?.iqamah_note ? `<div class="iqnote">${esc(m.iqamah_note)}</div>`
+      : hasIq ? "" : `<div class="iqnote">Iqamah times aren't published online. Call or check the masjid's website.</div>`);
 }
 
 // ---- feedback goes to the USA Masjid Finder Google Form; responses land in its Google Sheet
@@ -345,7 +369,7 @@ function card(m) {
   const ev = (m.events || []).length
     ? `<ul class="events">${m.events.slice(0, 5).map(e => `<li><time>${esc((e.start || "").slice(0, 16).replace("T", " "))}</time>${e.url ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>` : esc(e.title)}</li>`).join("")}</ul>`
     : `<span class="meta">No upcoming events published online.</span>`;
-  const week = rest.map(d => `<div class="sect" style="margin-top:8px">${esc(d.date)}</div>${dayTable(d)}`).join("");
+  const week = rest.map(d => `<div class="sect" style="margin-top:8px">${esc(d.date)}</div>${dayTable(d, m)}`).join("");
   const dist = distOf(m);
   return `<article class="card" data-card="${esc(m.id)}">
     <div>
@@ -356,7 +380,7 @@ function card(m) {
     <div><div class="sect">Jumu'ah (Friday)</div><div class="jum">${jumuahHtml(m)}</div></div>
     ${day ? `<div><div class="sect">${esc(day.date)}${day.hijri ? " · " + esc(day.hijri) : ""} &nbsp;
       <span class="badge ${calc ? "calc" : "live"}">${calc ? "Calculated" : "Live"}</span></div>
-      ${dayTable(day)}${week ? `<details><summary>Next ${rest.length} days</summary>${week}</details>` : ""}</div>` : ""}
+      ${dayTable(day, m)}${week ? `<details><summary>Next ${rest.length} days</summary>${week}</details>` : ""}</div>` : ""}
     <div><div class="sect">Upcoming events</div>${ev}</div>
     ${feedbackHtml(m)}
   </article>`;
@@ -383,6 +407,13 @@ async function fetchLive(m) {
       adhan: {fajr: nt(s.fajr), sunrise: nt(s.sunrise), dhuhr: nt(s.zuhr), asr: nt(s.asr), maghrib: nt(s.maghrib), isha: nt(s.isha)},
       iqamah: {fajr: nt(q.fajr), dhuhr: nt(q.zuhr), asr: nt(q.asr), maghrib: nt(q.maghrib), isha: nt(q.isha)} }; });
     if (!days.some(d => Object.values(d.adhan).some(Boolean))) return;
+    days.forEach(d => { for (const k in d.iqamah) if (!d.iqamah[k]) delete d.iqamah[k]; });
+    if (m.lat != null) {  // a timetable whose sunrise/sunset is off is on the wrong clock: keep the calculated times
+      const c = calcTimes(from, m.lat, m.lon, tz), a = days[0].adhan;
+      const off = Math.max(...["sunrise", "maghrib"].map(k => mins(a[k]) != null && mins(c[k]) != null ? Math.abs(mins(a[k]) - mins(c[k])) : 0));
+      if (off > 25) { m.iqamah_stale = true; m.iqamah_note = `Times not shown from this masjid's online timetable: its sunrise and sunset are off by ${Math.round(off / 5) * 5} minutes (likely a wrong clock or time zone), so adhan times are calculated and iqamah is hidden. Call or check the website.`; return; }
+    }
+    dropBadIqamah(m, days);
     m.days = days; m._days = null; m.timing_source = "Masjidal (live)";
     const q0 = j.data.iqamah[0] || {};
     const jm = Object.keys(q0).filter(k => k.startsWith("jummah")).sort().map(k => nt(q0[k])).filter((v, i, all) => v && all.indexOf(v) === i);

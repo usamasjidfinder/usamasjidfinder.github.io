@@ -291,6 +291,81 @@ def src_masjiddashboard(cid, today, n=7):
     return {"days": days, "jumuah": jumuah, "source": "MasjidDashboard (the masjid's website)"}
 
 
+def sun_minutes(d, lat, lon, tz):
+    """Local sunrise/sunset (minutes after midnight) by the NOAA solar equations."""
+    n = d.timetuple().tm_yday
+    g = 2 * math.pi / 365 * (n - 1)
+    eqt = 229.18 * (0.000075 + 0.001868 * math.cos(g) - 0.032077 * math.sin(g) - 0.014615 * math.cos(2 * g) - 0.040849 * math.sin(2 * g))
+    decl = 0.006918 - 0.399912 * math.cos(g) + 0.070257 * math.sin(g) - 0.006758 * math.cos(2 * g) + 0.000907 * math.sin(2 * g) - 0.002697 * math.cos(3 * g) + 0.00148 * math.sin(3 * g)
+    la = math.radians(lat)
+    ha = math.degrees(math.acos(math.cos(math.radians(90.833)) / (math.cos(la) * math.cos(decl)) - math.tan(la) * math.tan(decl)))
+    off = dt.datetime(d.year, d.month, d.day, 12, tzinfo=ZoneInfo(tz)).utcoffset().total_seconds() / 60
+    noon = 720 - 4 * lon - eqt + off
+    return noon - 4 * ha, noon + 4 * ha
+
+
+_OFF_NOTE = ("Times not shown from this masjid's online timetable: its sunrise and sunset are off by "
+             "{n} minutes (likely a wrong clock or time zone), so adhan times are calculated and iqamah is hidden. "
+             "Call or check the website.")
+_STALE_NOTE = ("Iqamah not shown: the times this masjid lists online can't be right today (for example Asr after "
+               "sunset), so they look out of date. Jumu'ah may be out of date too. Call or check the website.")
+_SOME_NOTE = "Some iqamah times aren't shown because they fall outside their prayer's time today. Call or check the website."
+
+
+def bad_iqamah(day):
+    """Prayers whose iqamah falls outside that prayer's window (e.g. Asr after sunset, Fajr before dawn):
+    the sign of a schedule nobody updated since summer, or a typo like 1:30 AM."""
+    a = {k: minutes(v) for k, v in (day.get("adhan") or {}).items()}
+    nxt = {"fajr": "sunrise", "dhuhr": "asr", "asr": "maghrib", "maghrib": "isha"}
+    bad = []
+    for k, v in (day.get("iqamah") or {}).items():
+        q, start = minutes(v), a.get(k)
+        if q is None or start is None:
+            continue
+        if k == "isha":
+            q += 1440 if q < 240 else 0  # 12:30 AM is after Isha, not before it
+            ok = start - 10 <= q <= start + 180
+        else:
+            end = a.get(nxt.get(k))
+            early = {"fajr": 20, "asr": 50}.get(k, 5)  # 18-degree Fajr and Hanafi Asr shift the adhan
+            ok = end is None or start - early <= q < end
+        if not ok:
+            bad.append(k)
+    return bad
+
+
+def drop_bad_iqamah(m):
+    """Hide impossible iqamah times. Two or more on today's timetable means the whole schedule is stale."""
+    days = m.get("days") or []
+    if not days:
+        return
+    if m.get("lat") is not None:  # a timetable whose sunrise/sunset is off is on the wrong clock entirely
+        try:
+            d0 = dt.datetime.strptime(days[0]["date"], "%A, %b %d, %Y").date()
+            sr, ss = sun_minutes(d0, m["lat"], m["lon"], m["tz"])
+            a = days[0].get("adhan") or {}
+            off = max(abs(minutes(a["sunrise"]) - sr) if minutes(a.get("sunrise")) is not None else 0,
+                      abs(minutes(a["maghrib"]) - ss) if minutes(a.get("maghrib")) is not None else 0)
+        except (ValueError, KeyError):
+            off = 0
+        if off > 25:
+            m["days"], m["timing_source"] = [], None
+            m["iqamah_stale"], m["iqamah_note"] = True, _OFF_NOTE.format(n=round(off / 5) * 5)
+            return
+    if len(bad_iqamah(days[0])) >= 2:
+        for d in days:
+            d["iqamah"] = {}
+        m["iqamah_stale"], m["iqamah_note"] = True, _STALE_NOTE
+        return
+    hid = False
+    for d in days:
+        for k in bad_iqamah(d):
+            d["iqamah"].pop(k, None)
+            hid = True
+    if hid:
+        m["iqamah_note"] = _SOME_NOTE
+
+
 def _text(h):
     h = re.sub(r"<script.*?</script>|<style.*?</style>", " ", h, flags=re.S | re.I)
     h = re.sub(r"<[^>]+>", " ", h)
@@ -784,6 +859,8 @@ def enrich(m, disc):
             m["events"] += src_wp_events(m["events_wp"], today)
         except Exception as e:
             m["errors"].append(f"events: {str(e)[:100]}")
+    m["iqamah_before"] = [dict(d.get("iqamah") or {}) for d in (m.get("days") or [])[:1]]
+    drop_bad_iqamah(m)
     if m.get("jumuah_watch") and not m.get("jumuah_source"):
         a = watch_jumuah(m)
         if a:
@@ -804,7 +881,7 @@ def enrich(m, disc):
 
 
 KEEP = ["id", "name", "aka", "address", "city", "state", "lat", "lon", "tz", "phone", "website",
-        "masjidal_id", "mohid_url", "jumuah", "jumuah_source", "days", "timing_source", "events", "live"]
+        "masjidal_id", "mohid_url", "jumuah", "jumuah_source", "days", "timing_source", "iqamah_note", "iqamah_stale", "events", "live"]
 
 
 def main():
@@ -830,6 +907,12 @@ def main():
     }
     (DATA / "masajid.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")))
     (DATA / "masajid.js").write_text("window.MASAJID = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    hidden = {f"{m['name']} ({m['state']})": {"stale": bool(m.get("iqamah_stale")), "source": m.get("timing_source"),
+              "listed": (m.get("iqamah_before") or [{}])[0], "shown": (m.get("days") or [{}])[0].get("iqamah")}
+              for m in mosques if m.get("iqamah_note")}
+    (DATA / "iqamah_hidden.json").write_text(json.dumps(hidden, indent=1, ensure_ascii=False))
+    log(f"Iqamah hidden: {sum(v['stale'] for v in hidden.values())} stale schedules, "
+        f"{sum(not v['stale'] for v in hidden.values())} with single bad times (data/iqamah_hidden.json)")
     alerts = {f"{m['name']} ({m['state']})": m["watch_alert"] for m in mosques if m.get("watch_alert")}
     (DATA / "watch_alerts.json").write_text(json.dumps(alerts, indent=1, ensure_ascii=False))
     for k, v in alerts.items():
