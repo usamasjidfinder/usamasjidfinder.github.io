@@ -91,10 +91,33 @@ footer a{color:var(--accent)}
   .searchrow label.grow{flex:1} .searchrow .lbl{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
   input[type=search]{width:100%;height:38px;font-size:16px}
   .mobile-only{display:inline-flex}
+  #qiblaBtn span{display:none} #qiblaBtn{padding-inline:10px}
   .filters{display:none;padding-bottom:4px;max-height:55vh;overflow-y:auto} .filters.open{display:flex}
   .filters label{flex:1 1 140px} .filters .chk{flex:1 1 auto}
   .states{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
+/* qibla panel */
+dialog.qibla{border:1px solid var(--line);border-radius:14px;background:var(--card);color:var(--ink);padding:0;width:min(400px,calc(100vw - 32px));max-height:calc(100dvh - 32px);overflow:auto}
+dialog.qibla::backdrop{background:rgba(0,0,0,.45)}
+.qb-head{display:flex;justify-content:space-between;align-items:center;padding:14px 16px 4px}
+.qb-head h2{margin:0;font-size:18px}
+.qb-x{font:inherit;font-size:22px;line-height:1;background:none;border:0;color:var(--muted);cursor:pointer;padding:4px 8px}
+.qb-body{padding:4px 16px 16px;display:flex;flex-direction:column;gap:12px}
+.qb-rose{width:220px;height:220px;margin:4px auto 0;display:block}
+.qb-rose .ring{fill:var(--accent-soft);stroke:var(--line);stroke-width:2}
+.qb-rose .tick{stroke:var(--muted);stroke-width:2}
+.qb-rose .card-n{fill:var(--ink);font:700 15px var(--font)}
+.qb-rose .card{fill:var(--muted);font:600 13px var(--font)}
+.qb-rose .needle{fill:var(--accent)}
+.qb-rose .hub{fill:var(--card);stroke:var(--accent);stroke-width:3}
+.qb-rose #qbDial{transition:transform .25s ease-out;transform-origin:110px 110px}
+.qb-big{text-align:center;font-size:17px;font-weight:700}
+.qb-big small{display:block;font-weight:500;color:var(--muted);font-size:13px;margin-top:2px}
+.qb-note{font-size:13px;color:var(--muted);text-align:center}
+.qb-btns{display:flex;flex-direction:column;gap:8px}
+.qb-btns .pill{justify-content:center;height:auto;min-height:40px;white-space:normal;text-align:center}
+.qb-btns a.pill{text-decoration:none}
+.qb-src{font-size:11px;color:var(--muted);text-align:center}
 </style>
 </head>
 <body>
@@ -106,6 +129,7 @@ footer a{color:var(--accent)}
   <div class="searchrow">
     <label for="q" class="grow"><span class="lbl">Search name, city or time</span><input type="search" id="q" placeholder="Masjid, city or time" autocomplete="off" enterkeyhint="search"></label>
     <button type="button" class="pill" id="nearBtn" aria-pressed="false">📍<span>Near me</span></button>
+    <button type="button" class="pill" id="qiblaBtn" aria-haspopup="dialog" aria-label="Qibla direction">🧭<span>Qibla</span></button>
     <button type="button" class="pill mobile-only" id="filtBtn" aria-expanded="false" aria-controls="filters">Filters</button>
   </div>
   <div class="filters" id="filters">
@@ -122,6 +146,30 @@ footer a{color:var(--accent)}
   <div class="count" id="count"></div>
   <div id="grid"></div>
 </main>
+<dialog class="qibla" id="qibla" aria-labelledby="qbTitle">
+  <div class="qb-head"><h2 id="qbTitle">🧭 Qibla direction</h2><button type="button" class="qb-x" id="qbClose" aria-label="Close">×</button></div>
+  <div class="qb-body">
+    <svg class="qb-rose" viewBox="0 0 220 220" role="img" aria-labelledby="qbBig">
+      <g id="qbDial">
+        <circle class="ring" cx="110" cy="110" r="100"/>
+        <g id="qbTicks"></g>
+        <text class="card-n" x="110" y="30" text-anchor="middle">N</text>
+        <text class="card" x="196" y="115" text-anchor="middle">E</text>
+        <text class="card" x="110" y="200" text-anchor="middle">S</text>
+        <text class="card" x="24" y="115" text-anchor="middle">W</text>
+        <g id="qbNeedle"><path class="needle" d="M110 34 L121 110 L110 102 L99 110 Z"/><text x="110" y="52" text-anchor="middle" font-size="16">🕋</text></g>
+      </g>
+      <circle class="hub" cx="110" cy="110" r="9"/>
+    </svg>
+    <div class="qb-big" id="qbBig" aria-live="polite">Finding your location…</div>
+    <div class="qb-note" id="qbNote"></div>
+    <div class="qb-btns">
+      <button type="button" class="pill" id="qbCompass" hidden>📱 Use phone compass</button>
+      <a class="pill" id="qbGoogle" href="https://qiblafinder.withgoogle.com/intl/en/finder/ar" target="_blank" rel="noopener">📷 Open Google Qibla Finder (camera view) ↗</a>
+    </div>
+    <div class="qb-src">Direction is the great-circle bearing from your location to the Kaaba in Makkah. Phone compasses can be thrown off by metal, magnets or cases. Move the phone in a figure 8 to calibrate.</div>
+  </div>
+</dialog>
 <footer class="wrap">
   <b>Live</b> times come from each masjid's own Masjidal or Mohid feed. Cards marked <b>Calculated</b> show astronomical adhan times (ISNA, 15°/15°) in the masjid's local time zone, not iqamah, so check with the masjid before you go.
   Mosque list © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a> and Masjidal.
@@ -264,6 +312,76 @@ function locate() {
     render();
   }, {enableHighAccuracy: false, timeout: 12000, maximumAge: 300000});
 }
+
+// ---- Qibla: great-circle bearing to the Kaaba, optionally turned by the phone's compass
+const KAABA = {lat: 21.422487, lon: 39.826206};
+const qiblaBearing = (lat, lon) => { const r = Math.PI / 180, dl = (KAABA.lon - lon) * r;
+  const y = Math.sin(dl) * Math.cos(KAABA.lat * r), x = Math.cos(lat * r) * Math.sin(KAABA.lat * r) - Math.sin(lat * r) * Math.cos(KAABA.lat * r) * Math.cos(dl);
+  return (Math.atan2(y, x) / r + 360) % 360; };
+const compassWord = b => ["north", "northeast", "east", "southeast", "south", "southwest", "west", "northwest"][Math.round(b / 45) % 8];
+let qibla = null, heading = null, compassOn = false, qLoc = null, dialRot = 0;
+// Phone compasses read magnetic north. Approximate US magnetic declination (degrees east), fitted to
+// 2025 values for 24 US cities (within ~3 degrees); Alaska and Hawaii use typical fixed values.
+const declination = (lat, lon) => lat > 51 ? 15 : lon < -150 && lat < 25 ? 9.5
+  : -30.65349 - 0.34523 * lon - 0.56283 * lat - 0.00548 * lon * lat;
+$("qbTicks").innerHTML = Array.from({length: 36}, (_, i) => { const a = i * 10 * Math.PI / 180, r1 = i % 9 ? 92 : 86;
+  return `<line class="tick" x1="${110 + r1 * Math.sin(a)}" y1="${110 - r1 * Math.cos(a)}" x2="${110 + 99 * Math.sin(a)}" y2="${110 - 99 * Math.cos(a)}"/>`; }).join("");
+function drawQibla() {
+  if (qibla == null) return;
+  // dial turns against the phone's heading so N stays north; the needle sits at the qibla bearing on the dial
+  if (heading == null) { dialRot = 0; $("qbDial").style.transform = ""; }
+  else { dialRot += ((-heading - dialRot) % 360 + 540) % 360 - 180; $("qbDial").style.transform = `rotate(${dialRot}deg)`; }  // shortest turn, no spin at north
+  $("qbNeedle").setAttribute("transform", `rotate(${qibla.toFixed(1)} 110 110)`);
+  if (heading != null) {
+    const turn = ((qibla - heading + 540) % 360) - 180;
+    $("qbNote").textContent = Math.abs(turn) <= 5 ? "✅ You're facing the Qibla." : `Turn ${Math.round(Math.abs(turn))}° to the ${turn > 0 ? "right" : "left"}, holding the phone flat.`;
+  }
+}
+function showQibla(lat, lon, where) {
+  qibla = qiblaBearing(lat, lon); qLoc = {lat, lon};
+  $("qbBig").innerHTML = `${Math.round(qibla)}° from true north (${compassWord(qibla)})<small>${where} · ${Math.round(miles(lat, lon, KAABA.lat, KAABA.lon)).toLocaleString()} miles to the Kaaba</small>`;
+  $("qbNote").textContent = "Face the 🕋 arrow, with N on the dial pointing north.";
+  $("qbCompass").hidden = !("DeviceOrientationEvent" in window) || compassOn;
+  drawQibla();
+}
+function onOrient(e) {
+  let h = null;
+  if (typeof e.webkitCompassHeading === "number") h = e.webkitCompassHeading;          // iPhone: degrees from magnetic north
+  else if (e.absolute && typeof e.alpha === "number") h = (360 - e.alpha) % 360;      // Android: absolute orientation
+  if (h == null) return;
+  heading = (h + (qLoc ? declination(qLoc.lat, qLoc.lon) : 0) + 360) % 360; drawQibla();
+}
+async function startCompass() {
+  try {
+    if (typeof DeviceOrientationEvent.requestPermission === "function" && await DeviceOrientationEvent.requestPermission() !== "granted") {
+      $("qbNote").textContent = "Compass access was declined. Use the bearing above, or Google's camera view."; return;
+    }
+  } catch { $("qbNote").textContent = "This browser won't share the compass. Use the bearing above, or Google's camera view."; return; }
+  compassOn = true; $("qbCompass").hidden = true;
+  addEventListener("deviceorientationabsolute", onOrient); addEventListener("deviceorientation", onOrient);
+  $("qbNote").textContent = "Hold the phone flat and turn until the arrow points straight up.";
+  setTimeout(() => { if (heading == null && compassOn) $("qbNote").textContent = "No compass reading from this device. Use the bearing above, or Google's camera view."; }, 3000);
+}
+function openQibla() {
+  const dlg = $("qibla");
+  if (!dlg.open) dlg.showModal ? dlg.showModal() : dlg.setAttribute("open", "");
+  if (here) return showQibla(here.lat, here.lon, "From your location");
+  if (!navigator.geolocation) { $("qbBig").textContent = "This browser can't share your location."; return; }
+  $("qbBig").textContent = "Finding your location…";
+  navigator.geolocation.getCurrentPosition(p => showQibla(p.coords.latitude, p.coords.longitude, "From your location"),
+    err => { $("qbBig").innerHTML = (err.code === 1 ? "Location is blocked, so the direction can't be worked out here."
+      : "Couldn't get your location right now.") + "<small>Google's camera view below can still find the Qibla.</small>"; },
+    {enableHighAccuracy: false, timeout: 12000, maximumAge: 300000});
+}
+function closeQibla() {
+  const dlg = $("qibla"); dlg.close ? dlg.close() : dlg.removeAttribute("open");
+}
+$("qibla").addEventListener("close", () => { compassOn = false; heading = null;
+  removeEventListener("deviceorientationabsolute", onOrient); removeEventListener("deviceorientation", onOrient); });
+$("qiblaBtn").onclick = openQibla;
+$("qbClose").onclick = closeQibla;
+$("qbCompass").onclick = startCompass;
+$("qibla").addEventListener("click", e => { if (e.target === $("qibla")) closeQibla(); });
 
 let hit = () => false, hitIq = () => false;
 
