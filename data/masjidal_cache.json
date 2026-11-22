@@ -28419,13 +28419,13 @@
 "id": "xdy0XnAX",
 "uuid": "06f2df67-824f-4b9b-a7a0-e728f65f4c5d",
 "name": "Masid Al-Taqwa - Ann Arbor",
-"address": "2680 Golfside Rd",
-"city": "Ann Arbor",
+"address": "272 North Hewitt rd",
+"city": "Ypsilanti",
 "state": "Michigan",
 "country": "US",
 "longitude": "-83.6613",
 "latitude": "42.2491",
-"zipcode": "48108",
+"zipcode": "48197",
 "phone": "-",
 "meta": "-",
 "email": "altaqwa@badawi.net",
@@ -30854,6 +30854,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "wLVOPkAJ",
+"uuid": "64cd1d97-9932-4657-8a1f-068e46c9ab50",
+"name": "Masjid Al-Aqsa Islamic Society Of Willmar",
+"address": "1112 Lake Ave NW",
+"city": "Willmar",
+"state": "MN",
+"country": "US",
+"longitude": "-95.0596",
+"latitude": "45.1245",
+"zipcode": "56201",
+"phone": "-",
+"meta": "-",
+"email": "-",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": true,
+"premium_features": {
+"app": true,
+"slideshow": true,
+"donation_app": true
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -33466,10 +33503,10 @@
 "donation_url": "-",
 "audio_url": "-",
 "prayer_timing_url": "-",
-"app_premium_features": false,
+"app_premium_features": true,
 "premium_features": {
-"app": false,
-"slideshow": false,
+"app": true,
+"slideshow": true,
 "donation_app": false
 },
 "is_shell_account": false,
@@ -46446,9 +46483,9 @@
 "latitude": "35.3641",
 "zipcode": "28269",
 "phone": "(980) 987-7171",
-"meta": "Charlotte,Islamic,Masjid,Mosque",
-"email": "info@charlottemcc.org",
-"website_url": "https://www.charlottemcc.org",
+"meta": "Charlotte,Islamic,Masjid,Mosque,Pillars",
+"email": "info@pillarsmosque.org",
+"website_url": "https://pillarsmosque.org/",
 "event_url": "https://calendar.google.com/calendar/u/0/embed?src=events@charlottemcc.org&ctz=America/New_York",
 "donation_url": "https://mcc4.me/masjidal-donate-link",
 "audio_url": "-",

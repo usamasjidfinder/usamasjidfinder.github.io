@@ -1193,6 +1193,10 @@
 "site_error": "HTTP Error 403: Forbidden"
 }
 },
+"https://as-sahabah.org/": {
+"at": "2026-11-22",
+"found": {}
+},
 "https://as-suffahmn.org": {
 "at": "2026-11-17",
 "found": {
@@ -3034,6 +3038,10 @@
 "found": {
 "events_wp": "https://picmasjid.org"
 }
+},
+"https://pillarsmosque.org/": {
+"at": "2026-11-22",
+"found": {}
 },
 "https://planomasjid.org/": {
 "at": "2026-11-17",
