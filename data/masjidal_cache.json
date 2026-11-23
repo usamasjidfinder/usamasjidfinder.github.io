@@ -28419,12 +28419,12 @@
 "id": "xdy0XnAX",
 "uuid": "06f2df67-824f-4b9b-a7a0-e728f65f4c5d",
 "name": "Masid Al-Taqwa - Ann Arbor",
-"address": "272 North Hewitt rd",
+"address": "272 N Hewitt Rd",
 "city": "Ypsilanti",
 "state": "Michigan",
 "country": "US",
-"longitude": "-83.6613",
-"latitude": "42.2491",
+"longitude": "-83.6474",
+"latitude": "42.2411",
 "zipcode": "48197",
 "phone": "-",
 "meta": "-",
@@ -31413,43 +31413,6 @@
 }
 },
 {
-"id": "0AWpy2dj",
-"uuid": "08f4eda0-d5a2-418f-9fd4-f981fe26d33a",
-"name": "Masjid Al-Huda ",
-"address": "73 Portland St",
-"city": "Portland",
-"state": "Maine",
-"country": "United States",
-"longitude": "-70.2648",
-"latitude": "43.6581",
-"zipcode": "04101",
-"phone": "-",
-"meta": "-",
-"email": "masjidalhuda207@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": true,
-"fajr_offset": "10",
-"zuhr_offset": "10",
-"asr_offset": "10",
-"maghrib_offset": "10",
-"isha_offset": "10"
-}
-}
-},
-{
 "id": "wLVp0ydJ",
 "uuid": "1266c9c8-94bb-4651-927a-42c8bb54b68f",
 "name": "MASJID AL-HUDA",
@@ -31483,6 +31446,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "0AWpy2dj",
+"uuid": "08f4eda0-d5a2-418f-9fd4-f981fe26d33a",
+"name": "Masjid Al-Huda ",
+"address": "73 Portland St",
+"city": "Portland",
+"state": "Maine",
+"country": "United States",
+"longitude": "-70.2648",
+"latitude": "43.6581",
+"zipcode": "04101",
+"phone": "-",
+"meta": "-",
+"email": "masjidalhuda207@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": true,
+"fajr_offset": "10",
+"zuhr_offset": "10",
+"asr_offset": "10",
+"maghrib_offset": "10",
+"isha_offset": "10"
 }
 }
 },
@@ -32153,43 +32153,6 @@
 }
 },
 {
-"id": "8K9O0nAp",
-"uuid": "03e5fb2a-51a7-46ff-b832-4624e4a9ad9d",
-"name": "Masjid Al-Khair",
-"address": "310 14th St SE, Rochester, MN 55904",
-"city": "Rochester",
-"state": "MN",
-"country": "US",
-"longitude": "-92.4802",
-"latitude": "44.0121",
-"zipcode": "55902",
-"phone": "-",
-"meta": "-",
-"email": "-",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "3AOajEKe",
 "uuid": "8271eef6-c9c7-48ce-b62a-8044c2d9faa8",
 "name": "Masjid Al-Khair",
@@ -32223,6 +32186,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "8K9O0nAp",
+"uuid": "03e5fb2a-51a7-46ff-b832-4624e4a9ad9d",
+"name": "Masjid Al-Khair",
+"address": "310 14th St SE, Rochester, MN 55904",
+"city": "Rochester",
+"state": "MN",
+"country": "US",
+"longitude": "-92.4802",
+"latitude": "44.0121",
+"zipcode": "55902",
+"phone": "-",
+"meta": "-",
+"email": "-",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -33892,43 +33892,6 @@
 }
 },
 {
-"id": "3OA892dp",
-"uuid": "6d163408-bc55-4e0f-85f1-7f63429ca8ea",
-"name": "Masjid An-Noor",
-"address": "1300 Fairfield Ave",
-"city": "Bridgeport",
-"state": "CT",
-"country": "US",
-"longitude": "-73.2090",
-"latitude": "41.1742",
-"zipcode": "06605",
-"phone": "(203) 579-2211",
-"meta": "-",
-"email": "info@MasjidAn-Noor.com",
-"website_url": "https://masjidan-noor.com/",
-"event_url": "-",
-"donation_url": "https://masjidan-noor.com/donations/",
-"audio_url": "-",
-"prayer_timing_url": "https://masjidal.com/widget/monthly/v2/?masjid_id=3OA892dp",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "wdqr9lKb",
 "uuid": "60eead9c-e996-4373-a81e-a99a2d9c2a85",
 "name": "Masjid An-Noor",
@@ -33962,6 +33925,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "3OA892dp",
+"uuid": "6d163408-bc55-4e0f-85f1-7f63429ca8ea",
+"name": "Masjid An-Noor",
+"address": "1300 Fairfield Ave",
+"city": "Bridgeport",
+"state": "CT",
+"country": "US",
+"longitude": "-73.2090",
+"latitude": "41.1742",
+"zipcode": "06605",
+"phone": "(203) 579-2211",
+"meta": "-",
+"email": "info@MasjidAn-Noor.com",
+"website_url": "https://masjidan-noor.com/",
+"event_url": "-",
+"donation_url": "https://masjidan-noor.com/donations/",
+"audio_url": "-",
+"prayer_timing_url": "https://masjidal.com/widget/monthly/v2/?masjid_id=3OA892dp",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -35205,10 +35205,10 @@
 "donation_url": "-",
 "audio_url": "-",
 "prayer_timing_url": "-",
-"app_premium_features": true,
+"app_premium_features": false,
 "premium_features": {
-"app": true,
-"slideshow": true,
+"app": false,
+"slideshow": false,
 "donation_app": false
 },
 "is_shell_account": false,
@@ -43704,8 +43704,8 @@
 "city": "Livonia",
 "state": "MI",
 "country": "US",
-"longitude": "-83.4106",
-"latitude": "42.3619",
+"longitude": "-83.4107",
+"latitude": "42.3618",
 "zipcode": "48150",
 "phone": "7343350168",
 "meta": "Muslim Center,Masjid,Mosque,islamic center,islamic organization",
@@ -44659,43 +44659,6 @@
 }
 },
 {
-"id": "kAkj8zLq",
-"uuid": "8e1e9eed-e5a4-4512-b706-16d597d863d2",
-"name": "Muslim Education Center",
-"address": "4301 Shamrock Dr",
-"city": "Charlotte",
-"state": "North Carolina",
-"country": "US",
-"longitude": "-80.7504",
-"latitude": "35.2299",
-"zipcode": "28215",
-"phone": "-",
-"meta": "-",
-"email": "alialhakim94@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "lJAmz4dR",
 "uuid": "6e70d392-bf18-4d33-ae06-13615439db5a",
 "name": "Muslim Education Center",
@@ -44729,6 +44692,43 @@
 "asr_offset": 0,
 "maghrib_offset": 0,
 "isha_offset": 0
+}
+}
+},
+{
+"id": "kAkj8zLq",
+"uuid": "8e1e9eed-e5a4-4512-b706-16d597d863d2",
+"name": "Muslim Education Center",
+"address": "4301 Shamrock Dr",
+"city": "Charlotte",
+"state": "North Carolina",
+"country": "US",
+"longitude": "-80.7504",
+"latitude": "35.2299",
+"zipcode": "28215",
+"phone": "-",
+"meta": "-",
+"email": "alialhakim94@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
 }
 }
 },

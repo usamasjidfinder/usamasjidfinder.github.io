@@ -3141,6 +3141,12 @@
 "at": "2026-11-17",
 "found": {}
 },
+"https://rochestermosque.org/": {
+"at": "2026-11-23",
+"found": {
+"mohid_url": "https://us.mohid.co/mn/rochester1/maas"
+}
+},
 "https://rockawayislamiccenter.com": {
 "at": "2026-11-17",
 "found": {}
@@ -4744,6 +4750,10 @@
 },
 "https://www.masjidan-noor.com/": {
 "at": "2026-11-17",
+"found": {}
+},
+"https://www.masjidannur.org/": {
+"at": "2026-11-23",
 "found": {}
 },
 "https://www.masjidansarcolorado.org": {

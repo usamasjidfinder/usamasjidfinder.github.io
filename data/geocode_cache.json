@@ -7937,5 +7937,64 @@
 "-93.1469056"
 ]
 }
+],
+"r:42.24906,-83.66133": {
+"place_id": 431476683,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 903169,
+"lat": "42.2103174",
+"lon": "-83.7241068",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.4813050522592035,
+"addresstype": "town",
+"name": "Pittsfield Charter Township",
+"display_name": "Pittsfield Charter Township, Washtenaw County, Michigan, 49197, United States",
+"address": {
+"town": "Pittsfield Charter Township",
+"county": "Washtenaw County",
+"state": "Michigan",
+"ISO3166-2-lvl4": "US-MI",
+"postcode": "49197",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"42.1701093",
+"42.2593932",
+"-83.7792520",
+"-83.6592403"
 ]
+},
+"r:34.01918,-84.62525": {
+"place_id": 343056084,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 119639,
+"lat": "34.0234337",
+"lon": "-84.6154897",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5012003947230182,
+"addresstype": "town",
+"name": "Kennesaw",
+"display_name": "Kennesaw, Cobb County, Georgia, United States",
+"address": {
+"town": "Kennesaw",
+"county": "Cobb County",
+"state": "Georgia",
+"ISO3166-2-lvl4": "US-GA",
+"country": "United States",
+"country_code": "us"
+},
+"boundingbox": [
+"33.9869560",
+"34.0669020",
+"-84.6500210",
+"-84.5809150"
+]
+}
 }
