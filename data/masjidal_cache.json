@@ -2048,7 +2048,7 @@
 "phone": "2522266475",
 "meta": "-",
 "email": "abdoalisaleh_96@hotmail.com",
-"website_url": "-",
+"website_url": "https://alrahma.cc/",
 "event_url": "-",
 "donation_url": "-",
 "audio_url": "-",
@@ -34780,6 +34780,43 @@
 }
 },
 {
+"id": "GA666MAe",
+"uuid": "d9ca28cd-121a-4c42-ab8c-75a5ba542e1d",
+"name": "Masjid As-Seera An-Nabaweyah",
+"address": "2215 W Boardwalk Dr",
+"city": "Baton Rouge",
+"state": "Louisiana",
+"country": "US",
+"longitude": "-91.0601",
+"latitude": "30.4326",
+"zipcode": "70816",
+"phone": "2252203111",
+"meta": "-",
+"email": "seeraassociation@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": true,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
+}
+}
+},
+{
 "id": "0aAew9Kj",
 "uuid": "3b92b66e-c5df-4822-8487-e637bca29e3d",
 "name": "Masjid As-Sunnah",
@@ -41362,43 +41399,6 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
-}
-}
-},
-{
-"id": "aAeoQwKj",
-"uuid": "e09a5cea-58cb-4585-b026-580864708957",
-"name": "Masjid Zakariya Harvey",
-"address": "14712 Campbell Ave",
-"city": "Harvey",
-"state": "IL",
-"country": "US",
-"longitude": "-87.6781",
-"latitude": "41.6220",
-"zipcode": "60426",
-"phone": "7088330239",
-"meta": "-",
-"email": "-",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": true,
-"fajr_offset": "15",
-"zuhr_offset": "15",
-"asr_offset": "15",
-"maghrib_offset": "2",
-"isha_offset": "15"
 }
 }
 },
@@ -48359,43 +48359,6 @@
 }
 },
 {
-"id": "GA666MAe",
-"uuid": "d9ca28cd-121a-4c42-ab8c-75a5ba542e1d",
-"name": "Seera Association of Baton Rouge",
-"address": "2215 W Boardwalk Dr",
-"city": "Baton Rouge",
-"state": "Louisiana",
-"country": "US",
-"longitude": "-91.0601",
-"latitude": "30.4326",
-"zipcode": "70816",
-"phone": "2252203111",
-"meta": "-",
-"email": "seeraassociation@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": true,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "pVdw1xLe",
 "uuid": "d44fd581-1d24-480b-8648-acd9af707df9",
 "name": "Selden Masjid",
@@ -52610,6 +52573,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "aAeoQwKj",
+"uuid": "e09a5cea-58cb-4585-b026-580864708957",
+"name": "Zakariya Musallah Harvey",
+"address": "14712 Campbell Ave",
+"city": "Harvey",
+"state": "IL",
+"country": "US",
+"longitude": "-87.6781",
+"latitude": "41.6220",
+"zipcode": "60426",
+"phone": "7088330239",
+"meta": "-",
+"email": "zakariya14712@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": true,
+"fajr_offset": "15",
+"zuhr_offset": "15",
+"asr_offset": "15",
+"maghrib_offset": "2",
+"isha_offset": "15"
 }
 }
 },
