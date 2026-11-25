@@ -32,17 +32,20 @@
  "islamic-society-of-framingham-framingham-ma": [
   "events: Expecting value: line 1 column 1 (char 0)"
  ],
+ "maps-snohomish-county-marysville-wa": [
+  "events: HTTP Error 403: Forbidden"
+ ],
  "mas-youth-center-of-nj-north-brunswick-township-nj": [
   "events: HTTP Error 404: Not Found"
  ],
  "masjid-al-ansaar-the-woodlands-tx": [
-  "events: HTTP Error 404: Not Found"
+  "events: <urlopen error [Errno -3] Temporary failure in name resolution>"
  ],
  "masjid-al-tawheed-kentwood-mi": [
   "events: HTTP Error 404: Not Found"
  ],
  "masjid-salman-al-farsi-tucker-ga": [
-  "events: HTTP Error 403: Forbidden"
+  "events: HTTP Error 404: Not Found"
  ],
  "picc-hampton-va": [
   "mohid: HTTP Error 404: Not Found"

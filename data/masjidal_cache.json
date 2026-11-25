@@ -35356,7 +35356,7 @@
 "app_premium_features": false,
 "premium_features": {
 "app": false,
-"slideshow": false,
+"slideshow": true,
 "donation_app": false
 },
 "is_shell_account": false,
