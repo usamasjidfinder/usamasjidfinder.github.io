@@ -21756,43 +21756,6 @@
 }
 },
 {
-"id": "0AWbRWLj",
-"uuid": "2251b81c-4ac3-4d59-8945-849e9fbd0002",
-"name": "Islamic Center of Worth",
-"address": "11512 S Normandy Ave",
-"city": "Worth",
-"state": "Illinois",
-"country": "US",
-"longitude": "-87.7865",
-"latitude": "41.6823",
-"zipcode": "60482",
-"phone": "17088755587",
-"meta": "-",
-"email": "worthmasjid@gmail.com",
-"website_url": "https://www.worthmasjid.org",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": true,
-"fajr_offset": "35",
-"zuhr_offset": "10",
-"asr_offset": "10",
-"maghrib_offset": "10",
-"isha_offset": "10"
-}
-}
-},
-{
 "id": "kK3G94Ke",
 "uuid": "aff28f2f-e1ea-4b19-9ba5-933a5dc9b10c",
 "name": "Islamic Center of Yakima",
@@ -35409,43 +35372,6 @@
 }
 },
 {
-"id": "PAPwzZLJ",
-"uuid": "caf36a6a-ecd7-4229-b92f-04eeb31a329f",
-"name": "MASJID BILAL",
-"address": "86-45 231 STREET",
-"city": "Bellerose",
-"state": "New York",
-"country": "US",
-"longitude": "-73.7157",
-"latitude": "40.7245",
-"zipcode": "11427",
-"phone": "9172912629",
-"meta": "-",
-"email": "MNADEEM71@MSN.COM",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": true,
-"premium_features": {
-"app": true,
-"slideshow": true,
-"donation_app": true
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "0AWbOBLj",
 "uuid": "afa5ec71-39b9-47a1-8d9b-ca318ae84268",
 "name": "Masjid Bilal",
@@ -35506,6 +35432,43 @@
 "app": false,
 "slideshow": false,
 "donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
+}
+}
+},
+{
+"id": "PAPwzZLJ",
+"uuid": "caf36a6a-ecd7-4229-b92f-04eeb31a329f",
+"name": "MASJID BILAL",
+"address": "86-45 231 STREET",
+"city": "Bellerose",
+"state": "New York",
+"country": "US",
+"longitude": "-73.7157",
+"latitude": "40.7245",
+"zipcode": "11427",
+"phone": "9172912629",
+"meta": "-",
+"email": "MNADEEM71@MSN.COM",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": true,
+"premium_features": {
+"app": true,
+"slideshow": true,
+"donation_app": true
 },
 "is_shell_account": false,
 "iqamah_settings": {
@@ -36889,43 +36852,6 @@
 }
 },
 {
-"id": "QL032EKZ",
-"uuid": "5783db2a-e756-4731-9c1e-86bd066f4716",
-"name": "Masjid Fatima",
-"address": " 57-16 37th Ave",
-"city": "Woodside",
-"state": "New York",
-"country": "US",
-"longitude": "-73.9071",
-"latitude": "40.7533",
-"zipcode": "11377",
-"phone": "-",
-"meta": "-",
-"email": "fatimamasjid37@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "0AWpmbdj",
 "uuid": "a734f2f1-3d24-421f-a699-9154fc64c6af",
 "name": "Masjid Fatima",
@@ -36959,6 +36885,43 @@
 "asr_offset": 0,
 "maghrib_offset": 0,
 "isha_offset": 0
+}
+}
+},
+{
+"id": "QL032EKZ",
+"uuid": "5783db2a-e756-4731-9c1e-86bd066f4716",
+"name": "Masjid Fatima",
+"address": " 57-16 37th Ave",
+"city": "Woodside",
+"state": "New York",
+"country": "US",
+"longitude": "-73.9071",
+"latitude": "40.7533",
+"zipcode": "11377",
+"phone": "-",
+"meta": "-",
+"email": "fatimamasjid37@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
 }
 }
 },
@@ -41181,6 +41144,43 @@
 }
 },
 {
+"id": "0AWbRWLj",
+"uuid": "2251b81c-4ac3-4d59-8945-849e9fbd0002",
+"name": "Masjid Worth ",
+"address": "11512 S Normandy Ave",
+"city": "Worth",
+"state": "Illinois",
+"country": "US",
+"longitude": "-87.7865",
+"latitude": "41.6823",
+"zipcode": "60482",
+"phone": "17088755587",
+"meta": "-",
+"email": "worthmasjid@gmail.com",
+"website_url": "https://www.worthmasjid.org",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": true,
+"fajr_offset": "35",
+"zuhr_offset": "10",
+"asr_offset": "10",
+"maghrib_offset": "10",
+"isha_offset": "10"
+}
+}
+},
+{
 "id": "nL1k28da",
 "uuid": "127556a4-14f4-4736-b9a5-17d88e754fe1",
 "name": "Masjid Ya Rasool Allah, Lodi ",
@@ -44045,7 +44045,7 @@
 "email": "Imam@the-mcc.org",
 "website_url": "https://www.the-mcc.org",
 "event_url": "https://calendar.google.com/calendar/embed?src=info%40the-mcc.org&ctz=America%2FChicago",
-"donation_url": "https://www.zeffy.com/en-US/donation-form/masjid-expansion-2?source=org-page",
+"donation_url": "https://www.zeffy.com/en-US/organizations/muslim-center-of-conway",
 "audio_url": "-",
 "prayer_timing_url": "https://masjidal.com/widget/monthly/v2/?masjid_id=b3AOk1Ae",
 "app_premium_features": true,
