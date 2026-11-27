@@ -7215,43 +7215,6 @@
 }
 },
 {
-"id": "9L2MeZKZ",
-"uuid": "731abab4-13a3-40d5-95a9-7d70f1eb1d97",
-"name": "Burmese Islamic Association of Colorado Masjid Al Ansar",
-"address": "1395 Macon St",
-"city": "Aurora",
-"state": "CO",
-"country": "US",
-"longitude": "-104.8556",
-"latitude": "39.7381",
-"zipcode": "80010",
-"phone": "7202699349",
-"meta": "Masjid Al-Ansar",
-"email": "masjidansar.colorado@gmail.com",
-"website_url": "https://www.masjidansarcolorado.org",
-"event_url": "-",
-"donation_url": "https://us.mohid.co/co/aurora/biac/masjid/online/donation",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": true,
-"fajr_offset": "1",
-"zuhr_offset": "1",
-"asr_offset": "1",
-"maghrib_offset": "1",
-"isha_offset": "1"
-}
-}
-},
-{
 "id": "XAlz78Kb",
 "uuid": "788711cf-7f05-4965-a09f-a8fdd831fac3",
 "name": "Burmese Rohingya Community",
@@ -22570,6 +22533,43 @@
 }
 },
 {
+"id": "YADpjQAN",
+"uuid": "db2eff94-a726-4498-9ece-80eca82aa848",
+"name": "Islamic Institute of Knowledge IIOK",
+"address": "6345 Schaefer Rd",
+"city": "Dearborn",
+"state": "Michigan",
+"country": "US",
+"longitude": "-83.1775",
+"latitude": "42.3366",
+"zipcode": "48126",
+"phone": "3135842570",
+"meta": "-",
+"email": "iiokonline2013@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
+}
+}
+},
+{
 "id": "adJEkrAk",
 "uuid": "d1f818b3-6021-4353-a2bd-0dd8d4d257a3",
 "name": "Islamic Institute of Orange County",
@@ -29230,6 +29230,43 @@
 }
 },
 {
+"id": "9L2MeZKZ",
+"uuid": "731abab4-13a3-40d5-95a9-7d70f1eb1d97",
+"name": "Masjid Al Ansar",
+"address": "1395 Macon St",
+"city": "Aurora",
+"state": "CO",
+"country": "US",
+"longitude": "-104.8556",
+"latitude": "39.7381",
+"zipcode": "80010",
+"phone": "7202699349",
+"meta": "Masjid Al-Ansar",
+"email": "masjidansar.colorado@gmail.com",
+"website_url": "https://www.masjidansarcolorado.org",
+"event_url": "-",
+"donation_url": "https://us.mohid.co/co/aurora/biac/masjid/online/donation",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": true,
+"fajr_offset": "1",
+"zuhr_offset": "1",
+"asr_offset": "1",
+"maghrib_offset": "1",
+"isha_offset": "1"
+}
+}
+},
+{
 "id": "QL0BoWdZ",
 "uuid": "0d5cb5bc-020c-42d9-9e44-827ec4749641",
 "name": "Masjid Al Emaan",
@@ -31117,43 +31154,6 @@
 }
 },
 {
-"id": "GA6aQjLe",
-"uuid": "3aad282d-53ba-4424-b267-4ba9822cf56c",
-"name": "Masjid Al-Furqaan",
-"address": "27643 Schoenherr Rd",
-"city": "Warren",
-"state": "Michigan",
-"country": "US",
-"longitude": "-82.9876",
-"latitude": "42.4975",
-"zipcode": "48088",
-"phone": "-",
-"meta": "-",
-"email": "masjidalfurqaan@yahoo.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiIiwidG9rZW4iOiJtYXNqaWRhbGZ1cnFhYW5AeWFob28uY29tIn0=",
-"audio_url": "-",
-"prayer_timing_url": "https://www.masjidfurqaan.net/prayer-times/",
-"app_premium_features": true,
-"premium_features": {
-"app": true,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "PAPnDrKJ",
 "uuid": "f1c6ae19-20d3-4ed0-85f9-2c42b42c7174",
 "name": "Masjid Al-furqaan",
@@ -31187,6 +31187,43 @@
 "asr_offset": "0",
 "maghrib_offset": "1",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "GA6aQjLe",
+"uuid": "3aad282d-53ba-4424-b267-4ba9822cf56c",
+"name": "Masjid Al-Furqaan",
+"address": "27643 Schoenherr Rd",
+"city": "Warren",
+"state": "Michigan",
+"country": "US",
+"longitude": "-82.9876",
+"latitude": "42.4975",
+"zipcode": "48088",
+"phone": "-",
+"meta": "-",
+"email": "masjidalfurqaan@yahoo.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiIiwidG9rZW4iOiJtYXNqaWRhbGZ1cnFhYW5AeWFob28uY29tIn0=",
+"audio_url": "-",
+"prayer_timing_url": "https://www.masjidfurqaan.net/prayer-times/",
+"app_premium_features": true,
+"premium_features": {
+"app": true,
+"slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -31376,6 +31413,43 @@
 }
 },
 {
+"id": "1QL0GKZD",
+"uuid": "c6f16290-be3e-4d52-97e1-b4e8f0ce1c7b",
+"name": "Masjid Al-Huda",
+"address": "1081 Irving Park Rd",
+"city": "Schaumburg",
+"state": "IL",
+"country": "US",
+"longitude": "-88.1187",
+"latitude": "41.9978",
+"zipcode": "60193",
+"phone": "6305291786",
+"meta": "-",
+"email": "masjid@masjidalhuda.org",
+"website_url": "https://masjidalhuda.org/",
+"event_url": "-",
+"donation_url": "https://donate.masjidalhuda.org/",
+"audio_url": "-",
+"prayer_timing_url": "https://1drv.ms/i/c/7c84ce27582a2862/IQC-c6P1vfAQQojC8ncJOLGGATL09NTe-KjEAvP4qtRogQQ?e=k91obc",
+"app_premium_features": true,
+"premium_features": {
+"app": true,
+"slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
+}
+}
+},
+{
 "id": "wLVp0ydJ",
 "uuid": "1266c9c8-94bb-4651-927a-42c8bb54b68f",
 "name": "MASJID AL-HUDA",
@@ -31446,43 +31520,6 @@
 "asr_offset": "10",
 "maghrib_offset": "10",
 "isha_offset": "10"
-}
-}
-},
-{
-"id": "1QL0GKZD",
-"uuid": "c6f16290-be3e-4d52-97e1-b4e8f0ce1c7b",
-"name": "Masjid Al-Huda",
-"address": "1081 Irving Park Rd",
-"city": "Schaumburg",
-"state": "IL",
-"country": "US",
-"longitude": "-88.1187",
-"latitude": "41.9978",
-"zipcode": "60193",
-"phone": "6305291786",
-"meta": "-",
-"email": "masjid@masjidalhuda.org",
-"website_url": "https://masjidalhuda.org/",
-"event_url": "-",
-"donation_url": "https://donate.masjidalhuda.org/",
-"audio_url": "-",
-"prayer_timing_url": "https://1drv.ms/i/c/7c84ce27582a2862/IQC-c6P1vfAQQojC8ncJOLGGATL09NTe-KjEAvP4qtRogQQ?e=k91obc",
-"app_premium_features": true,
-"premium_features": {
-"app": true,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
 }
 }
 },
@@ -32116,43 +32153,6 @@
 }
 },
 {
-"id": "3AOajEKe",
-"uuid": "8271eef6-c9c7-48ce-b62a-8044c2d9faa8",
-"name": "Masjid Al-Khair",
-"address": "1670 Homewood Ave",
-"city": "Youngstown",
-"state": "Ohio",
-"country": "US",
-"longitude": "-80.6269",
-"latitude": "41.0768",
-"zipcode": "44502",
-"phone": "-",
-"meta": "-",
-"email": "admin@isgyohio.org",
-"website_url": "https://www.isgyohio.org/",
-"event_url": "https://calendar.google.com/calendar/embed?src=isgyiot%40gmail.com&ctz=America%2FNew_York",
-"donation_url": "https://donation.masjidal.com/MasjidAl-Khair/campaign/masjid-donation-75/",
-"audio_url": "-",
-"prayer_timing_url": "https://masjidal.com/widget/monthly/?masjid_id=3AOajEKe",
-"app_premium_features": true,
-"premium_features": {
-"app": true,
-"slideshow": true,
-"donation_app": true
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "8K9O0nAp",
 "uuid": "03e5fb2a-51a7-46ff-b832-4624e4a9ad9d",
 "name": "Masjid Al-Khair",
@@ -32186,6 +32186,43 @@
 "asr_offset": 0,
 "maghrib_offset": 0,
 "isha_offset": 0
+}
+}
+},
+{
+"id": "3AOajEKe",
+"uuid": "8271eef6-c9c7-48ce-b62a-8044c2d9faa8",
+"name": "Masjid Al-Khair",
+"address": "1670 Homewood Ave",
+"city": "Youngstown",
+"state": "Ohio",
+"country": "US",
+"longitude": "-80.6269",
+"latitude": "41.0768",
+"zipcode": "44502",
+"phone": "-",
+"meta": "-",
+"email": "admin@isgyohio.org",
+"website_url": "https://www.isgyohio.org/",
+"event_url": "https://calendar.google.com/calendar/embed?src=isgyiot%40gmail.com&ctz=America%2FNew_York",
+"donation_url": "https://donation.masjidal.com/MasjidAl-Khair/campaign/masjid-donation-75/",
+"audio_url": "-",
+"prayer_timing_url": "https://masjidal.com/widget/monthly/?masjid_id=3AOajEKe",
+"app_premium_features": true,
+"premium_features": {
+"app": true,
+"slideshow": true,
+"donation_app": true
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
 }
 }
 },
@@ -33855,43 +33892,6 @@
 }
 },
 {
-"id": "wdqr9lKb",
-"uuid": "60eead9c-e996-4373-a81e-a99a2d9c2a85",
-"name": "Masjid An-Noor",
-"address": "2235 9th St",
-"city": "Mandeville",
-"state": "Louisiana",
-"country": "US",
-"longitude": "-90.0897",
-"latitude": "30.3982",
-"zipcode": "70471",
-"phone": "-",
-"meta": "-",
-"email": "masjid.mandeville@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "3OA892dp",
 "uuid": "6d163408-bc55-4e0f-85f1-7f63429ca8ea",
 "name": "Masjid An-Noor",
@@ -33925,6 +33925,43 @@
 "asr_offset": 0,
 "maghrib_offset": 0,
 "isha_offset": 0
+}
+}
+},
+{
+"id": "wdqr9lKb",
+"uuid": "60eead9c-e996-4373-a81e-a99a2d9c2a85",
+"name": "Masjid An-Noor",
+"address": "2235 9th St",
+"city": "Mandeville",
+"state": "Louisiana",
+"country": "US",
+"longitude": "-90.0897",
+"latitude": "30.3982",
+"zipcode": "70471",
+"phone": "-",
+"meta": "-",
+"email": "masjid.mandeville@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
 }
 }
 },
@@ -44659,43 +44696,6 @@
 }
 },
 {
-"id": "lJAmz4dR",
-"uuid": "6e70d392-bf18-4d33-ae06-13615439db5a",
-"name": "Muslim Education Center",
-"address": "8601 Menard Ave",
-"city": "Morton Grove",
-"state": "IL",
-"country": "US",
-"longitude": "-87.7710",
-"latitude": "42.0377",
-"zipcode": "60053",
-"phone": " (773) 725-9047",
-"meta": "MEC",
-"email": "-",
-"website_url": "https://mccchicago.org/",
-"event_url": "https://calendar.google.com/calendar/embed?src=53f6e57bf0ea1448a2846ee7b6dfe490ead0d5a5cf75976e5f586debe2a89aa2%40group.calendar.google.com&ctz=America%2FChicago",
-"donation_url": "https://donate.mccchicago.org/",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": true,
-"premium_features": {
-"app": true,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "kAkj8zLq",
 "uuid": "8e1e9eed-e5a4-4512-b706-16d597d863d2",
 "name": "Muslim Education Center",
@@ -44729,6 +44729,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "lJAmz4dR",
+"uuid": "6e70d392-bf18-4d33-ae06-13615439db5a",
+"name": "Muslim Education Center",
+"address": "8601 Menard Ave",
+"city": "Morton Grove",
+"state": "IL",
+"country": "US",
+"longitude": "-87.7710",
+"latitude": "42.0377",
+"zipcode": "60053",
+"phone": " (773) 725-9047",
+"meta": "MEC",
+"email": "-",
+"website_url": "https://mccchicago.org/",
+"event_url": "https://calendar.google.com/calendar/embed?src=53f6e57bf0ea1448a2846ee7b6dfe490ead0d5a5cf75976e5f586debe2a89aa2%40group.calendar.google.com&ctz=America%2FChicago",
+"donation_url": "https://donate.mccchicago.org/",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": true,
+"premium_features": {
+"app": true,
+"slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
