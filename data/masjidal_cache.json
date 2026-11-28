@@ -2227,8 +2227,8 @@
 "city": "Jersey City",
 "state": "New Jersey",
 "country": "US",
-"longitude": "-74.0718",
-"latitude": "40.7332",
+"longitude": "-74.0716",
+"latitude": "40.7336",
 "zipcode": "07306",
 "phone": "2014321773",
 "meta": "-",
@@ -9324,43 +9324,6 @@
 }
 },
 {
-"id": "8L76DQK5",
-"uuid": "4133d86e-fef8-4582-afd4-61e6fa2456ab",
-"name": "Darul Arqam",
-"address": " ",
-"city": "Torrance",
-"state": "California",
-"country": "US",
-"longitude": "-118.3140",
-"latitude": "33.8280",
-"zipcode": "90501",
-"phone": "-",
-"meta": "-",
-"email": "safaq1500@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "RKx6y8AO",
 "uuid": "08066ef1-e6f2-400d-a523-2c36fa64c6a0",
 "name": "Darul Arqam ",
@@ -9389,6 +9352,43 @@
 "iqamah_settings": {
 "athan": {
 "enabled": true,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
+}
+}
+},
+{
+"id": "8L76DQK5",
+"uuid": "4133d86e-fef8-4582-afd4-61e6fa2456ab",
+"name": "Darul Arqam",
+"address": " ",
+"city": "Torrance",
+"state": "California",
+"country": "US",
+"longitude": "-118.3140",
+"latitude": "33.8280",
+"zipcode": "90501",
+"phone": "-",
+"meta": "-",
+"email": "safaq1500@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
 "fajr_offset": "0",
 "zuhr_offset": "0",
 "asr_offset": "0",
@@ -31413,39 +31413,39 @@
 }
 },
 {
-"id": "1QL0GKZD",
-"uuid": "c6f16290-be3e-4d52-97e1-b4e8f0ce1c7b",
-"name": "Masjid Al-Huda",
-"address": "1081 Irving Park Rd",
-"city": "Schaumburg",
-"state": "IL",
-"country": "US",
-"longitude": "-88.1187",
-"latitude": "41.9978",
-"zipcode": "60193",
-"phone": "6305291786",
+"id": "0AWpy2dj",
+"uuid": "08f4eda0-d5a2-418f-9fd4-f981fe26d33a",
+"name": "Masjid Al-Huda ",
+"address": "73 Portland St",
+"city": "Portland",
+"state": "Maine",
+"country": "United States",
+"longitude": "-70.2648",
+"latitude": "43.6581",
+"zipcode": "04101",
+"phone": "-",
 "meta": "-",
-"email": "masjid@masjidalhuda.org",
-"website_url": "https://masjidalhuda.org/",
+"email": "masjidalhuda207@gmail.com",
+"website_url": "-",
 "event_url": "-",
-"donation_url": "https://donate.masjidalhuda.org/",
+"donation_url": "-",
 "audio_url": "-",
-"prayer_timing_url": "https://1drv.ms/i/c/7c84ce27582a2862/IQC-c6P1vfAQQojC8ncJOLGGATL09NTe-KjEAvP4qtRogQQ?e=k91obc",
-"app_premium_features": true,
+"prayer_timing_url": "-",
+"app_premium_features": false,
 "premium_features": {
-"app": true,
-"slideshow": true,
+"app": false,
+"slideshow": false,
 "donation_app": false
 },
 "is_shell_account": false,
 "iqamah_settings": {
 "athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
+"enabled": true,
+"fajr_offset": "10",
+"zuhr_offset": "10",
+"asr_offset": "10",
+"maghrib_offset": "10",
+"isha_offset": "10"
 }
 }
 },
@@ -31487,39 +31487,39 @@
 }
 },
 {
-"id": "0AWpy2dj",
-"uuid": "08f4eda0-d5a2-418f-9fd4-f981fe26d33a",
-"name": "Masjid Al-Huda ",
-"address": "73 Portland St",
-"city": "Portland",
-"state": "Maine",
-"country": "United States",
-"longitude": "-70.2648",
-"latitude": "43.6581",
-"zipcode": "04101",
-"phone": "-",
+"id": "1QL0GKZD",
+"uuid": "c6f16290-be3e-4d52-97e1-b4e8f0ce1c7b",
+"name": "Masjid Al-Huda",
+"address": "1081 Irving Park Rd",
+"city": "Schaumburg",
+"state": "IL",
+"country": "US",
+"longitude": "-88.1187",
+"latitude": "41.9978",
+"zipcode": "60193",
+"phone": "6305291786",
 "meta": "-",
-"email": "masjidalhuda207@gmail.com",
-"website_url": "-",
+"email": "masjid@masjidalhuda.org",
+"website_url": "https://masjidalhuda.org/",
 "event_url": "-",
-"donation_url": "-",
+"donation_url": "https://donate.masjidalhuda.org/",
 "audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
+"prayer_timing_url": "https://1drv.ms/i/c/7c84ce27582a2862/IQC-c6P1vfAQQojC8ncJOLGGATL09NTe-KjEAvP4qtRogQQ?e=k91obc",
+"app_premium_features": true,
 "premium_features": {
-"app": false,
-"slideshow": false,
+"app": true,
+"slideshow": true,
 "donation_app": false
 },
 "is_shell_account": false,
 "iqamah_settings": {
 "athan": {
-"enabled": true,
-"fajr_offset": "10",
-"zuhr_offset": "10",
-"asr_offset": "10",
-"maghrib_offset": "10",
-"isha_offset": "10"
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -33892,43 +33892,6 @@
 }
 },
 {
-"id": "3OA892dp",
-"uuid": "6d163408-bc55-4e0f-85f1-7f63429ca8ea",
-"name": "Masjid An-Noor",
-"address": "1300 Fairfield Ave",
-"city": "Bridgeport",
-"state": "CT",
-"country": "US",
-"longitude": "-73.2090",
-"latitude": "41.1742",
-"zipcode": "06605",
-"phone": "(203) 579-2211",
-"meta": "-",
-"email": "info@MasjidAn-Noor.com",
-"website_url": "https://masjidan-noor.com/",
-"event_url": "-",
-"donation_url": "https://masjidan-noor.com/donations/",
-"audio_url": "-",
-"prayer_timing_url": "https://masjidal.com/widget/monthly/v2/?masjid_id=3OA892dp",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": 0,
-"zuhr_offset": 0,
-"asr_offset": 0,
-"maghrib_offset": 0,
-"isha_offset": 0
-}
-}
-},
-{
 "id": "wdqr9lKb",
 "uuid": "60eead9c-e996-4373-a81e-a99a2d9c2a85",
 "name": "Masjid An-Noor",
@@ -33962,6 +33925,43 @@
 "asr_offset": "0",
 "maghrib_offset": "0",
 "isha_offset": "0"
+}
+}
+},
+{
+"id": "3OA892dp",
+"uuid": "6d163408-bc55-4e0f-85f1-7f63429ca8ea",
+"name": "Masjid An-Noor",
+"address": "1300 Fairfield Ave",
+"city": "Bridgeport",
+"state": "CT",
+"country": "US",
+"longitude": "-73.2090",
+"latitude": "41.1742",
+"zipcode": "06605",
+"phone": "(203) 579-2211",
+"meta": "-",
+"email": "info@MasjidAn-Noor.com",
+"website_url": "https://masjidan-noor.com/",
+"event_url": "-",
+"donation_url": "https://masjidan-noor.com/donations/",
+"audio_url": "-",
+"prayer_timing_url": "https://masjidal.com/widget/monthly/v2/?masjid_id=3OA892dp",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": 0,
+"zuhr_offset": 0,
+"asr_offset": 0,
+"maghrib_offset": 0,
+"isha_offset": 0
 }
 }
 },
@@ -35409,80 +35409,6 @@
 }
 },
 {
-"id": "0AWbOBLj",
-"uuid": "afa5ec71-39b9-47a1-8d9b-ca318ae84268",
-"name": "Masjid Bilal",
-"address": "364 Grant St",
-"city": "Buffalo",
-"state": "New York",
-"country": "US",
-"longitude": "-78.8901",
-"latitude": "42.9238",
-"zipcode": "14213",
-"phone": "-",
-"meta": "-",
-"email": "Asadsomali@yahoo.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
-"id": "wdqvXjKb",
-"uuid": "bd617a55-82db-4737-a67e-ba8e518a8e1b",
-"name": "Masjid Bilal",
-"address": "1260 Jefferson Ave SE",
-"city": "Grand Rapids",
-"state": "Michigan",
-"country": "US",
-"longitude": "-85.6634",
-"latitude": "42.9397",
-"zipcode": "49507",
-"phone": "-",
-"meta": "-",
-"email": "masjidbilal1260@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "PAPwzZLJ",
 "uuid": "caf36a6a-ecd7-4229-b92f-04eeb31a329f",
 "name": "MASJID BILAL",
@@ -35553,6 +35479,80 @@
 "asr_offset": 0,
 "maghrib_offset": 0,
 "isha_offset": 0
+}
+}
+},
+{
+"id": "0AWbOBLj",
+"uuid": "afa5ec71-39b9-47a1-8d9b-ca318ae84268",
+"name": "Masjid Bilal",
+"address": "364 Grant St",
+"city": "Buffalo",
+"state": "New York",
+"country": "US",
+"longitude": "-78.8901",
+"latitude": "42.9238",
+"zipcode": "14213",
+"phone": "-",
+"meta": "-",
+"email": "Asadsomali@yahoo.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
+}
+}
+},
+{
+"id": "wdqvXjKb",
+"uuid": "bd617a55-82db-4737-a67e-ba8e518a8e1b",
+"name": "Masjid Bilal",
+"address": "1260 Jefferson Ave SE",
+"city": "Grand Rapids",
+"state": "Michigan",
+"country": "US",
+"longitude": "-85.6634",
+"latitude": "42.9397",
+"zipcode": "49507",
+"phone": "-",
+"meta": "-",
+"email": "masjidbilal1260@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
 }
 }
 },
@@ -39019,7 +39019,7 @@
 "app_premium_features": false,
 "premium_features": {
 "app": false,
-"slideshow": false,
+"slideshow": true,
 "donation_app": false
 },
 "is_shell_account": false,
@@ -41255,43 +41255,6 @@
 }
 },
 {
-"id": "XAlyVWdb",
-"uuid": "b52b2c40-9de7-468b-8fc5-7650387a7b80",
-"name": "Masjid Yaseen",
-"address": "325 N 3rd Street",
-"city": "San Jose",
-"state": "California",
-"country": "US",
-"longitude": "-121.8901",
-"latitude": "37.3400",
-"zipcode": "95112",
-"phone": "-",
-"meta": "-",
-"email": "Info@musallas.org",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": false,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "8K9q5nKp",
 "uuid": "509d41b5-eaad-43eb-b153-7221c868293a",
 "name": "Masjid Yaseen",
@@ -41314,6 +41277,43 @@
 "premium_features": {
 "app": false,
 "slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
+}
+}
+},
+{
+"id": "XAlyVWdb",
+"uuid": "b52b2c40-9de7-468b-8fc5-7650387a7b80",
+"name": "Masjid Yaseen",
+"address": "325 N 3rd Street",
+"city": "San Jose",
+"state": "California",
+"country": "US",
+"longitude": "-121.8901",
+"latitude": "37.3400",
+"zipcode": "95112",
+"phone": "-",
+"meta": "-",
+"email": "Info@musallas.org",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": false,
 "donation_app": false
 },
 "is_shell_account": false,
@@ -44696,43 +44696,6 @@
 }
 },
 {
-"id": "kAkj8zLq",
-"uuid": "8e1e9eed-e5a4-4512-b706-16d597d863d2",
-"name": "Muslim Education Center",
-"address": "4301 Shamrock Dr",
-"city": "Charlotte",
-"state": "North Carolina",
-"country": "US",
-"longitude": "-80.7504",
-"latitude": "35.2299",
-"zipcode": "28215",
-"phone": "-",
-"meta": "-",
-"email": "alialhakim94@gmail.com",
-"website_url": "-",
-"event_url": "-",
-"donation_url": "-",
-"audio_url": "-",
-"prayer_timing_url": "-",
-"app_premium_features": false,
-"premium_features": {
-"app": false,
-"slideshow": true,
-"donation_app": false
-},
-"is_shell_account": false,
-"iqamah_settings": {
-"athan": {
-"enabled": false,
-"fajr_offset": "0",
-"zuhr_offset": "0",
-"asr_offset": "0",
-"maghrib_offset": "0",
-"isha_offset": "0"
-}
-}
-},
-{
 "id": "lJAmz4dR",
 "uuid": "6e70d392-bf18-4d33-ae06-13615439db5a",
 "name": "Muslim Education Center",
@@ -44766,6 +44729,43 @@
 "asr_offset": 0,
 "maghrib_offset": 0,
 "isha_offset": 0
+}
+}
+},
+{
+"id": "kAkj8zLq",
+"uuid": "8e1e9eed-e5a4-4512-b706-16d597d863d2",
+"name": "Muslim Education Center",
+"address": "4301 Shamrock Dr",
+"city": "Charlotte",
+"state": "North Carolina",
+"country": "US",
+"longitude": "-80.7504",
+"latitude": "35.2299",
+"zipcode": "28215",
+"phone": "-",
+"meta": "-",
+"email": "alialhakim94@gmail.com",
+"website_url": "-",
+"event_url": "-",
+"donation_url": "-",
+"audio_url": "-",
+"prayer_timing_url": "-",
+"app_premium_features": false,
+"premium_features": {
+"app": false,
+"slideshow": true,
+"donation_app": false
+},
+"is_shell_account": false,
+"iqamah_settings": {
+"athan": {
+"enabled": false,
+"fajr_offset": "0",
+"zuhr_offset": "0",
+"asr_offset": "0",
+"maghrib_offset": "0",
+"isha_offset": "0"
 }
 }
 },

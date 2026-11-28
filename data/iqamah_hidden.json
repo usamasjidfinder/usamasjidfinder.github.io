@@ -23,7 +23,7 @@
    "fajr": "4:30 AM",
    "dhuhr": "1:00 PM",
    "asr": "5:30 PM",
-   "maghrib": "5:26 PM",
+   "maghrib": "5:25 PM",
    "isha": "9:15 PM"
   },
   "shown": {}
@@ -59,13 +59,13 @@
    "fajr": "6:15 AM",
    "dhuhr": "1:30 PM",
    "asr": "6:00 PM",
-   "maghrib": "5:02 PM",
+   "maghrib": "5:01 PM",
    "isha": "9:00 PM"
   },
   "shown": {
    "fajr": "6:15 AM",
    "dhuhr": "1:30 PM",
-   "maghrib": "5:02 PM",
+   "maghrib": "5:01 PM",
    "isha": "9:00 PM"
   }
  },
@@ -117,7 +117,7 @@
    "fajr": "5:00 AM",
    "dhuhr": "1:15 PM",
    "asr": "6:15 PM",
-   "maghrib": "4:52 PM",
+   "maghrib": "4:51 PM",
    "isha": "10:00 PM"
   },
   "shown": {}
@@ -141,7 +141,7 @@
    "fajr": "5:15 AM",
    "dhuhr": "1:10 PM",
    "asr": "5:00 PM",
-   "maghrib": "4:54 PM",
+   "maghrib": "4:53 PM",
    "isha": "9:30 PM"
   },
   "shown": {}
@@ -177,13 +177,13 @@
    "fajr": "6:30 AM",
    "dhuhr": "1:30 PM",
    "asr": "5:00 PM",
-   "maghrib": "4:56 PM",
+   "maghrib": "4:55 PM",
    "isha": "8:00 PM"
   },
   "shown": {
    "fajr": "6:30 AM",
    "dhuhr": "1:30 PM",
-   "maghrib": "4:56 PM",
+   "maghrib": "4:55 PM",
    "isha": "8:00 PM"
   }
  },
@@ -194,13 +194,13 @@
    "fajr": "5:50 AM",
    "dhuhr": "1:30 PM",
    "asr": "5:30 PM",
-   "maghrib": "4:50 PM",
+   "maghrib": "4:49 PM",
    "isha": "8:45 PM"
   },
   "shown": {
    "fajr": "5:50 AM",
    "dhuhr": "1:30 PM",
-   "maghrib": "4:50 PM",
+   "maghrib": "4:49 PM",
    "isha": "8:45 PM"
   }
  },
@@ -390,13 +390,13 @@
    "fajr": "6:15 AM",
    "dhuhr": "2:00 PM",
    "asr": "5:32 PM",
-   "maghrib": "5:34 PM",
+   "maghrib": "5:33 PM",
    "isha": "9:31 PM"
   },
   "shown": {
    "fajr": "6:15 AM",
    "dhuhr": "2:00 PM",
-   "maghrib": "5:34 PM",
+   "maghrib": "5:33 PM",
    "isha": "9:31 PM"
   }
  },
@@ -407,13 +407,13 @@
    "fajr": "6:30 AM",
    "dhuhr": "2:00 PM",
    "asr": "6:30 PM",
-   "maghrib": "5:34 PM",
+   "maghrib": "5:33 PM",
    "isha": "9:30 PM"
   },
   "shown": {
    "fajr": "6:30 AM",
    "dhuhr": "2:00 PM",
-   "maghrib": "5:34 PM",
+   "maghrib": "5:33 PM",
    "isha": "9:30 PM"
   }
  },
@@ -436,13 +436,13 @@
    "fajr": "6:30 AM",
    "dhuhr": "1:30 PM",
    "asr": "4:30 PM",
-   "maghrib": "4:27 PM",
+   "maghrib": "4:26 PM",
    "isha": "8:00 PM"
   },
   "shown": {
    "fajr": "6:30 AM",
    "dhuhr": "1:30 PM",
-   "maghrib": "4:27 PM",
+   "maghrib": "4:26 PM",
    "isha": "8:00 PM"
   }
  },
@@ -450,7 +450,7 @@
   "stale": true,
   "source": "Masjidal (set by masjid)",
   "listed": {
-   "fajr": "5:48 AM",
+   "fajr": "5:49 AM",
    "dhuhr": "1:30 PM",
    "asr": "5:45 PM",
    "maghrib": "4:38 PM",
@@ -462,17 +462,17 @@
   "stale": false,
   "source": "Masjidal (set by masjid)",
   "listed": {
-   "fajr": "5:15 AM",
-   "dhuhr": "11:38 AM",
+   "fajr": "5:16 AM",
+   "dhuhr": "11:39 AM",
    "asr": "2:41 PM",
-   "maghrib": "4:23 PM",
+   "maghrib": "4:22 PM",
    "isha": "9:15 PM"
   },
   "shown": {
-   "fajr": "5:15 AM",
-   "dhuhr": "11:38 AM",
+   "fajr": "5:16 AM",
+   "dhuhr": "11:39 AM",
    "asr": "2:41 PM",
-   "maghrib": "4:23 PM"
+   "maghrib": "4:22 PM"
   }
  },
  "Chicago Mosque (IL)": {
@@ -506,7 +506,7 @@
    "fajr": "5:15 AM",
    "dhuhr": "1:30 PM",
    "asr": "6:30 PM",
-   "maghrib": "4:27 PM",
+   "maghrib": "4:26 PM",
    "isha": "10:15 PM"
   },
   "shown": {}
@@ -530,13 +530,13 @@
    "fajr": "6:00 AM",
    "dhuhr": "1:15 PM",
    "asr": "5:15 PM",
-   "maghrib": "4:27 PM",
+   "maghrib": "4:26 PM",
    "isha": "7:30 PM"
   },
   "shown": {
    "fajr": "6:00 AM",
    "dhuhr": "1:15 PM",
-   "maghrib": "4:27 PM",
+   "maghrib": "4:26 PM",
    "isha": "7:30 PM"
   }
  },
@@ -544,16 +544,16 @@
   "stale": false,
   "source": "Masjidal (set by masjid)",
   "listed": {
-   "fajr": "6:03 AM",
+   "fajr": "6:04 AM",
    "dhuhr": "1:00 PM",
    "asr": "5:00 PM",
-   "maghrib": "4:27 PM",
+   "maghrib": "4:26 PM",
    "isha": "5:54 PM"
   },
   "shown": {
-   "fajr": "6:03 AM",
+   "fajr": "6:04 AM",
    "dhuhr": "1:00 PM",
-   "maghrib": "4:27 PM",
+   "maghrib": "4:26 PM",
    "isha": "5:54 PM"
   }
  },
@@ -686,17 +686,17 @@
   "stale": false,
   "source": "Masjidal (set by masjid)",
   "listed": {
-   "fajr": "5:47 AM",
+   "fajr": "5:48 AM",
    "dhuhr": "11:52 AM",
-   "asr": "2:15 PM",
-   "maghrib": "4:24 PM",
+   "asr": "2:14 PM",
+   "maghrib": "4:23 PM",
    "isha": "10:00 PM"
   },
   "shown": {
-   "fajr": "5:47 AM",
+   "fajr": "5:48 AM",
    "dhuhr": "11:52 AM",
-   "asr": "2:15 PM",
-   "maghrib": "4:24 PM"
+   "asr": "2:14 PM",
+   "maghrib": "4:23 PM"
   }
  },
  "Harvard University Prayer Room (MA)": {
@@ -723,7 +723,7 @@
    "fajr": "6:00 AM",
    "dhuhr": "1:30 PM",
    "asr": "5:00 PM",
-   "maghrib": "4:42 PM",
+   "maghrib": "4:41 PM",
    "isha": "9:00 PM"
   },
   "shown": {}
@@ -747,7 +747,7 @@
    "fajr": "6:20 AM",
    "dhuhr": "1:30 AM",
    "asr": "5:30 PM",
-   "maghrib": "4:55 PM",
+   "maghrib": "4:54 PM",
    "isha": "8:30 PM"
   },
   "shown": {}
@@ -764,34 +764,39 @@
   },
   "shown": {}
  },
+ "Darul Quran (MI)": {
+  "stale": false,
+  "source": "Masjidal (set by masjid)",
+  "listed": {
+   "fajr": "5:55 AM",
+   "dhuhr": "2:00 PM",
+   "asr": "5:00 PM",
+   "maghrib": "5:08 PM",
+   "isha": "8:30 PM"
+  },
+  "shown": {
+   "dhuhr": "2:00 PM",
+   "asr": "5:00 PM",
+   "maghrib": "5:08 PM",
+   "isha": "8:30 PM"
+  }
+ },
  "Insight Flint Musallah (MI)": {
   "stale": false,
   "source": "Masjidal (set by masjid)",
   "listed": {
-   "fajr": "6:48 AM",
+   "fajr": "6:49 AM",
    "dhuhr": "2:30 PM",
    "asr": "5:45 PM",
-   "maghrib": "5:08 PM",
+   "maghrib": "5:07 PM",
    "isha": "6:41 PM"
   },
   "shown": {
-   "fajr": "6:48 AM",
+   "fajr": "6:49 AM",
    "dhuhr": "2:30 PM",
-   "maghrib": "5:08 PM",
+   "maghrib": "5:07 PM",
    "isha": "6:41 PM"
   }
- },
- "Islamic Institute of Knowledge IIOK (MI)": {
-  "stale": true,
-  "source": "Masjidal (set by masjid)",
-  "listed": {
-   "fajr": "6:23 AM",
-   "dhuhr": "12:25 PM",
-   "asr": "12:32 PM",
-   "maghrib": "5:33 PM",
-   "isha": "12:07 AM"
-  },
-  "shown": {}
  },
  "Masjid Al Rahma (MI)": {
   "stale": false,
@@ -817,7 +822,7 @@
    "fajr": "4:17 AM",
    "dhuhr": "2:00 PM",
    "asr": "7:30 PM",
-   "maghrib": "5:07 PM",
+   "maghrib": "5:06 PM",
    "isha": "10:50 PM"
   },
   "shown": {}
@@ -846,7 +851,7 @@
    "fajr": "5:30 AM",
    "dhuhr": "2:00 PM",
    "asr": "7:00 PM",
-   "maghrib": "5:10 PM",
+   "maghrib": "5:09 PM",
    "isha": "6:32 PM"
   },
   "shown": {}
@@ -978,17 +983,17 @@
   "stale": false,
   "source": "Masjidal (set by masjid)",
   "listed": {
-   "fajr": "5:56 AM",
+   "fajr": "5:57 AM",
    "dhuhr": "1:30 PM",
    "asr": "5:00 PM",
    "maghrib": "4:36 PM",
-   "isha": "6:02 PM"
+   "isha": "6:01 PM"
   },
   "shown": {
-   "fajr": "5:56 AM",
+   "fajr": "5:57 AM",
    "dhuhr": "1:30 PM",
    "maghrib": "4:36 PM",
-   "isha": "6:02 PM"
+   "isha": "6:01 PM"
   }
  },
  "Baytul Iman Academy (NJ)": {
@@ -998,7 +1003,7 @@
    "fajr": "4:30 AM",
    "dhuhr": "1:00 PM",
    "asr": "4:15 PM",
-   "maghrib": "4:38 PM",
+   "maghrib": "4:37 PM",
    "isha": "10:15 PM"
   },
   "shown": {}
@@ -1024,14 +1029,14 @@
   "stale": false,
   "source": "Masjidal (set by masjid)",
   "listed": {
-   "fajr": "5:51 AM",
+   "fajr": "5:52 AM",
    "dhuhr": "1:30 PM",
    "asr": "2:41 PM",
    "maghrib": "5:00 PM",
    "isha": "9:00 PM"
   },
   "shown": {
-   "fajr": "5:51 AM",
+   "fajr": "5:52 AM",
    "dhuhr": "1:30 PM",
    "asr": "2:41 PM",
    "maghrib": "5:00 PM"
@@ -1073,7 +1078,7 @@
    "fajr": "4:15 AM",
    "dhuhr": "1:15 PM",
    "asr": "5:30 PM",
-   "maghrib": "4:30 PM",
+   "maghrib": "4:29 PM",
    "isha": "10:15 PM"
   },
   "shown": {}
@@ -1085,13 +1090,13 @@
    "fajr": "4:30 AM",
    "dhuhr": "1:20 PM",
    "asr": "2:27 PM",
-   "maghrib": "4:41 PM",
+   "maghrib": "4:40 PM",
    "isha": "6:01 PM"
   },
   "shown": {
    "dhuhr": "1:20 PM",
    "asr": "2:27 PM",
-   "maghrib": "4:41 PM",
+   "maghrib": "4:40 PM",
    "isha": "6:01 PM"
   }
  },
@@ -1102,13 +1107,13 @@
    "fajr": "6:45 AM",
    "dhuhr": "1:45 PM",
    "asr": "5:00 PM",
-   "maghrib": "4:49 PM",
+   "maghrib": "4:48 PM",
    "isha": "8:15 PM"
   },
   "shown": {
    "fajr": "6:45 AM",
    "dhuhr": "1:45 PM",
-   "maghrib": "4:49 PM",
+   "maghrib": "4:48 PM",
    "isha": "8:15 PM"
   }
  },
@@ -1167,7 +1172,7 @@
    "fajr": "6:00 AM",
    "dhuhr": "1:30 PM",
    "asr": "6:00 PM",
-   "maghrib": "4:49 PM",
+   "maghrib": "4:48 PM",
    "isha": "9:30 PM"
   },
   "shown": {}
@@ -1179,13 +1184,13 @@
    "fajr": "6:00 AM",
    "dhuhr": "1:30 PM",
    "asr": "5:15 PM",
-   "maghrib": "4:32 PM",
+   "maghrib": "4:31 PM",
    "isha": "8:00 PM"
   },
   "shown": {
    "fajr": "6:00 AM",
    "dhuhr": "1:30 PM",
-   "maghrib": "4:32 PM",
+   "maghrib": "4:31 PM",
    "isha": "8:00 PM"
   }
  },
@@ -1213,7 +1218,7 @@
    "fajr": "5:10 AM",
    "dhuhr": "1:30 PM",
    "asr": "6:15 PM",
-   "maghrib": "4:32 PM",
+   "maghrib": "4:31 PM",
    "isha": "9:50 PM"
   },
   "shown": {}
@@ -1225,7 +1230,7 @@
    "fajr": "5:00 AM",
    "dhuhr": "1:30 PM",
    "asr": "6:30 PM",
-   "maghrib": "4:35 PM",
+   "maghrib": "4:34 PM",
    "isha": "10:30 PM"
   },
   "shown": {}
@@ -1237,7 +1242,7 @@
    "fajr": "4:50 AM",
    "dhuhr": "1:30 PM",
    "asr": "5:20 PM",
-   "maghrib": "4:36 PM",
+   "maghrib": "4:35 PM",
    "isha": "9:30 PM"
   },
   "shown": {}
@@ -1398,14 +1403,14 @@
   "stale": false,
   "source": "Masjidal (set by masjid)",
   "listed": {
-   "fajr": "6:18 AM",
+   "fajr": "6:19 AM",
    "dhuhr": "1:30 PM",
    "asr": "5:15 PM",
    "maghrib": "4:40 PM",
    "isha": "5:58 PM"
   },
   "shown": {
-   "fajr": "6:18 AM",
+   "fajr": "6:19 AM",
    "dhuhr": "1:30 PM",
    "maghrib": "4:40 PM",
    "isha": "5:58 PM"
@@ -1415,28 +1420,28 @@
   "stale": false,
   "source": "Masjidal (set by masjid)",
   "listed": {
-   "fajr": "6:18 AM",
+   "fajr": "6:19 AM",
    "dhuhr": "1:30 PM",
    "asr": "4:45 PM",
-   "maghrib": "4:41 PM",
-   "isha": "6:09 PM"
+   "maghrib": "4:40 PM",
+   "isha": "6:08 PM"
   },
   "shown": {
-   "fajr": "6:18 AM",
+   "fajr": "6:19 AM",
    "dhuhr": "1:30 PM",
-   "maghrib": "4:41 PM",
-   "isha": "6:09 PM"
+   "maghrib": "4:40 PM",
+   "isha": "6:08 PM"
   }
  },
  "Joel Valle (OR)": {
   "stale": true,
   "source": null,
   "listed": {
-   "fajr": "2:54 AM",
+   "fajr": "2:55 AM",
    "dhuhr": "8:54 AM",
-   "asr": "11:07 AM",
-   "maghrib": "1:26 PM",
-   "isha": "2:54 PM"
+   "asr": "11:06 AM",
+   "maghrib": "1:25 PM",
+   "isha": "2:53 PM"
   },
   "shown": null
  },
@@ -1456,16 +1461,16 @@
   "stale": false,
   "source": "Masjidal (set by masjid)",
   "listed": {
-   "fajr": "6:02 AM",
+   "fajr": "6:03 AM",
    "dhuhr": "1:30 PM",
    "asr": "4:45 PM",
-   "maghrib": "4:42 PM",
+   "maghrib": "4:41 PM",
    "isha": "6:17 PM"
   },
   "shown": {
-   "fajr": "6:02 AM",
+   "fajr": "6:03 AM",
    "dhuhr": "1:30 PM",
-   "maghrib": "4:42 PM",
+   "maghrib": "4:41 PM",
    "isha": "6:17 PM"
   }
  },
@@ -1488,7 +1493,7 @@
    "fajr": "5:00 AM",
    "dhuhr": "1:30 PM",
    "asr": "6:00 PM",
-   "maghrib": "4:48 PM",
+   "maghrib": "4:47 PM",
    "isha": "10:00 PM"
   },
   "shown": {}
@@ -1548,13 +1553,13 @@
    "fajr": "5:30 AM",
    "dhuhr": "1:00 PM",
    "asr": "5:00 PM",
-   "maghrib": "4:22 PM",
+   "maghrib": "4:21 PM",
    "isha": "8:30 PM"
   },
   "shown": {
    "fajr": "5:30 AM",
    "dhuhr": "1:00 PM",
-   "maghrib": "4:22 PM",
+   "maghrib": "4:21 PM",
    "isha": "8:30 PM"
   }
  },
@@ -1622,23 +1627,6 @@
    "isha": "9:00 PM"
   },
   "shown": null
- },
- "Islamic Center of Aubrey (TX)": {
-  "stale": false,
-  "source": "Masjidal (set by masjid)",
-  "listed": {
-   "fajr": "6:30 AM",
-   "dhuhr": "1:00 PM",
-   "asr": "4:00 PM",
-   "maghrib": "5:26 PM",
-   "isha": "7:30 PM"
-  },
-  "shown": {
-   "fajr": "6:30 AM",
-   "asr": "4:00 PM",
-   "maghrib": "5:26 PM",
-   "isha": "7:30 PM"
-  }
  },
  "Islamic Center of Forney (TX)": {
   "stale": true,
@@ -1831,14 +1819,14 @@
   "source": "Masjidal (set by masjid)",
   "listed": {
    "fajr": "6:00 AM",
-   "dhuhr": "12:12 PM",
+   "dhuhr": "12:13 PM",
    "asr": "2:45 PM",
    "maghrib": "4:54 PM",
    "isha": "10:00 PM"
   },
   "shown": {
    "fajr": "6:00 AM",
-   "dhuhr": "12:12 PM",
+   "dhuhr": "12:13 PM",
    "asr": "2:45 PM",
    "maghrib": "4:54 PM"
   }
@@ -1903,7 +1891,7 @@
    "fajr": "5:15 AM",
    "dhuhr": "1:30 PM",
    "asr": "5:30 PM",
-   "maghrib": "4:54 PM",
+   "maghrib": "4:53 PM",
    "isha": "9:30 PM"
   },
   "shown": {}
@@ -1968,7 +1956,7 @@
    "fajr": "6:15 AM",
    "dhuhr": "1:40 PM",
    "asr": "6:15 PM",
-   "maghrib": "4:24 PM",
+   "maghrib": "4:23 PM",
    "isha": "9:15 PM"
   },
   "shown": {}

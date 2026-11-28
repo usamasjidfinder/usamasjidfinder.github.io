@@ -8,14 +8,14 @@
  "abubakr-islamic-of-center-tukwila-wa": [
   "events: Expecting value: line 1 column 1 (char 0)"
  ],
+ "cypress-islamic-center-cypress-tx": [
+  "events: Expecting value: line 1 column 1 (char 0)"
+ ],
  "islamic-society-of-southern-texas-corpus-christi-tx": [
   "events: HTTP Error 404: Not Found"
  ],
  "masjid-darussalam-lombard-il": [
   "events: HTTP Error 404: Not Found"
- ],
- "mecca-center-willowbrook-il": [
-  "events: <urlopen error _ssl.c:994: The handshake operation timed out>"
  ],
  "imca-indianapolis-muslim-community-association-indianapolis-in": [
   "events: HTTP Error 404: Not Found"
@@ -26,11 +26,17 @@
  "iscny-islamic-community-center-jamesville-ny": [
   "events: HTTP Error 404: Not Found"
  ],
- "minnesota-da-wah-institute-st-paul-mn": [
-  "events: HTTP Error 404: Not Found"
+ "dar-al-qalam-islamic-center-minneapolis-mn": [
+  "events: Expecting value: line 1 column 1 (char 0)"
+ ],
+ "darul-huda-houston-tx": [
+  "events: Expecting value: line 1 column 1 (char 0)"
  ],
  "iamc-colleyville-masjid-colleyville-tx": [
   "mohid: HTTP Error 404: Not Found"
+ ],
+ "islamic-society-of-augusta-martinez-ga": [
+  "events: Expecting value: line 1 column 1 (char 0)"
  ],
  "islamic-society-of-framingham-framingham-ma": [
   "events: Expecting value: line 1 column 1 (char 0)"
@@ -50,7 +56,16 @@
  "masjid-salman-al-farsi-tucker-ga": [
   "events: HTTP Error 403: Forbidden"
  ],
+ "peace-islamic-center-burke-va": [
+  "events: Expecting value: line 1 column 1 (char 0)"
+ ],
  "picc-hampton-va": [
   "mohid: HTTP Error 404: Not Found"
+ ],
+ "princeton-islamic-center-pic-princeton-tx": [
+  "events: Expecting value: line 1 column 1 (char 0)"
+ ],
+ "zia-musallah-zakaria-islamic-academy-chantilly-va": [
+  "events: Expecting value: line 1 column 1 (char 0)"
  ]
 }

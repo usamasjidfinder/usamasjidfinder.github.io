@@ -1,3 +1,13 @@
 {
- "Ithna-asheri Muslim Association of the Northwest (IMAN) (WA)": "the Jumu'ah times are gone from https://www.iman-wa.org/; the site still shows 12:00 PM"
+ "Masjid Al-Ansar (CA)": "the Jumu'ah times are gone from https://www.wcismasjid.com/; the site still shows 1:10 PM",
+ "First Hijrah Muslim Community Center (DC)": "the Jumu'ah times are gone from http://firsthijrah.org; the site still shows 12:00 PM, 1:00 PM",
+ "Masjid Jamaat Al-Mumineen (FL)": "the Jumu'ah times are gone from http://www.margatemasjid.org/; the site still shows 2:00 PM",
+ "Islamic Center of Manhattan (KS)": "the Jumu'ah times are gone from https://icmks.org/; the site still shows 1:15 PM",
+ "Islamic Center of Topeka (KS)": "the Jumu'ah times are gone from http://topekamosque.org/; the site still shows 1:15 PM",
+ "First Hijrah Foundation (MD)": "the Jumu'ah times are gone from http://firsthijrah.org/; the site still shows 12:30 PM",
+ "Upper Valley Muslim Society (NH)": "the Jumu'ah times are gone from https://www.uvms.org/; the site still shows 1:10 PM",
+ "Masjid Ibrahim Bethany Musalla (OR)": "the Jumu'ah times are gone from https://masjid-ibrahim.com/; the site still shows 12:30 PM",
+ "al-Masjid al-Awwal (PA)": "the Jumu'ah times are gone from https://firstmuslimmosque.com/; the site still shows 1:30 PM",
+ "Islamic Center of Bothell (WA)": "the Jumu'ah times are gone from https://bothellmosque.org; the site still shows 12:45 PM, 1:30 PM",
+ "Ithna-asheri Muslim Association of the Northwest (IMAN) (WA)": "the Jumu'ah times on https://www.iman-wa.org/ changed: the page used to show 12:00 PM, now 12:15 PM. The site still shows 12:00 PM; check the page and update mosques_seed.json (jumuah and jumuah_watch.seen)."
 }
